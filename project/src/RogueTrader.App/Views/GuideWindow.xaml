@@ -1,0 +1,176 @@
+<Window x:Class="RogueTrader.App.Views.GuideWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Как создать персонажа"
+        SizeToContent="Manual"
+        Width="780" Height="660"
+        MinWidth="560" MinHeight="420"
+        WindowStartupLocation="CenterOwner"
+        ShowInTaskbar="False"
+        ResizeMode="CanResize"
+        UseLayoutRounding="True"
+        Background="{StaticResource BgBrush}"
+        Foreground="{StaticResource TextBrush}"
+        FontFamily="Segoe UI"
+        FontSize="13"
+        TextOptions.TextFormattingMode="Display"
+        WindowStyle="None"
+        AllowsTransparency="False">
+  <WindowChrome.WindowChrome>
+    <WindowChrome CaptionHeight="0"
+                  ResizeBorderThickness="6"
+                  GlassFrameThickness="0"
+                  CornerRadius="0"
+                  UseAeroCaptionButtons="False" />
+  </WindowChrome.WindowChrome>
+
+  <Border BorderBrush="{StaticResource BorderBrush}" BorderThickness="1">
+    <Grid>
+      <Grid.RowDefinitions>
+        <RowDefinition Height="Auto"/>
+        <RowDefinition Height="*"/>
+        <RowDefinition Height="Auto"/>
+      </Grid.RowDefinitions>
+
+      <!-- Шапка окна -->
+      <Border Grid.Row="0" Background="{StaticResource PanelBrush}"
+              BorderBrush="{StaticResource BorderSoftBrush}" BorderThickness="0,0,0,1"
+              Padding="18,12">
+        <Grid>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+          </Grid.ColumnDefinitions>
+          <StackPanel Grid.Column="0">
+            <TextBlock Text="Как создать персонажа" FontSize="18" FontWeight="Bold"/>
+            <TextBlock Style="{StaticResource Faint}" FontSize="12" Margin="0,2,0,0"
+                       Text="По правилам Rogue Trader 2nd Edition: в билдере ровно те же правила, что в книгах."/>
+          </StackPanel>
+          <Button Grid.Column="1" Style="{StaticResource CaptionCloseButton}" Click="OnClose"
+                  ToolTip="Закрыть" AutomationProperties.Name="Закрыть окно">
+            <Path Data="M 0,0 L 10,10 M 10,0 L 0,10" StrokeThickness="1.2" Fill="Transparent"
+                  Stroke="{Binding Foreground, RelativeSource={RelativeSource AncestorType=Button}}"/>
+          </Button>
+        </Grid>
+      </Border>
+
+      <!-- Содержимое -->
+      <ScrollViewer Grid.Row="1" Style="{StaticResource Scroll}" Padding="16,14,16,14">
+        <StackPanel>
+
+          <TextBlock Text="Порядок создания" Style="{StaticResource Heading}" Margin="0,0,0,6"/>
+          <TextBlock Style="{StaticResource Faint}" FontSize="12" Margin="0,0,0,10"
+                     Text="Шаги идут в том же порядке, что и в книге. Всё, что выдаёт предысторию, попадает в лист само — вручную добавлять нужно только то, чего у персонажа в жизни не было."/>
+
+          <Border Style="{StaticResource Card}" Padding="14,12" Margin="0,0,0,10">
+            <StackPanel>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="1. Род занятий" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — раздел «Лист». Задаёт начальные умения, таланты, снаряжение и таблицу улучшений."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="2. Родной мир" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — раздел «Путь». Даёт награду и три строки таблицы жизненного пути."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="3. Уготованная судьба" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — «Путь». Судьба персонажа и её награда."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="4. Путь в пустоту" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — «Путь». Три строки таблицы жизненного пути и награда."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="5. Испытание и страдание" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — «Путь». Препятствие и награда за него."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="6. Устремление" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — «Путь». Амбиция и её награда."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="7. Наследие" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — «Путь». Семейное наследство и его награда."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="8. Характеристики" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — «Лист», кнопка «Перебросить характеристики». Бросок даёт 25–45 на характеристику."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap">
+                <Run Text="9. Улучшения" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — раздел «Улучшения»: свободные 500 очков опыта тратятся на покупку улучшений по таблице рода занятий."/>
+              </TextBlock>
+            </StackPanel>
+          </Border>
+
+          <TextBlock Text="Из чего складывается характеристика" Style="{StaticResource Heading}" Margin="0,4,0,6"/>
+          <Border Style="{StaticResource Card}" Padding="14,12" Margin="0,0,0,10">
+            <StackPanel>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="База" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — начальное значение по броску и ваши правки."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="Улучш." Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — покупается за опыт по таблице улучшений рода занятий (шаг 5, максимум +20). Вручную не меняется."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="Прочее" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — надбавки от вида, предыстории, снаряжения и талантов. Считаются системой, вручную не меняются."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4">
+                <Run Text="Правки" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" — ручные правки мастера: недостаток, излишек, ошибка броска. Бесплатно."/>
+              </TextBlock>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap">
+                <Run Text="Итог" Foreground="{StaticResource GoldBrush}" FontWeight="SemiBold"/>
+                <Run Text=" = База + Улучш. + Прочее + Правки."/>
+              </TextBlock>
+            </StackPanel>
+          </Border>
+
+          <TextBlock Text="Правила по книгам" Style="{StaticResource Heading}" Margin="0,4,0,6"/>
+          <Border Style="{StaticResource Card}" Padding="14,12" Margin="0,0,0,10">
+            <StackPanel>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• 4500 очков опыта уже потрачены при создании — их нельзя тратить повторно; 500 очков свободны для создания персонажа."/>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• Ранги 1–8; ранг считается от суммы всего опыта."/>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• Порог ранений = бросок 1к5 (по виду или по пути) + 1 + бонус × 2."/>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• Очки судьбы при создании — 3."/>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• Психика: доступ к трём дисциплинам, базовый приём дисциплины бесплатный, остальные приёмы — за опыт."/>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• Доход: бросок 1к10 задаёт уровень дохода."/>
+              <TextBlock Style="{StaticResource Faint}" FontSize="12.5" TextWrapping="Wrap"
+                         Text="• Силы навигатора не тратят очки опыта и не бросают тест сотворения психосилы."/>
+            </StackPanel>
+          </Border>
+
+          <TextBlock Text="Куда что вносить" Style="{StaticResource Heading}" Margin="0,4,0,6"/>
+          <Border Style="{StaticResource Card}" Padding="14,12">
+            <StackPanel>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• Таланты — раздел «Таланты», психические приёмы — «Психика», снаряжение — «Снаряжение»."/>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap" Margin="0,0,0,4"
+                         Text="• «Свои предметы» — для находок, подарков и прочего, чего нет в официальном снаряжении."/>
+              <TextBlock Style="{StaticResource Muted}" FontSize="12.5" TextWrapping="Wrap"
+                         Text="• Всё, что выдаёт предысторию, начисляется само; вручную добавляется только то, чего в жизни персонажа не было."/>
+            </StackPanel>
+          </Border>
+
+        </StackPanel>
+      </ScrollViewer>
+
+      <!-- Подвал -->
+      <Border Grid.Row="2" Background="{StaticResource PanelBrush}"
+              BorderBrush="{StaticResource BorderSoftBrush}" BorderThickness="0,1,0,0"
+              Padding="18,10">
+        <Button Content="Закрыть" Style="{StaticResource PrimaryButton}" Click="OnClose"
+                HorizontalAlignment="Right" MinWidth="110"/>
+      </Border>
+    </Grid>
+  </Border>
+</Window>

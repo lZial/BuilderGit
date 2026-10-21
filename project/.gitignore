@@ -1,0 +1,22 @@
+## Сборка
+bin/
+obj/
+dist/
+*.user
+
+## Данные
+# Встроенный дата-пак генерируется из книг (tools/build_datapack.py).
+# Если вы держите его в репозитории — раскомментируйте:
+# data/builtin/*.json
+
+## Персонажи и экспорт пользователей
+data/characters/
+data/export/
+
+## Хоумбрю: образец в репозитории, свои паки — нет
+data/userdata/*
+!data/userdata/example.json
+
+## Прочее
+.vs/
+*.log

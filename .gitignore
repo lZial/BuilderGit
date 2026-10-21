@@ -1,0 +1,20 @@
+## Сборка
+bin/
+obj/
+dist/
+*.user
+
+## Логи и отчёты
+*.log
+crash.log
+
+## Персонажи и экспорт пользователей
+portable/data/characters/
+portable/data/export/
+
+## Скриншоты — в репозитории не нужны
+screenshots/
+
+## Прочее
+.vs/
+__pycache__/

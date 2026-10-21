@@ -1,0 +1,27 @@
+{
+ "stats": {
+  "characteristics": 9,
+  "skills": 138,
+  "talents": 174,
+  "ranks": 135,
+  "careers": 33,
+  "items": 409,
+  "augmetics": 33,
+  "drugs": 8,
+  "storm_items": 190,
+  "homeworld": 12,
+  "destiny": 10,
+  "voidpath": 9,
+  "hardship": 9,
+  "aspiration": 10,
+  "legacy": 6,
+  "inclination": 6,
+  "elite": 5,
+  "trait": 1,
+  "wounds": 12,
+  "species": 13,
+  "castes": 5,
+  "combat_suits": 7
+ },
+ "warnings": []
+}

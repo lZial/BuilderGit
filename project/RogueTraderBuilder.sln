@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RogueTrader.Core", "src\RogueTrader.Core\RogueTrader.Core.csproj", "{2C4A1F0E-5B3D-4A77-9E11-7C0D9A8B4F31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RogueTrader.App", "src\RogueTrader.App\RogueTrader.App.csproj", "{6F1B7D23-8A44-4C90-B3E2-5D17C6E9A204}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{A7D4E9B1-3F62-4E85-9C07-2B8F1D6E5A93}", "SolutionItems"
+	ProjectSection(SolutionItems) = preProject
+		data\userdata\example.json = data\userdata\example.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{3E8C5D72-9A16-4B3F-8D50-7F1B2C4E6D85}", "SolutionItems"
+	ProjectSection(SolutionItems) = preProject
+		tools\build_datapack.py = tools\build_datapack.py
+		tools\fetch_data.ps1 = tools\fetch_data.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4A1F0E-5B3D-4A77-9E11-7C0D9A8B4F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4A1F0E-5B3D-4A77-9E11-7C0D9A8B4F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4A1F0E-5B3D-4A77-9E11-7C0D9A8B4F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4A1F0E-5B3D-4A77-9E11-7C0D9A8B4F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1B7D23-8A44-4C90-B3E2-5D17C6E9A204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1B7D23-8A44-4C90-B3E2-5D17C6E9A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1B7D23-8A44-4C90-B3E2-5D17C6E9A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1B7D23-8A44-4C90-B3E2-5D17C6E9A204}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5E9C341-7A62-4D18-9F30-6C1A8E4B3D27}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>RogueTrader.App</RootNamespace>
+    <AssemblyName>RogueTraderBuilder</AssemblyName>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <UseWPF>true</UseWPF>
+    <StartupObject>RogueTrader.App.App</StartupObject>
+    <PublishSingleFile>false</PublishSingleFile>
+    <SatelliteResourceLanguages>ru;en</SatelliteResourceLanguages>
+    <!-- Версия программы: показывается в карточке «О программе» и в заголовке окна. -->
+    <Version>1.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="QuestPDF" Version="2024.12.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RogueTrader.Core\RogueTrader.Core.csproj" />
+  </ItemGroup>
+
+  <!-- В режиме разработки данные берутся из ../../data/builtin (два уровня выше bin) -->
+  <ItemGroup Condition="'$(Configuration)' == 'Debug'">
+    <None Include="$(MSBuildThisFileDirectory)..\..\data\builtin\*.json"
+          Link="data\builtin\%(Filename)%(Extension)"
+          CopyToOutputDirectory="PreserveNewest" Condition="Exists('$(MSBuildThisFileDirectory)..\..\data\builtin')" />
+  </ItemGroup>
+
+  <!--
+    Portable-публикация: рядом с exe раскладывается data\ (встроенный пак + хоумбрю + персонажи).
+    Пользовательские данные намеренно НЕ затираются при пересборке — только создаются.
+  -->
+  <Target Name="CopyDataPackForPublish" AfterTargets="Publish">
+    <ItemGroup>
+      <PublishPackFiles Include="$(MSBuildThisFileDirectory)..\..\data\builtin\*.json" />
+      <PublishUserFiles Include="$(MSBuildThisFileDirectory)..\..\data\userdata\*.json" />
+    </ItemGroup>
+    <Copy SourceFiles="@(PublishPackFiles)" DestinationFolder="$(PublishDir)data\builtin\" SkipUnchangedFiles="true" Condition="'@(PublishPackFiles)' != ''" />
+    <Copy SourceFiles="@(PublishUserFiles)" DestinationFolder="$(PublishDir)data\userdata\" SkipUnchangedFiles="true" Condition="'@(PublishUserFiles)' != ''" />
+    <MakeDir Directories="$(PublishDir)data\characters" />
+    <MakeDir Directories="$(PublishDir)data\export" />
+    <WriteLinesToFile File="$(PublishDir)data\README.txt" Lines="Папка data используется билдером.; builtin — данные из книг правил (не редактируйте); userdata — ваши хоумбрю-паки (*.json); characters — сохранённые персонажи; export — PDF и прочий экспорт.; При удалении data/userdata билдер создаст её заново." Overwrite="true" />
+  </Target>
+
+</Project>
