@@ -1,0 +1,1047 @@
+{
+  "species": [
+    {
+      "id": "human",
+      "name": "Человек",
+      "book": "core",
+      "lang": "ru",
+      "description": "Обычный человек Империума.",
+      "bonus": {},
+      "talents": [],
+      "skills": [],
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [],
+      "elitePackages": [],
+      "source": "core",
+      "size": 0,
+      "sizeNote": ""
+    },
+    {
+      "id": "afriel_strain",
+      "name": "Afriel Strain (африэльная линия)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 to all Characteristics",
+      "bonus": {
+        "ws": 5,
+        "bs": 5,
+        "str": 5,
+        "tou": 5,
+        "dex": 5,
+        "int": 5,
+        "per": 5,
+        "wil": 5,
+        "fel": 5
+      },
+      "talents": [],
+      "skills": [],
+      "startingEquipment": [
+        "Upgrade one piece of gear from the Afriel's Career Path to Best Craftsmanship."
+      ],
+      "careers": [],
+      "specialRules": [],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Afriel Strain",
+      "traits": [
+        "Bred for Purpose",
+        "Fortune Unanswered",
+        "Non-Imperial",
+        "Not Quite Human",
+        "Socially Bereft",
+        "Valuable Investment"
+      ],
+      "startingWounds": {
+        "const": 3,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+3 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 1
+    },
+    {
+      "id": "felinids",
+      "name": "Felinids (фелиниды)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Agility, +5 Intelligence, -5 Perception, -10 Willpower, +5 Fellowship",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tou": 0,
+        "dex": 5,
+        "int": 5,
+        "per": -5,
+        "wil": -10,
+        "fel": 5
+      },
+      "talents": [
+        "catfall"
+      ],
+      "skills": [
+        "acrobatics",
+        "climb",
+        "contortionist",
+        "dodge"
+      ],
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "notes": "New Traits section (page 17) prints only Non-Imperial and Not Quite Human; Dark Sight is listed in the trait block without a description.",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Felinids",
+      "traits": [
+        "Dark Sight",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 1,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+1 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "longshanks",
+      "name": "Longshanks (долговязые)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: -5 Strength, -5 Toughness, +5 Intelligence, +5 Perception",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": -5,
+        "tou": -5,
+        "dex": 0,
+        "int": 5,
+        "per": 5,
+        "wil": 0,
+        "fel": 0
+      },
+      "talents": [
+        "technical_knock"
+      ],
+      "skills": [
+        "common_lore_tech",
+        "tech_use",
+        "trade"
+      ],
+      "startingEquipment": [
+        "Longshank Reinforced Carapace",
+        "Longshank Reinforced Void Suit"
+      ],
+      "careers": [],
+      "specialRules": [
+        "Longshank Biology: \"Longshank biology is incredibly fragile after generations of adaptation to low gravity environments. When not in low gravity environments their bodies begin to collapse on themselves causing 1d5 points of Toughness Damage per round as their skeleton begins to shatter. This can be avoided by wearing a suit of armor or void suit that is designed to support the Longshank's weight.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 5,
+      "sizeNote": "Черта породы «Размер (Hulking)» — Крупный (5).",
+      "nameEn": "Longshanks",
+      "traits": [
+        "Longshank Biology",
+        "Non-Imperial",
+        "Not Quite Human",
+        "Size (Hulking)",
+        "Void Accustomed (See page 19 of the Rogue Trader Core Rulebook)"
+      ],
+      "startingWounds": {
+        "const": 0,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5 + 2x Toughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "neandors",
+      "name": "Neandors (неандоры)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Strength, +5 Toughness, +5 Willpower, -5 Intelligence, -5 Fellowship",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": 0,
+        "int": -5,
+        "per": 0,
+        "wil": 5,
+        "fel": -5
+      },
+      "talents": [
+        "melee_weapon_training",
+        "resistance"
+      ],
+      "skills": [
+        "survival",
+        "tracking"
+      ],
+      "startingEquipment": [
+        "Best Craftsmanship Primitive Weapon"
+      ],
+      "careers": [],
+      "specialRules": [
+        "High Gravity Accustomed: \"Neandor have grown strong on Hyannoth IV and are able to tolerate high gravity environments with no difficulty. Neandor ignore all the penalties for High Gravity worlds (See page 269 of the Rogue Trader Core Rulebook). In addition, when not on high gravity worlds they add 4 to the total of their Strength and Toughness Bonus for determining Carrying Capacity.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Neandors",
+      "traits": [
+        "High Gravity Accustomed",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 2,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+2 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "nightsiders",
+      "name": "Nightsiders (ночники)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: Perception +10, Fellowship -5",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tou": 0,
+        "dex": 0,
+        "int": 0,
+        "per": 10,
+        "wil": 0,
+        "fel": -5
+      },
+      "talents": [
+        "heightened_senses"
+      ],
+      "skills": [
+        "awareness",
+        "concealment",
+        "silent_move"
+      ],
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "Nightsider: \"Nightsiders have an innate ability to perceive their surroundings through means not available to normal humans. Nightsiders begin play with the Grotesque Mutation (see page 396 of the Rogue Trader Core Rulebok) and one of the following mutations\" (Nightsider / Uncanny Senses / See Without Eyes).",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Nightsiders",
+      "traits": [
+        "Nightsider",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 0,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "ogryn",
+      "name": "Ogryn (огрин)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: Strength +5, Toughness +5, Agility -10, Intelligence -10",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": -10,
+        "int": -10,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "talents": [
+        "exotic_weapon_training"
+      ],
+      "skills": [],
+      "startingEquipment": [
+        "Best Craftsmanship Ripper Gun (Replaces weapons normally granted by Career Path)",
+        "one Ogryn sized suit of armor granted by Career Path"
+      ],
+      "careers": [],
+      "specialRules": [
+        "Claustrophobic: \"Despite their fearsome and fearless nature, Ogryns are extremely claustrophobic. They will not enter caves, basements, ruins, infantry fighting vehicles like the Chimera, or even smaller than average buildings, of their own free will. Commanding Officers can order them into such places, but suffer a –10 penalty to any Command Skill Tests to do so, and Ogryns suffer a –10 to all Tests when so confined.\"",
+        "Clumsy: \"Ogryn’s hands are not only much larger than those of a normal human, but also far stronger, and most Ogryn have a hard time using them to perform delicate, or even normal, tasks. Because of this, Ogryn cannot use most weapons made for humans, as they tend to break them when they try. Any weapon which is not the Frag Grenade, Ripper Gun, Autocannon, or Heavy Stubber cannot be used by a character with the Clumsy Trait. If an Ogryn ever has 30 or more in Agility AND Intelligence, they are considered to have become intelligent enough to handle other weapons and lose this trait, effectively becoming a Bone'ead.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1.",
+        "Bone'ead (from the Roleplaying Tips, page 32): \"To count as a Bone'ead, you will need to get your Agility and Intelligence scores to 30 or higher. This represents the development of the neural enhancements of the Bone'ead augmentation in your character, and allows them to play a much more intelligent and creative Ogryn.\""
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "notes": "The Ogryn traits block lists Unnatural Strength (x2) and Unnatural Toughness (x2) but the New Traits section prints effect text only for Claustrophobic, Clumsy, Non-Imperial and Not Quite Human.",
+      "size": 0,
+      "sizeNote": "В блоке черт огрина размер не напечатан; размер по умолчанию — Средний (4).",
+      "nameEn": "Ogryn",
+      "traits": [
+        "Claustrophobic",
+        "Clumsy",
+        "Non-Imperial",
+        "Not Quite Human",
+        "Unnatural Strength (x2)",
+        "Unnatural Toughness (x2)"
+      ],
+      "startingWounds": {
+        "const": 3,
+        "dice": 5,
+        "unmodified": true,
+        "text": "1d5+3 + 2x Unmodified Toughness Bonus"
+      },
+      "startingFatePoints": 1
+    },
+    {
+      "id": "pelagers",
+      "name": "Pelagers (пелагеры)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Strength, +5 Toughness, -10 Agility, +5 Intelligence, -5 Fellowship",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": -10,
+        "int": 5,
+        "per": 0,
+        "wil": 0,
+        "fel": -5
+      },
+      "talents": [],
+      "skills": [
+        "chem_use",
+        "medicae",
+        "scholastic_lore",
+        "swim"
+      ],
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "Amphibious: \"Pelagers can breathe water as well as air and can stay underwater indefinitely without the need to surface. They also gain a +20 bonus to all Swim (S) Tests, and do not suffer any movement penalties whilst acting underwater. Pelagers do still suffer penalties for attempting to utilize unsuitable weapons underwater.\"",
+        "Improved Natural Weapons (Jaws): \"Pelager's jaws are incredibly sharp and can pierce even advanced armor. Characters with this trait gain the Natural Weapons trait (See page 366 of the Rogue Trader Core rulebook) and remove the Primitive quality from their Natural Weapons.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Pelagers",
+      "traits": [
+        "Amphibious",
+        "Improved Natural Weapons (Jaws)",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 1,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+1 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "ratlings",
+      "name": "Ratlings (крысоловы)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Ballistic Skill, -5 Strength, -5 Toughness, +5 Agility, +5 Perception",
+      "bonus": {
+        "ws": 0,
+        "bs": 5,
+        "str": -5,
+        "tou": -5,
+        "dex": 5,
+        "int": 0,
+        "per": 5,
+        "wil": 0,
+        "fel": 0
+      },
+      "talents": [],
+      "skills": [
+        "awareness",
+        "concealment",
+        "silent_move",
+        "trade"
+      ],
+      "startingEquipment": [
+        "Common Craftsmanship Long-Las"
+      ],
+      "careers": [],
+      "specialRules": [
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 3,
+      "sizeNote": "Черта породы «Размер (Scrawny)» — Небольшой (3).",
+      "nameEn": "Ratlings",
+      "traits": [
+        "Non-Imperial",
+        "Not Quite Human",
+        "Size (Scrawny)"
+      ],
+      "startingWounds": {
+        "const": 0,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "scalies",
+      "name": "Scalies (скали)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Strength, +5 Toughness, -5 Agility, -5 Fellowship",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": -5,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": -5
+      },
+      "talents": [
+        "disturbing_voice",
+        "hardy",
+        "melee_weapon_training"
+      ],
+      "skills": [
+        "awareness",
+        "survival"
+      ],
+      "startingEquipment": [
+        "Common Craftsmanship Primitive Weapon"
+      ],
+      "careers": [],
+      "specialRules": [
+        "Limb Regeneration: \"Scalies have an uncanny ability to regenerate limbs if they are severed. Any time that a Scalie suffers a Removed Limb Critical Effect, it is still removed, but after 1d5-Toughness Bonus Days (Minimum 1) the limb reforms and all penalties from the wound are removed.\"",
+        "Scaly Hide: \"Scalies have a tough reptilian hide that is capable of absorbing a tremendous amount of punishment. Scalies gain the Natural Armour (2) Trait, which stacks with any worn armour.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 5,
+      "sizeNote": "Черта породы «Размер (Hulking)» — Крупный (5).",
+      "nameEn": "Scalies",
+      "traits": [
+        "Limb Regeneration",
+        "Non-Imperial",
+        "Not Quite Human",
+        "Scaly Hide",
+        "Size (Hulking)"
+      ],
+      "startingWounds": {
+        "const": 2,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+2 + 2x Toughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "squats",
+      "name": "Squats (скваты)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Strength, +5 Toughness, -5 Agility, +5 Intelligence, -5 Perception, -5 Fellowship",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": -5,
+        "int": 5,
+        "per": -5,
+        "wil": 0,
+        "fel": -5
+      },
+      "talents": [],
+      "skills": [
+        "common_lore_tech",
+        "forbidden_lore",
+        "tech_use",
+        "trade"
+      ],
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "High Gravity Accustomed: \"Squats have grown strong on their mining colonies and are able to tolerate high gravity environments with no difficulty. Squats ignore all the penalties for High Gravity worlds (See page 269 of the Rogue Trader Core Rulebook). In addition, when not on high gravity worlds they add 4 to the total of their Strength and Toughness Bonus for determining Carrying Capacity.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "notes": "The Squats' New Traits block prints only \"High Gravity Accustomed\", \"Non-Imperial\" and \"Not Quite Human\" (no separate \"New Traits\" heading on page 56).",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Squats",
+      "traits": [
+        "High Gravity Accustomed",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 2,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+2 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "troth",
+      "name": "Troth (троты)",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Characteristics: +5 Strength, +5 Toughness, +5 Agility, -5 Intelligence, -5 Perception, -5 Fellowship",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": 5,
+        "int": -5,
+        "per": -5,
+        "wil": 0,
+        "fel": -5
+      },
+      "talents": [
+        "melee_weapon_training"
+      ],
+      "skills": [
+        "scholastic_lore_beasts",
+        "survival",
+        "tracking"
+      ],
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "Arboreal: \"Troth have certain traits that plants do, and as such can breathe normally in a carbon-dioxide rich environment and oxygen one. They can also absorb nutrients through small root-like growths from their feet, allowing them to sustain themselves reliably in far more barren climates than most humans. They may also (at the GM's Discretion) be able to breathe underwater, provided that there is sufficient light to power the photosynthetic process. Should there ever not be, they will begin to suffocate according to the rules presented on page 261 of the Rogue Trader Core Rulebook. If an atmosphere has abundance of neither carbon-dioxide or oxygen they begin to suffocate as normal.\"",
+        "Bio-Organic Recycling: \"In large groups, Troth can increase the time a ship can spend in the Void by recycling air and consuming composted refuse. Any ship that has a percentage of Troth crew may increase the time they spend in the void without resupplying by a percentage equal to the percentage of Troth crew up to fifty percent.\"",
+        "Non-Imperial: This Character was not raised amongst humans, and knows little about the culture and history of the Imperium. The laws, traditions, religion and superstitions of Mankind are unfamiliar and alien to Characters with this trait. The character suffers a -10 penalty on all Common Lore, Forbidden Lore and Scholastic Lore tests relating to the Imperium of Man.",
+        "Not Quite Human: While biologically divergent evolutions of humanity, Abhumans are still treated with a degree of distrust by the rest of Humanity. Abhuman characters count all Fellowship-based tests as being one step more difficult when dealing with creatures of a species other than its own. Additionally, those of other species treat their Fellowship-based tests as being one step more difficult when dealing with him. These penalties do not apply when dealing with individuals who have come to trust the Abhuman player character, for whatever reason (although the final arbitrator of this is the GM). Finally, the presence of any Abhuman aboard a human vessel is unsettling for the crew, and as rumours spread, discontent over the alien presence in their midst becomes noticeable. The continued presence of one or more Abhuman player characters aboard a ship reduces its Morale by 1."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "",
+      "nameEn": "Troth",
+      "traits": [
+        "Arboreal",
+        "Bio-Organic Recycling",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 1,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+1 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2
+    },
+    {
+      "id": "kruut",
+      "name": "Круут",
+      "book": "stormstout",
+      "lang": "ru",
+      "description": "Характеристики для персонажей-круутов определяются по тем же принципам, что и для людей. Однако, в отличие от универсальной формулы 25+2к10, разные характеристики у круутов имеют разные стартовые значения. Таблица 2-1 «Характеристики круутов» (столбец «2к10+»): Ближний бой 30; Дальний бой 25; Сила 25; Выносливость 25; Ловкость 30; Интеллект 20; Восприятие 25; Сила воли 25; Товарищество 20.",
+      "bonus": {},
+      "talents": [
+        "mercenary"
+      ],
+      "skills": [],
+      "startingEquipment": [
+        "круутская винтовка",
+        "мононож",
+        "круутская кожаная броня",
+        "пустотный костюм, приспособленный для круута",
+        "вокс-бусина"
+      ],
+      "careers": [],
+      "specialRules": [
+        "{\"id\": \"fieldcraft\", \"name\": \"Выживание в диких краях (Fieldcraft)\", \"effect\": \"Круут получает бонус +10 ко всем тестам «Скрытности», «Слежки» и «Бесшумного шага». Кроме того, круут считает леса, джунгли и им подобную местность открытой.\"}",
+        "{\"id\": \"eaters_of_the_dead\", \"name\": \"Трупоед (Eaters of the Dead)\", \"effect\": \"Крууты печально известны обычаем пожирать убитых врагов. В случае нужды они могут съесть даже своих сородичей. Круут, что пожирает свежий труп (что считать «свежим» – решать ведущему, но обычно это трупу не должно быть больше двадцати четырёх часов; кроме того, это должно быть тело некогда живого существа – механизмы и демоны не годятся!), получает количество дополнительных ран, равное немодифицированному бонусу Выносливости, которым обладал труп, когда был живым (обычно это будет БВ 3). Количество таких дополнительных ран не может превышать собственный бонус Выносливости круута и сохраняется на количество часов, равное бонусу Выносливости круута (или пока не будут потеряны – смотря, что раньше). В отличие от обычных ран, эти дополнительные раны теряются за счёт урона от любой успешной атаки и всегда снимаются раньше «обычных ран». Кроме того, круут, что наелся свежей мертвечины, исцеляет полученный урон вдвое быстрее, а при любом восстановлении ран иным способом (например, при помощи психосил) восстанавливает на одну рану больше. Этот эффект ускоренного лечения действует количество часов, равное удвоенному бонусу Выносливости персонажа. Круут может восстанавливать дополнительные раны, лишь снова поедая мертвечину. Если круут съест труп, всё ещё имея бонусы от предыдущего съеденного трупа, он теряет старые дополнительные раны и получает новые.\"}",
+        "{\"id\": \"kroot_beak\", \"name\": \"Круутский клюв (Kroot Beak)\", \"effect\": \"Клюв круута – это природное оружие (см. стр. 345 «Базовой книги правил»), имеющее профиль 1к5+БС Р, Примитивное.\"}",
+        "{\"id\": \"kroot_physiology\", \"name\": \"Физиология круутов (Kroot Physiology)\", \"effect\": \"Крууты намного лучше чувствуют себя в лёгкой броне или той, что сами подберут с убитых врагов. Если круут носит доспех, что предоставляет более 3 очков брони, он теряет преимущества от особенностей «Сверхъестественное Восприятие» и «Выживание в диких краях» («Сверхъестественное Восприятие» отсутствует у персонажей-круутов изначально, но его можно приобрести).\"}",
+        "{\"id\": \"medicae_kruut\", \"name\": \"Медицинская помощь\", \"effect\": \"Все тесты «Медики», предпринятые к круутам, автоматически становятся на одну ступень сложнее. Сделанные людьми наркотики обычно почти не действуют на круутов, но яды и токсины оказывают свой обычный эффект. Ведущий может решить, что некоторые препараты всё же действуют на круутов и сам определить, насколько сильно.\"}",
+        "{\"id\": \"no_bionics\", \"name\": \"Бионика\", \"effect\": \"Бионика у круутов не встречается – их скелеты и мускулатура таковы, что нормально установить кибернетические протезы почти невозможно. Тем не менее, ведущий может позволить круутам пользоваться некоторой бионикой и кибернетическими имплантатами, но необходимо помнить, что такие вещи чужды круутам, как физиологически, так и культурно.\"}",
+        "{\"id\": \"kroot_technology\", \"name\": \"Крууты и технологии\", \"effect\": \"Крууты не терпят тяжёлой брони – им больше по душе подвижность, которую даёт их уникальная мускулатура и скелет. Кроме того, тела и пластика круутов почти не дают им носить броню, созданную для людей, а подгонка снаряжения для круута – дело дорогое. Любое человеческое оружие, броня или снаряжение, приспособленное для использования круутом, обладает доступностью ниже на одну ступень (т. е. тест для его получения усложняется).\"}",
+        "{\"id\": \"gender_kruut\", \"name\": \"Пол\", \"effect\": \"Хотя существуют крууты-мужчины и крууты-женщины, культурных различий между ними почти нет. Крууты получают бонус +20 к сопротивлению любым попыткам соблазнения не-круутами.\"}",
+        "{\"id\": \"corruption_kruut\", \"name\": \"Крууты и порча\", \"effect\": \"Искушения Губительных сил не соблазняют круутов так сильно, как представителей других рас. Персонажи-крууты получают очки порчи по общим правилам, но действуют эти очки немного по-другому.\"}",
+        "{\"id\": \"madness_kruut\", \"name\": \"Крууты и безумие\", \"effect\": \"Персонажи-крууты накапливают очки безумия по общим правилам. Ведущему стоит хорошо подумать, какие психические расстройства подойдут круутам. Вряд ли один из них сможет заработать страх перед мертвецами.\"}"
+      ],
+      "elitePackages": [],
+      "source": "stormstout",
+      "notes": "Крууты не используют систему жизненного пути (если ведущий не решит обратного). Круутский род – это нечто среднее между кланом и племенем: группа воинов, что служат формирователю или совету такой. Персонаж-круут может выбрать, к какому роду принадлежит. Игроки, играющие за круутов, рекомендуются лишь опытным игрокам, хорошо знакомым со вселенной Warhammer 40000.",
+      "size": 0,
+      "sizeNote": "",
+      "characteristicBase": {
+        "ws": 30,
+        "bs": 25,
+        "str": 25,
+        "tou": 25,
+        "dex": 30,
+        "int": 20,
+        "per": 25,
+        "wil": 25,
+        "fel": 20
+      },
+      "startingWounds": {
+        "const": 3,
+        "dice": 5,
+        "useBonus": true,
+        "unmodified": false,
+        "text": "2 × бонус Выносливости + 1к5+3"
+      },
+      "startingFate": {
+        "low": 2,
+        "high": 3,
+        "dice": 10,
+        "text": "бросок 1к10: на 1-5 — два очка судьбы, на 6-10 — три"
+      },
+      "traits": [
+        "Трупоед",
+        "Выживание в диких краях",
+        "Круутский клюв",
+        "Физиология круутов",
+        "Медицинская помощь",
+        "Бионика",
+        "Крууты и технологии",
+        "Пол",
+        "Крууты и порча",
+        "Крууты и безумие"
+      ]
+    },
+    {
+      "id": "ork",
+      "name": "Орк",
+      "book": "stormstout",
+      "lang": "ru",
+      "description": "Характеристики персонажей-орков определяются одновременно. Вместо универсальной формулы «25+2к10», что принята у людей, орки обладают своими показателями для каждой характеристики. Таблица 2-2 «Характеристики орков»: Ближний бой 2к10+35; Дальний бой 2к10+15; Сила 2к10+35; Выносливость 2к10+30; Ловкость 2к10+20; Интеллект 2к10+15; Восприятие 2к10+20; Сила воли 2к10+20; Товарищество 2к10+15.",
+      "bonus": {},
+      "talents": [
+        "iron_jaw",
+        "true_grit",
+        "furious_assault",
+        "xenos_weapon_training"
+      ],
+      "skills": [
+        "common_lore_orks",
+        "intimidate",
+        "speak_language_ork"
+      ],
+      "startingEquipment": [
+        "стреляло среднего качества или пуляло хорошего качества",
+        "рубило высшего качества или большое рубило хорошего качества",
+        "орочий пустотный костюм",
+        "куртка и штаны из шкуры сквига",
+        "трофейный шлем или череп",
+        "1к5 зубов"
+      ],
+      "careers": [],
+      "specialRules": [
+        "{\"id\": \"common_abilities\", \"name\": \"Расхожие умения\", \"effect\": \"Все орки получают умение «Обыденное знание (Орки) (Инт)», «Запугивание (Сил)» и «Языкознание (Орочий) (Инт)» в качестве изученных базовых умений.\"}",
+        "{\"id\": \"make_it_work\", \"name\": \"А ну работай! (Make It Work)\", \"effect\": \"По причинам, до сих пор непостижимым для имперских учёных, в руках орков их снаряжение работает даже тогда, когда явно должно выйти из строя. Орочье оружие со свойством «Ненадёжное» теряет это свойство в руках орка.\"}",
+        "{\"id\": \"ded_ard_feature\", \"name\": \"Здоровяк (‘Ard)\", \"effect\": \"Орки получают особенность «Сверхъестественная Выносливость (×2)» и «Коренастое», а также таланты «Железная челюсть» и «Каменная кожа». Кроме того, организмы орков настолько выносливы, что все тесты «Медики», предпринятые к оркам, получают бонус +20.\"}",
+        "{\"id\": \"might_makes_right\", \"name\": \"Кто сильнее, тот и прав (Might Makes Right)\", \"effect\": \"Имея дело с зеленокожими (другими орками, гретчинами, сморчками) орк может использовать умение «Запугивание» вместо «Командования». Одним тестом можно подействовать на количество зеленокожих, не превышающее бонус Силы орка. На не-зеленокожих эта особенность не действует.\"}",
+        "{\"id\": \"made_fer_fightin\", \"name\": \"Создан для драки (Made Fer Fightin’)\", \"effect\": \"Орки получают таланты «Неистовый натиск» и «Владение ксенооружием (Орочье)».\"}",
+        "{\"id\": \"mob_rule\", \"name\": \"Чувство локтя (Mob Rule)\", \"effect\": \"За каждого дружественного орка в пределах десяти метров, орк получает бонус +10 к тестам Силы воли, предпринятым для сопротивления страху и подавлению огнём.\"}",
+        "{\"id\": \"medicae_ork\", \"name\": \"Медицинская помощь\", \"effect\": \"В случае с орками это искупает их природная выносливость, благодаря которой врачебные ошибки редко могут причинить им серьёзный вред или убить. Это же касается применения наркотиков и стимуляторов – созданные людьми препараты могут не действовать на орков или оказывать совершенно неожиданный эффект. Вы можете просто считать, что человеческие наркотики не оказывают воздействия на зеленокожего, если тот не пройдёт тест Выносливости, но ведущий может отступать от этого правила в зависимости от обстоятельств.\"}",
+        "{\"id\": \"ork_bionics\", \"name\": \"Бионика и ауга\", \"effect\": \"Предназначенная для людей бионика может не работать у орка так, как задумывалось или не работать вовсе, а подойдёт ли орку изготовленная людьми аугметика – решать ведущему. Орочья «ауга» – совершено другое дело. С точки зрения игровой механики персонажи-орки могут устанавливать себе орочьи аналоги обычной бионики (с разрешения ведущего). Такая «ауга» может быть только низкого или среднего качества, должна весить хотя бы вдвое больше человеческих моделей и быть сплошь покрыта грубыми сварочными швами, болтами, поршнями и выхлопными трубами. Ведущий может запретить орку любую бионику, которую сочтёт неподходящей для зеленокожих – например, улучшение калькулуса логи, кортексный имплантат, направляющую матрицу, оружейный БМУ, писчие руки или имплантат-предохранитель.\"}",
+        "{\"id\": \"fits_or_breaks\", \"name\": \"Налезет ò наденем, не налезет ò сломаем\", \"effect\": \"У зеленокожих большие и неуклюжие руки, а потому им сложно пользоваться устройствами других рас, включая людей – переключатели и шкалы для них слишком малы. Телосложение не позволяет оркам нормально носить доспехи иных рас – в особенности, жёсткую броню, вроде панцирной или силовой. Зеленокожий просто не сможет втиснуться в доспех штурмовика, сделанный для человека. Подгонка снаряжения для орка – дело требовательное к расходам и искусству мастера-ремесленника.\"}",
+        "{\"id\": \"orks_have_no_gender\", \"name\": \"Бойцы\", \"effect\": \"Орки бесполы. Эти ксеносы размножаются спорами, что периодически выпускают их тела на протяжении всей жизни и в миг смерти, а потому понятие пола, что существует у множества иных рас, неприменимо к оркам и непонятно им. Вкупе с воинственным мировоззрением и тем фактом, что перед вами не люди, это означает, что орка попросту невозможно соблазнить.\"}",
+        "{\"id\": \"chaos_and_corruption\", \"name\": \"Хаос и Гадость\", \"effect\": \"Орки, служащие богам Хаоса, или попросту поддавшиеся оскверняющему влиянию Варпа, встречаются так редко, что о них почти никто не слышал. Тёмным богам намного сложнее прельстить орка, а их тела куда устойчивее к воздействию Хаоса, чем человеческие. Орки не получают очков порчи.\"}",
+        "{\"id\": \"loonies\", \"name\": \"Дурилы\", \"effect\": \"Орки получают очки безумия по общим правилам, но они не действуют на них до тех, пока их не станет сто. Накопивший 100 очков безумия орк окончательно дуреет и выходит из игры.\"}",
+        "{\"id\": \"training_or_instinct\", \"name\": \"Обучение или инстинкт?\", \"effect\": \"С точки зрения игровой механики различий нет – персонаж-орк так же получает очки опыта и тратит на улучшения характеристик, покупку умений и талантов (в том числе уникальных для орков). Чем является такое развитие – настоящим обучением новому или усилением врождённых инстинктов – решать ведущему и игроку.\"}"
+      ],
+      "elitePackages": [],
+      "source": "stormstout",
+      "notes": "Орки – сильные, крепкие, деятельные и свирепые существа. Такие герои рекомендуются лишь опытным игрокам, хорошо знакомым со вселенной Warhammer 40000, и создаются по иным правилам. Орки практически не подходят для политических интриг, социального взаимодействия и тайных расследований.",
+      "size": 0,
+      "sizeNote": "",
+      "characteristicBase": {
+        "ws": 35,
+        "bs": 15,
+        "str": 35,
+        "tou": 30,
+        "dex": 20,
+        "int": 15,
+        "per": 20,
+        "wil": 20,
+        "fel": 15
+      },
+      "startingWounds": {
+        "const": 1,
+        "dice": 5,
+        "useBonus": true,
+        "unmodified": true,
+        "text": "2 × бонус Выносливости + 1к5+1 (без «Сверхъестественной Выносливости»)"
+      },
+      "startingFate": {
+        "low": 1,
+        "high": 2,
+        "dice": 10,
+        "text": "бросок 1к10: на 1-5 — одно очко судьбы, на 6-10 — два"
+      },
+      "traits": [
+        "А ну работай!",
+        "Здоровяк",
+        "Кто сильнее, тот и прав",
+        "Создан для драки",
+        "Чувство локтя",
+        "Медицинская помощь",
+        "Бионика и ауга",
+        "Налезет — наденем, не налезет — сломаем",
+        "Бойцы",
+        "Хаос и Гадость",
+        "Дурилы",
+        "Обучение или инстинкт?"
+      ]
+    },
+    {
+      "id": "beastman_gors",
+      "name": "Beastman — Горс (Gors)",
+      "nameEn": "Gors",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Самый распространённый вид зверей — их узнают по рогам.",
+      "bonus": {
+        "ws": 5,
+        "bs": 0,
+        "str": 5,
+        "tou": 0,
+        "dex": 0,
+        "int": -5,
+        "per": -5,
+        "wil": 0,
+        "fel": 5
+      },
+      "skills": [
+        "command",
+        "intimidate"
+      ],
+      "talents": [
+        "air_of_authority"
+      ],
+      "traits": [
+        "Improved Natural Weapons (Horns)",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 1,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5+1 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2,
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "Размер в книге для горсов не указан."
+    },
+    {
+      "id": "beastman_bray",
+      "name": "Beastman — Брей (Bray)",
+      "nameEn": "Bray",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Большинство зверей, что не горсы: их узнают по отсутствию рогов и звуку, который они издают, когда собираются вместе.",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": 5,
+        "int": -5,
+        "per": 0,
+        "wil": 0,
+        "fel": -5
+      },
+      "skills": [
+        "acrobatics",
+        "carouse",
+        "dodge"
+      ],
+      "talents": [
+        "decadence"
+      ],
+      "traits": [
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 0,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5 + 2xToughness Bonus"
+      },
+      "startingFatePoints": 2,
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "Размер в книге для бреев не указан."
+    },
+    {
+      "id": "beastman_turnskin",
+      "name": "Beastman — Тёрнскин (Turnskin)",
+      "nameEn": "Turnskin",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Рождённые людьми звери; они пользуются путём происхождения как обычно, но могут дополнительно взять черту «Улучшенное природное оружие (Рога)» — либо отказаться от неё.",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 0,
+        "tou": 0,
+        "dex": 0,
+        "int": 0,
+        "per": 0,
+        "wil": 0,
+        "fel": 0
+      },
+      "skills": [],
+      "talents": [],
+      "traits": [
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingFatePoints": 0,
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "В книге у тёрнскинов нет ни характеристик, ни умений, ни талантов: «Turnskin utilize the Origin Path as normal, but may also choose to also gain the Improved Natural Weapons (Horns) trait, though they may decline it» (стр. 12).",
+        "Шаманы — отдельная подраса зверей, одарённых связью с варпом: черта «Психозверь» ограничивает их путём Астропат-Трансцендент."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "Размер в книге для тёрнскинов не указан.",
+      "startingWounds": null
+    },
+    {
+      "id": "beastman_minotaurs",
+      "name": "Beastman — Минотавры (Minotaurs)",
+      "nameEn": "Minotaurs",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Крупная и агрессивная порода зверей: сопоставимы по размеру и силе с огрином.",
+      "bonus": {
+        "ws": 0,
+        "bs": 0,
+        "str": 5,
+        "tou": 5,
+        "dex": 0,
+        "int": -10,
+        "per": 0,
+        "wil": -10,
+        "fel": -10
+      },
+      "skills": [
+        "intimidate"
+      ],
+      "talents": [
+        "frenzy"
+      ],
+      "traits": [
+        "Brutal Charge",
+        "Improved Natural Weapons (Horns)",
+        "Non-Imperial",
+        "Not Quite Human",
+        "Size (Hulking)",
+        "Unnatural Strength (x2)",
+        "Unnatural Toughness (x2)"
+      ],
+      "startingWounds": {
+        "const": 3,
+        "dice": 5,
+        "unmodified": true,
+        "text": "1d5+3 + 2x Unmodified Toughness Bonus"
+      },
+      "startingFatePoints": 1,
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 5,
+      "sizeNote": "Черта породы «Размер (Hulking)» — Крупный (5)."
+    },
+    {
+      "id": "beastman_shaman",
+      "name": "Beastman — Шаманы (Shamans)",
+      "nameEn": "Shamans",
+      "book": "abhuman",
+      "lang": "en",
+      "description": "Особый вид зверей: шаманы связаны с варпом и служат посредниками между зверями и Хаосом.",
+      "bonus": {
+        "ws": -5,
+        "bs": 0,
+        "str": 0,
+        "tou": -5,
+        "dex": 0,
+        "int": 5,
+        "per": 5,
+        "wil": 5,
+        "fel": 0
+      },
+      "skills": [
+        "forbidden_lore"
+      ],
+      "talents": [],
+      "traits": [
+        "Beastman Psyker",
+        "Improved Natural Weapons (Horns)",
+        "Non-Imperial",
+        "Not Quite Human"
+      ],
+      "startingWounds": {
+        "const": 0,
+        "dice": 5,
+        "unmodified": false,
+        "text": "1d5 + 2x Toughness Bonus"
+      },
+      "startingFatePoints": 2,
+      "startingEquipment": [],
+      "careers": [],
+      "specialRules": [
+        "Шаманы получают черту «Психозверь»: она ограничивает их путём Астропат-Трансцендент."
+      ],
+      "elitePackages": [
+        {
+          "name": "One of the Masses",
+          "effect": "Gain the They Were The Most...Human trait (detailed below)."
+        }
+      ],
+      "source": "abhuman",
+      "size": 0,
+      "sizeNote": "Размер в книге для шаманов не указан."
+    }
+  ]
+}

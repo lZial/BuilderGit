@@ -1,0 +1,4325 @@
+
+
+===== PAGE 1 =====
+Abhuman Character Guide
+Abhuman Character Guide
+Something Other Than Human
+Something Other Than Human
+
+
+===== PAGE 2 =====
+2
+Table of Contents
+Using The Abhuman Character Guide
+  3
+What Are Abhumans?
+  4
+Chapter 1: The Afriel Strain
+  5
+Creating Afriel Characters
+  7
+Chapter 2: Beastmen
+  8
+Creating Beastman Characters
+12
+Chapter 3: Felinids
+14
+Creating Felinid Characters
+17
+Chapter 4: Longshanks
+18
+Creating Longshank Characters
+21
+Chapter 5: Neandors
+22
+Creating Neandor Characters
+26
+Chapter 6: Nightsiders
+27
+Creating Nightsider Characters
+29
+Chapter 7: Ogryn
+30
+Creating Ogryn Characters
+33
+Chapter 8: Pelagers
+34
+Creating Pelager Characters
+38
+Chapter 9: Ratlings
+39
+Creating Ratling Characters
+43
+Chapter 10: Scalies
+44
+Creating Scalie Characters
+46
+Chapter 11: Squats
+47
+Creating Squat Characters
+56
+Chapter 12: Troth
+57
+Creating Troth Characters
+60
+Elite Advance Packages
+61
+A Note from the Author
+62
+Artist Credits
+63
+Table of Contents
+
+
+===== PAGE 3 =====
+     This guide is a set of rules meant to provide 
+guidelines for playing one of the many 
+Abhuman Races presented in the Warhammer 
+40,000 Universe.  To properly make use of this 
+guide the Rogue Trader Core Rulebook is 
+required.
+Creating Abhuman Characters  
+     Abhuman Characters are still members of 
+humanity, but have traits that are endemic of 
+their divergent upbringing.  As such, creating 
+Abhuman Characters is slightly different from 
+creating Human Explorers.
+     Abhuman Characters are created by 
+following the same steps as Human explorers as 
+detailed on page 13 of the Rogue Trader Core 
+Rulebook, with the following changes noted 
+below.
+Stage 1: Generating Characteristics
+     This step remains unchanged and uses the 
+rules set forth in the Rogue Trader Core 
+Rulebook.
+Stage 2: The Origin Path
+     Do not use the origin path when creating 
+Abhuman characters.  Instead, apply the racial 
+modifications presented in this guide in each 
+section of this guide.  Once this is complete, 
+select a Career Path as normal.
+Stage 3: Spend Experience Points
+     Abhuman characters begin play with the 
+same amount of experience as human 
+Explorers.  This step remains unchanged and 
+uses the rules set forth in the Rogue Trader 
+Core Rulebook.
+Stage 4: Giving Characters Life
+     This step remains unchanged and uses the 
+rules set forth in the Rogue Trader Core 
+Rulebook.  Feel free to use the information 
+provided within this guide or create your own 
+as a guideline.
+Stage 5: Profit Factor and Ship Points
+     This step remains unchanged and uses the 
+rules set forth in the Rogue Trader Core 
+Rulebook.
+Stage 6: Select Equipment
+     This step remains unchanged and uses the 
+rules set forth in the Rogue Trader Core 
+Rulebook.  Some Abhuman Characters may 
+receive additional equipment as part of their 
+racial modifications.
+Stage 7: Play Rogue Trader
+     Congratulations, you have created an 
+Abhuman character and are ready to play 
+Rogue Trader!
+Creating Characters
+Using the Abhuman Character Guide
+3
+
+
+===== PAGE 4 =====
+4
+Abhuman History
+Source Disclaimer: Lore in this section is from 
+wh40k.lexicanum.com and is taken from Inquisitor 
+Rulebook Part II, Necromunda Outlander's rulebook, and 
+Warhammer 40,000 6th Edition Rulebook.
+     Abhumans are human subspecies - 
+descendants of humans who have physically 
+evolved after long periods of isolation on 
+worlds with various extreme environmental 
+conditions. 
+     The Imperium recognizes 73 stable 
+abhuman strains, of which 46 types are now 
+listed as extinct, with a further 12 suggesting 
+they too have died out or been assimilated into 
+the greater population. The status of the 
+remaining 15 strains is an issue of constant 
+debate within the Administratum's Tithes 
+Chamber Notaries, sub. Planetary Census 
+(Abhumans), the administrative body that deals 
+with Abhuman affairs.
+     In an Imperium where genetic mutation and 
+spiritual corruption are often interrelated, 
+abhumans are a focus of much controversy. In 
+more liberal times under the Emperor, even 
+markedly divergent abhumans such as the 
+Beastmen could serve in the Imperial Guard. 
+Since the Emperor's stasis however, only the 
+lesser deviants, such as Ogryns and Ratlings, 
+are considered Imperial citizens. However, they 
+are still distrusted by the more puritan members 
+of the Inquisition.
+     Imperial Guard armies may make use of 
+Abhumans. These Beastmen (or Homo sapiens 
+variatus), Mutant Slave Levies (ordinary 
+mutant slaves rounded up for cannon fodder), 
+Feral Ogryns (even nastier and more primitive 
+than regular Ogryns), Nightsiders (originating 
+from worlds of perpetual or near-perpetual 
+darkness, little to no ability to see but perfect 
+warriors for Night Fighting missions), Afriel 
+Strain Soldiers (genetically engineered from 
+DNA taken from great heroes of the Imperium, 
+very unlucky and unpopular), Subs (relatively 
+genetically stable but still hideously deformed 
+mutant sub-breeds) and Gland Warriors 
+(Imperial Guardsmen implanted with special 
+organs and glands that secrete combat-useful 
+chemicals, such as stimms and pain-killers). 
+What Are Abhumans?
+
+
+===== PAGE 5 =====
+Source Disclaimer: Lore in this section is taken from 
+wh40k.lexicanum.com and is referenced from White 
+Dwarf 303.
+     The Afriel Strain was a shadowy 
+experimental process which used genetic 
+material from a number of the Imperium's 
+greatest heroes to, in effect, make clones of 
+them. The legendary Macharius was among the 
+individuals replicated in this manner.
+     The Afriel Strain was an attempt to create 
+the perfect soldier, though it resulted in 
+unforeseen mishaps. For no reason that their 
+creators could ascertain, the Afriels appeared to 
+attract the animosity of other warriors and 
+suffer from the most appalling bad luck. In each 
+case when the Afriel Strain has been fielded, it 
+has met with a period of success - for its 
+soldiers are undoubtedly superior - followed by 
+a rapid decline and destruction of the regiment. 
+Nonetheless, whoever the creators of the Afriel 
+Strain may be, they continue to experiment, 
+fielding their "perfect soldiers" across the war 
+zones of the Imperium. 
+     Afriel Strain soldiers were created during an 
+experimental process, of which little is known 
+about. It was an attempt to capitalise on the 
+characteristics of the heroes of the Imperium's 
+genetic material, using all the best traits which 
+made them great. It was an attempt to create the 
+perfect soldier, which failed. Afriel Strain 
+warriors, for some reason, have the worst luck. 
+Afriels are normally albino, with pale alabaster 
+skin, pale hair and colourless eyes.
+ 
+Source Disclaimer: Lore beyond this point is fan written 
+and may be used or disregarded as needed.
+Afriel Strain in the Koronus Expanse\
+     Given the fluid nature of the governance of 
+the Koronus Expanse, it was seen as a ripe 
+testing ground to push the limits of the testing 
+of the Afriel Strain.  With virtually every 
+danger in the Imperium in relatively close 
+proximity, deployment and results can be 
+gained in a matter of months to years as 
+opposed to decades to centuries, a process that 
+greatly intrigues those behind the process.
+     Where exactly, if any, cloning and testing 
+facilities are located in the Koronus Expanse 
+remains a mystery, but from time to time a 
+regiment will be deployed to fight alongside the 
+Imperial Guard or in the ranks of an 
+enterprising Rogue Trader during an operation.
+     Those who are behind the project have 
+managed to remain hidden in the sector, but 
+there have been some clues uncovered as to 
+who is behind it.  Such a project would require 
+the involvement of the Ecclesiarchy and the 
+Inquisition to obtain relics for the initial 
+samples, and would require the aid of the 
+Adeptus Mechanicus for their mechanical 
+expertise.  This is purely conjecture, and it 
+could very well be that none of these parties are 
+involved, and an organization previously 
+unseen is pulling the strings.  Whoever they 
+might be, they are very well connected and 
+have an impressive array of technological 
+resources.
+Roleplaying Afriel Strain Characters
+     To be an Afriel Strain soldier is to be 
+efficient but fated for ill fortune.  There are 
+several questions to consider when making an 
+Afriel Strain character.
+     First, consider which great Imperial Warrior 
+your genetics are based off of.  What are their 
+strengths?  What are their weaknesses?  What 
+was their legacy?  How well known were they 
+within the Imperium?  Did they have any 
+natural descendants?  Does the Afriel have 
+some residual memories from their previous 
+life implanted in them?  If so is it via some 
+mysterious origin or was it implanted via 
+hypno-indoctrination while they were grown?  
+Are you a complete clone, or are there merely 
+traits that were chosen?
+Afriel History
+Chapter 1: The Afriel Strain
+5
+
+
+===== PAGE 6 =====
+6
+Afriel History
+     Second, consider how much they know 
+about the project and their role.  Are they 
+completely informed about what they are?  Are 
+they simply told they are enhanced soldiers?  
+Have they been shielded from the truth to 
+obtain unbiased test results?  Are the aware of 
+the difficulties they will face in confrontations 
+to come?
+     Third, what is their relation to the project 
+now? With the chaos that fuels the expanse, so 
+too is there a unique opportunity for the Afriel 
+deployed there.  Be it that in spite of the odds 
+they managed to survive but be declared dead, 
+that they saw an opportunity to escape the 
+testing facility and stow away, that they were 
+sold to an organization as mercenary troops, or 
+that they were able to call upon an inherent 
+cunning to achieve it, some manage to escape 
+the testing facility and embark out among the 
+universe as individuals.  They still face the 
+same stigmas as all Afriel, but have the benefit,
+or lack thereof, of not having any of their 
+fellows to help them through the rejection.  Still 
+more might be fully aware of their purpose and 
+duty, and assigned to a Rogue Trader as 
+partially a test, partially an informant for those 
+behind the project.
+     Finally, consider how they will react to their 
+poor reception by the rest of Imperial Society.  
+Do they continue to attempt to lead their 
+fellows, driving by some innate desire?  Do 
+they begin to treat the rest of humanity in the 
+same regard?  Do they come to some epiphany 
+that was not foreseen?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game 
+while simultaneously providing a character that 
+you look forward to playing.
+
+
+===== PAGE 7 =====
+Afriel Strain Traits
+Characteristics: +5 to all Characteristics
+Starting Skills: Skill (Any) x2
+Starting Traits: Bred for Purpose, Fortune 
+Unanswered, Non-Imperial, Not Quite Human, 
+Socially Bereft, Valuable Investment
+Starting Equipment: Upgrade one piece of 
+gear from the Afriel's Career Path to Best 
+Craftsmanship.
+Starting Wounds: 1d5+3 + 2xToughness Bonus
+Starting Fate Points: 1
+New Traits
+Bred for Purpose
+     Afriel Strain embody the best of humanity 
+from an age long forgotten, and are able to out-
+perform many other Imperial citizens.  Afriel 
+gain +3 to two Characteristics of their choice 
+and +5 to all Characteristics.  They may choose 
+any two skills as Trained Skills or increase any 
+two Trained skills from their Career Path to 
+their next mastery level.  These enhancements 
+are noted in in the Afriel Traits section above. 
+Fortune Unanswered
+     Those of the Afriel Strain have a tumultuous 
+relationship with the fates, and seem to have 
+little luck in maintaining the favor of the 
+emperor in prolonged engagements.  As such, 
+whenever an Afriel Strain spends or burns a fate 
+point, they roll a d10.  On a 6 or higher, the fate 
+point functions as normal.  On a 5 or lower, the 
+fate point is still spent but nothing happens as 
+the fates pass over the Afriel's pleas for 
+assistance.  For each fate point they gain above 
+one, add 1 to these numbers.  This wound mean 
+that for an Afriel with two fate points, they 
+would have to roll a 7 or higher for it to 
+function normally, one with three would have 
+to roll 8 or higher, one with four a 9 or higher, 
+and one with five a 10.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+     
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Socially Bereft
+     Afriel Strain characters are not able to 
+interact well with those around them, and 
+regardless of how they may sound they tend to 
+incite the worst in Non-Afriel.  As such, Afriel 
+characters treat any interaction test with a 
+species other than their own as two steps more 
+difficult than normal, and other species treat 
+interactions with them as two steps more 
+difficult than normal.  The presence of one or 
+more Afriel on a starship causes an a ship to 
+reduce it's Moral by 1.  These penalties 
+combine with the Not Quite Human trait for a 
+total of 3 steps of difficulty increase in either 
+direction and 2 moral reduction total.
+Valuable Investment
+     Afriel Strain are equipped with some of the 
+best gear in the Imperium, matching their status 
+both as elite soldiers and as well funded test 
+subjects.  As such, Afriel Strain may increase 
+the quality of any one piece of starting gear to 
+Best Quality, noted in the Afriel Strain Traits 
+section above.
+Afriel Characters
+7
+Creating Afriel Strain Characters
+
+
+===== PAGE 8 =====
+8
+Beastmen History
+Source Disclaimer: Lore in this section is taken from 
+warhammer40k.wikia.com and is referenced from: Eye of 
+Terror 3rd Edition, Codex Imperialis 1st Edition, Imperial 
+Armor Volume 6, Warhammer 40k Compendium 2nd 
+Edition, Rogue Trader 1st Edition, Warhammer 40k 6th 
+Edition, and White Dwarf 124.
+     Beastmen (singular: Beastman) (Homo 
+sapiens variatus) are Abhumans descended 
+from human stock who combine the physical 
+appearances of humans and Terran animals, 
+usually goats or rams. Beastmen do not 
+necessarily look alike, and different animal 
+traits can manifest themselves in each 
+individual, but apart from this form of 
+phenotypical variation they are a genetically 
+stable human subspecies, and are considered to 
+be a form of Abhuman rather than an actual 
+mutant. The origin of Beastmen is unknown, 
+though it is likely that they they are the result of 
+experiments in genetic engineering stretching 
+back to the Dark Age of Technology before the 
+birth of the Imperium of Man who proceeded to 
+breed true. Other Imperial savants claim that 
+Beastmen are Abhumans whose unusual forms 
+were the result of exposure to the influence of 
+the Warp but that the subspecies somehow 
+managed to maintain an unusual degree of 
+genetic stability across generations. 
+     In temperament as well as appearance these 
+Abhumans are often bestial, and possess a 
+reputation for crudity, aggression and bad 
+discipline. Starting in the late 30th Millennium, 
+Beastmen were often recruited into the ranks of 
+the Imperial Army as part of the massive 
+galactic expansion of the burgeoning Imperium 
+of Man during the Great Crusade, which began 
+after circa 800.M30. Beastmen in the Imperial 
+Army were regarded as useful if highly 
+undisciplined warriors, and were ideal for 
+suicidal assaults where brawn rather than 
+tactical intellect was required. Other Imperial 
+troops disliked them intently as they were quite 
+rowdy, unsanitary and generally unpleasant for 
+baseline humans to deal with. Following the 
+events of the galaxy-wide civil war known as 
+the Horus Heresy, and the subsequent 
+restructuring of the Imperial armed forces by 
+the Ultramarines Legion Primarch Roboute 
+Guilliman according to the dictats of his 
+magnum opus, the Codex Astartes, Beastmen 
+regiments were retained in the newborn 
+Imperial Guard, where they were often led by 
+the largest and most powerful of their kind, 
+known as Packmasters.
+     Those Beastmen who have been introduced 
+to the Imperial Cult by the missionaries of the 
+Adeptus Ministorum possess a simple but fierce 
+devotion to the Emperor of Mankind and regard 
+him as a vengeful god who demands tribute in 
+the form of the blood of His enemies. These 
+fanatically religious Beastmen are driven by the 
+need to atone for their original sin of being 
+mutants by fighting in service to the Emperor.
+     In recent centuries there has been a political 
+shift within the Imperium and Beastmen are no 
+longer seen in Imperial military service; no 
+doubt the more Puritan elements of the 
+Inquisition convinced the Departmento 
+Munitorum that Beastmen could not be so 
+radically different from the genetic human 
+baseline without having been in some way 
+affected by the taint of Chaos. In the late 41st 
+Millennium, Beastmen are often now classified 
+as mutants and as a result are the subject of 
+severe Imperial persecution. They are often 
+hunted down during anti-mutant pogroms 
+conducted by the Adeptus Arbites on those 
+worlds where populations of Beastmen are 
+known to exist. This persecution, of course, has 
+led many Beastmen to seek protection in the 
+service of Chaos, thus in effect producing a 
+self-fulfilling prophecy. 
+Chapter 2: Beastmen
+
+
+===== PAGE 9 =====
+     To the fearful eyes of humanity all 
+Beastmen appear the same -- an unruly mass of 
+flesh, fur and teeth. In their ignorance they can 
+discern no distinguishing characteristics that 
+mark the different physical and social types, nor 
+any kind of social hierarchy apart from the 
+simple supremacy of the strongest. This is a 
+mistake often made by humans, whose 
+judgement of Beastmen is overwhelmed by the 
+brutal power and savagery of these creatures. In 
+fact, Beastmen society is very precise and 
+ordered, and there are several distinct levels of 
+class and rank. 
+     The most common type of Beastmen are 
+called Gors, who can be readily distinguished 
+from more lowly breeds by their horns. The 
+number of horns is not important, although it is 
+preferable that they should be on the creature's 
+head. Gors take great pride in their horns and 
+often polish, paint or decorate them to enhance 
+their natural lustre or shape. Lowly breeds look 
+to the Gors for guidance and leadership, 
+praising them endlessly in victory, and 
+grumbling behind their backs when things are 
+not going so well. Most Beastmen battle-
+leaders and the top warriors will be Gors. Gors 
+are divided into two main types and a less 
+common third type. The two main types are the 
+goat-horned Caprigors and the bull-horned 
+Bovigors. The third variety is known as the 
+Ungor, a Beastmen phrase which means 
+something akin to, "not quite right Gors" or 
+"no-horns". 
+Caprigors
+     The most common type of Gor. 
+They have curling or straight horns
+ on their head like a goat or sheep. 
+A Caprigor may have the entire head of a goat 
+and often has goat's legs as well. A Beastman 
+with these mutations but no others is called a 
+Truegor. This title is also shared by some other 
+kinds of Gor. A Caprigor Truegor is said to be 
+bigger, braver and even more clever than other 
+Caprigors. 
+Bovigors
+     Not quite as numerous as Caprigors, a 
+Bovigor bears cattle horns on his head and may 
+have the entire head of a bull or an ox. If he has 
+a bull's head and either human or goat legs he is 
+a Truegor. Bovigors are very competitive and 
+like to think they are superior to other Gors. 
+Most Bovigors believe that brawn is better than 
+brains, and many possess a great deal of the 
+former and very little of the latter. 
+Ungors
+     Ungors are not as strong or robust of frame 
+as the Gors, but they more than make up for it 
+in sheer malevolence. They are physically 
+smaller than other Beastmen and their horns, if 
+they have any at all, are less impressive and 
+less numerous. While Gors may have long and 
+spectacular horns as deadly as any sword, 
+Ungors usually have short prongs or horn buds 
+sprouting from their skulls, not recognisable as 
+those of a goat or any other type acknowledged 
+by the Gors. As a result they are not considered 
+to be "proper" Beastmen by other Gors. The 
+race of Mankind, on the other hand, does not 
+draw such distinctions. To them the Ungors are 
+just as horrible, horns or no, for they are all 
+twisted abberations of nature that live to murder 
+and despoil all that is good and wholesome. 
+Beastmen Society
+Beastmen Society
+9
+
+
+===== PAGE 10 =====
+10
+Beastmen Society
+Bray
+     The majority of Beastmen who are not Gors 
+are called Bray. The name refers to the braying, 
+whinnying, whooping cacophony that 
+Beastmen make when they band together to 
+fight or feast. Apart from lacking horns, there is 
+very little consistency in appearance that 
+distinguishes a Bray from a Gor. A very brave, 
+cunning, and unusually lucky Bray can rise to 
+become a leader, but this is not very common. 
+Gors do not like Brays giving them orders, and 
+a Bray who fails to show a Gor the proper 
+respect is asking for trouble. 
+Turnskin
+     A Turnskin is a Beastman who was born 
+human. The continual rate of mutation amongst 
+the human population throughout the galaxy 
+often results in hideous mutations. Human 
+mutants are not tolerated in their own societies, 
+and most of them are killed when their 
+mutations manifest themselves, or are driven 
+from their homes to die lonely deaths. The 
+toughest and most cunning manage to survive 
+their physical and psychological rejection and 
+come to join up with bands of Beastmen. 
+Regardless of their physical appearance, a 
+Turnskin is always a Turnskin rather than a 
+"pure" Beastman, which means he is the lowest 
+of the low as far as the Beastmen are 
+concerned. If a Turnskin has horns, they are 
+sawed off before he can be accepted by other 
+Beastmen, otherwise he could be mistaken for a 
+Gor. 
+Shaman
+     Shamans are a very special kind of 
+Beastmen because they possess psychic 
+powers. However, this fact alone is only a part 
+of what makes them special. Shamans are the 
+intermediaries between the Beastmen and the 
+Realm of Chaos itself. They can spirit-walk in 
+the Empyrean and talk with the very daemons 
+of the Chaos Gods. Shamans never lead other 
+Beastmen, but the Beastmen's strongest leaders 
+rely on them for all kinds of advice as well as 
+sorcerous aid in battle. 
+Minotaurs
+     An unusually large and aggressive strain of 
+giant Beastman, Minotaurs are comparable in 
+physical size and strength to an Ogryn. These 
+creatures are massive, bull-headed 
+monstrosities that constantly hunger for hot 
+blood and red meat. Often growing to twice the 
+height of a man and far greater in muscular 
+bulk, their thick-skulled heads are broad and 
+ugly, and their horns can eviscerate with a 
+single thrust. Minotaurs are possessed of a 
+terrible hunger for flesh, particularly the flesh 
+of Mankind. Yet it is not the gnawing hunger a 
+mortal feels when deprived of sustenance, but a 
+deep thirst for the unholy exhilaration the 
+Minotaurs experience when they consume the 
+flesh of their enemies. In this state they join 
+with the power of the Chaos Gods and share in 
+part of their unholy glory. 
+
+
+===== PAGE 11 =====
+Beastmen in the Koronus Expanse
+Source Disclaimer: Lore in this section is fan written and 
+may be used or disregarded as needed.
+     Many of the Beastmen fled to the outer 
+edges of the galaxy as they began to be 
+increasingly persecuted in the rest of the 
+Imperium.  Throwing in their lot with the many 
+clandestine characters that frequent the area, 
+they managed to find a form of protection from 
+those that would destroy them.  Some even 
+managed to find legitimacy for themselves by 
+salvaging long lost Writs of Trade that granted 
+rights to their holder.  
+     For better or worse in the Eccelesiarchy's 
+eyes, the Beastmen have managed to form a 
+somewhat stable refuge amongst the stars in the 
+Koronus Expanse.  There are several colonies 
+and holdings that Beastmen claim for 
+themselves, and for the time being at least they 
+have been accepted, largely due to lack of 
+involvement of the Coreward Worlds in the 
+politics beyond the galaxy's rim.
+     Not all who inhabit the region are 
+benevolent in nature.  Many Beastmen gave 
+themselves to the ruinous powers to avoid 
+being destroyed by the Imperium.  These forces 
+still hunt their escaped brethren, attempting to 
+force them to join their cause.  Several reports 
+have confirmed sightings of Beastmen allied 
+with the Ruinous Powers in the Koronus 
+Expanse, though the exact strength of their 
+numbers and the nature of their allegiance is 
+still unknown.
+Beastmen Roleplaying Tips
+Source Disclaimer: Lore in this section is fan written.
+     Beastmen tend towards savagery, 
+straightforwardness, and have a strangely 
+pragmatic way of interacting with the galaxy.  
+There are several important things to consider 
+when playing a Beastman character.
+     The first question to answer about your 
+character is what brought you to the Koronus 
+Expanse.  Did you directly flee the Inquisitorial 
+crackdowns that threatened to exterminate your 
+people?  Were you born of parents who had fled 
+those atrocities?  Are you the descendant of 
+Beastmen colonists who were sent to the 
+Expanse long ago, and have only recently 
+begun to reunite with the refugees who have 
+flooded in?  Is there some other reason that 
+brought you to this section of the galaxy?
+     Another thing to consider is how do you 
+view the Imperium of Man.  Do you view them 
+as largely brothers, though ones that make 
+things more complicated than need be most of 
+the time?  Do you view them as butchers 
+ruining your entire people and their history?  
+Do you view them as those attempting to gain 
+control of your species by annihilating existing 
+leadership in true Beastman fashion?
+     Finally, consider your character motivations 
+and what they wish to do.  Are they attempting 
+to make a stronger foothold for the Beastmen in 
+the Expanse?  Are they indulging in their 
+penchant for destruction and martial might?  
+Are they raising defenses for what they see as 
+an inevitable Inquisitorial invasion?  Are they 
+attempting to reunite with a lost Pack or family 
+members?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game      
+       while simultaneously providing a 
+character that you look forward to 
+   playing.
+Beastmen in the Expanse
+11
+
+
+===== PAGE 12 =====
+12
+Beastman Characters
+     Beastmen have a variety of sub-races within 
+their culture, each with a different set of traits 
+that defines them.  For more information on the 
+different types of Beastmen see entries on the 
+previous pages.
+Gors
+     The most common type of Beastmen are 
+called Gors, who can be readily distinguished 
+from more lowly breeds by their horns.
+Characteristics: +5 Weapon Skill, +5 Strength, 
+-5 Perception, -5 Intelligence, +5 Fellowship
+Skills: Command, Intimidate
+Talents: Air of Authority
+Traits: Improved Natural Weapons (Horns), 
+Non-Imperial, Not Quite Human
+Starting Wounds: 1d5+1 + 2xToughness Bonus
+Starting Fate Points: 2
+Bray
+     The majority of Beastmen who are not Gors 
+are called Bray, distinguished by their lack of 
+horns and the sound they make congregating.
+Characteristics: +5 Strength, +5 Toughness, +5 
+Agility, -5 Intelligence, -5 Fellowship
+Skills: Acrobatics, Carouse, Dodge
+Talents: Decadence
+Traits: Non-Imperial, Not Quite Human
+Starting Wounds: 1d5 + 2xToughness Bonus
+Starting Fate Points: 2
+Turnskin
+     Beastmen born as humans and rarely 
+accepted into their parent society, they often 
+seek out Beastment for a slightly improved lot 
+in life.  Turnskin utilize the Origin Path as 
+normal, but may also choose to also gain the 
+Improved Natural Weapons (Horns) trait, 
+though they may decline it.
+Shamans
+     Shamans are those Beastmen gifted with a 
+connection to the warp.
+Characteristics: -5 WS, -5 Toughness, +5 
+Intelligence, +5 Willpower, +5 Perception
+Skills: Forbidden Lore (Any)
+Traits: Beastman Psyker, Improved Natural 
+Weapons (Horns), Non-Imperial, Not Quite 
+Human
+Starting Wounds: 1d5 + 2x Toughness Bonus
+Starting Fate Points: 2
+Minotaurs
+     An unusually large and aggressive strain of 
+giant Beastman, Minotaurs are comparable in 
+physical size and strength to an Ogryn.
+Characteristics: +5 Strength, +5 Toughness, 
+-10 Intelligence, -10 Willpower, -10 Fellowship
+Skills: Intimidate
+Talents: Frenzy
+Traits: Brutal Charge, Improved Natural 
+Weapons (Horns), Non-Imperial, Not Quite 
+Human, Size (Hulking), Unnatural Strength 
+(x2), Unnatural Toughness (x2)
+Starting Wounds: 1d5+3 + 2x Unmodified 
+Toughness Bonus
+Starting Fate Points: 1
+Creating Beastman Characters
+
+
+===== PAGE 13 =====
+Beastman Psyker
+     Beastmen have different methods of 
+fostering psychic ability but are able to call 
+upon it as Imperial Psykers do.  Characters with 
+this trait are restricted to the Astropath 
+Transcendent Career Path, but do not lose 
+access to their sight.  Instead of gaining access 
+to the Telepathy Discipline and two powers 
+from it that they meet the prerequisites for, they 
+gain a Psychic Discipline of their choosing and 
+two powers from that discipline.
+Improved Natural Weapons (Horns)
+     Beastmen horns are incredibly sharp and can 
+pierce even advanced armor.  Characters with 
+this trait gain the Natural Weapons trait (See 
+page 366 of the Rogue Trader Core rulebook) 
+and remove the Primitive quality from their 
+Natural Weapons.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this
+ trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Beastmen Traits
+New Beastmen Traits
+13
+
+
+===== PAGE 14 =====
+14
+Felinid History
+Source Disclaimer: Lore in this section is taken from 
+warhammer40k.wikia.com and is referenced from White 
+Dwarf 109, Codex Imperial Guard 3rd Edition, White 
+Dwarf 110 and 303, Inquisitor Rulebook, and the 
+Warhammer 40k 6th Edition Rulebook.
+Felinids (Homo sapiens hirsutus)
+     Felinids are endemic to the Imperial world 
+of Carlos McConell. Whether this is due to the 
+particular biological requirements of that 
+planet, prior genetic modifications made to a 
+human population during the Dark Age of 
+Technology or prior Imperial regulation is 
+unknown, but they are virtually unheard of in 
+the Imperium at large. Felinids are humans who 
+have had their genomes spliced with genetic 
+sequences derived from various species of 
+Terran felines, and they possess many felinoid 
+traits, including a light covering of fur over 
+their entire body, extended canine teeth and 
+superhuman agility and grace. 
+Source Disclaimer: Lore from this point forward is fan 
+written and may be used or disregarded as needed.
+     Felinids are an abhuman strain endemic to 
+the Imperial world of Carlos McConell. The 
+exact location of Carlos McConell is a closely 
+guarded secret kept by the Administratum and 
+Inquisition.  They declared a quarantine on the 
+planet many years ago to assess the 
+classification of the Felinid species, and though 
+they have officially been classified as a strain of 
+humanity, the blockade remains in place around 
+the planet.
+     Prior to the institution of the Quarantine, 
+several Felinids were conscripted into the 
+Imperial Guard.  After First Contact certain 
+commanders thought to capitalize on the 
+inherent genetic differences that the Felinids 
+possess that might prove useful in a combat 
+situation.  With the preliminary assessments 
+leaning towards official recognition and the 
+abundance of Imperial Technology found on the 
+planet, orders were given and some Felinids 
+were permitted to join the Guard ranks.  
+Throughout these negotiations it was 
+discovered firsthand that Felinid society 
+functions very much like Imperial society in 
+many ways, which they assumed wound 
+increase their changes joining the Imperium.
+     Some of the more enterprising Felinid were 
+given passage by bartering knowledge, 
+technology, or riches to enterprising freighter 
+captains and Rogue Traders.  Those that did 
+quickly saw the benefits of expansion, 
+especially after encountering how the Imperium 
+dealt with those it did not pass benevolent 
+judgment upon.  After managing to transmit 
+this information home, many high ranking 
+officials began to work with those in the 
+Imperium who might be bought in an effort to 
+sneak out members of their species after the 
+quarantine was put into effect.  Though still 
+relatively rare in the coreward worlds, towards 
+the rim the Felinid presence has begun to be 
+noticed.
+     Felinids are humans whose genomes have 
+taken on several genetic sequences derived 
+from various species of Terran felines.  Whether 
+this is do to the biological requirements of the 
+world of Carlos McConnell or gene splicing 
+made to the ancestral population of the planet 
+during the Dark Age of Technology nobody can 
+say for certain. 
+Chapter 3: Felinids
+
+
+===== PAGE 15 =====
+ Whatever the genesis of their origins, Felinids 
+have several physical divergences from the rest 
+of humanity.  These include a covering of fur 
+over their entire body, feline ears located at the 
+top of the skull, extended canine teeth, and in 
+some a feline tail.  All Felinids have an almost 
+supernatural grace in their movements.  Their 
+eyes also function more akin to a feline's, 
+granting increased visual perception in the dark.
+Felinid Society
+     Felinid Society functions much like Imperial 
+Society.  In the cities lives a large population 
+with an in depth series of rule and regulations is 
+in place, the punishments for breaking them can 
+be harsh indeed.  Sections of the planet that 
+prove themselves to be powerful and 
+productive enough are able to vote a 
+representative to the planetary council, which in 
+turn sets policy for all the recognized 
+territories.     Outside these territories, more 
+tribal and simple Felinids roam and live more 
+in unison with the wild unsettled regions of 
+Carlos McConell.  Hunting, stalking, and living 
+with a bare minimum of technological aid, if 
+any.  These sectors are largely left alone, as 
+some of the predators on Carlos McConell can 
+be frightful indeed.  What else lies beyond the 
+walled and protected cities that dot the surface 
+is still a mystery to the populace at large.
+     The Felinid Military is structured much like 
+the Imperial, with regiments being composed of 
+various squads and specialties and a hierarchy 
+of ranks which direct the troops.  Though less 
+fatal with the absence of the Commissariat 
+oversight and punishments, their forces are still 
+a well trained fighting force, more than capable 
+of matching the statistics of most Guard 
+Regiments in the Imperium.
+Felinids in the Koronus Expanse
+     Felinids are largely unknown in the 
+Coreward worlds due to the suppression order 
+from the Inquisition that led them to be 
+quarantined.  While the official records state 
+that the planet is completely quarantined and 
+none have ever been off planet, this is not the 
+case.  No matter how much they have tried to 
+suppress it, the Felinids have made their way 
+amongst the stars.  Many of their number saw 
+the benefit in fleeing their home in more 
+clandestine ways, then making their way to 
+safer environs on the edges of the galaxy.  Still 
+more sought refuge behind service in the 
+Imperial Military, which granted them certain 
+protections and allowed them to become lost 
+within the rank and file.
+     While they have no ships of their own, they 
+were quick to learn the workings of the various 
+Voidships of the Imperial Navy and earn their 
+passage to relative safety.  Several colonies of 
+Felinids have been reported amongst the 
+expanse, mostly on planets that mirror the 
+terrain and environs of Carlos McConell.  
+These colonies are well defended, and have 
+been able to put together a sizable orbital 
+defense, not wanting to be trapped again.
+     In spite of their history with the Inquisition,  
+  the Felinids generally have a good relationship 
+  with humanity in the Expanse.  Their abilities 
+make them invaluable to those who run salvage 
+operations or colonization operations, and their 
+incredible agility and grace serve them well in 
+performing tasks aboard starships of any kind.
+     Felinids can be found in almost all 
+      walks of life in the Expanse, and      
+        
+      while a slightly strange sight can be 
+       seen performing virtually any task a 
+    regular human can.  Their 
+    motivations and personalities are just 
+   as varied as the other denizens of  
+   humanity inhabiting the region.
+Felinid Society
+15
+
+
+===== PAGE 16 =====
+16
+Felinid History
+Roleplaying Felinid Characters
+Source Disclaimer: Lore in this section is fan written.
+     Felinid characters are just as diverse as the 
+rest of humanity, and can find motivation and 
+backstory in all walks of life.
+     One of the first things to consider is how the 
+character made their way to the Koronus 
+Expanse.  Were they brought here after being 
+smuggled off world by a Rogue Trader, Free 
+Merchant, or some other force?  Were they 
+conscripted into the Imperial Military and 
+brought here as part of their deployment?  Were 
+they able to leave planet before the quarantine 
+was put into effect and made there way here 
+seeking other colonies?  Are they seeking to 
+establish or reinforce an existing Felinid colony 
+within the Expanse?
+     Felinid society is very much a mirror of 
+Imperial society, so most have been able to 
+integrate with no issues.  Is your character one 
+of these who has made the transition 
+seamlessly, or have they had any issues?  If not, 
+what are the differences that are hard to accept? 
+ Why?
+     It's also important to consider their feelings 
+regarding the treatment of their people by the 
+Imperium at large.  While not as harshly treated 
+as the Beastmen, they have still largely been 
+denied the right as species to rejoin the rest of 
+humanity.  What effect does this have on your 
+character?
+     Motivation is always an important factor in 
+a character, and can be particularly varied with 
+the Felinids.  Their motivations are as diverse 
+and unexpected as the rest of the denizens of 
+humanity.  Perhaps they are attempting to build 
+up the Felinid Presence in the Expanse, perhaps 
+they just wanted to get off planet and explore, 
+perhaps they are hoping to prove that their race 
+is capable of joining the Imperium.  Come up 
+with a unique motivation and check with the 
+GM to make sure that it will fit with the 
+campaign.
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game  
+while simultaneously providing a character that 
+you look forward to playing.
+
+
+===== PAGE 17 =====
+Felinid Traits
+Characteristics: +5 Agility, +5 Intelligence, -5 
+Perception, -10 Willpower, +5 Fellowship
+Skills: Acrobatics, Climb, Contortionist, Dodge
+Talents: Catfall
+Traits: Dark Sight, Non-Imperial, Not Quite 
+Human
+Starting Wounds: 1d5+1 + 2xToughness Bonus
+Starting Fate Points: 2
+New Traits
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+   with individuals who have come to trust the    
+          Abhuman player character, for whatever 
+    reason (although the final arbitrator 
+     of this is the GM). Finally, the 
+presence of any Abhuman 
+  aboard a human vessel is 
+        unsettling for the crew, and 
+as rumours spread, 
+discontent 
+      over the alien 
+presence in their 
+midst becomes 
+noticeable. The 
+       continued 
+presence of one or more 
+Abhuman 
+player characters aboard a 
+        ship reduces 
+its Morale by 1.
+Felinid Characters
+Creating Felinid Characters
+17
+
+
+===== PAGE 18 =====
+18
+Longshank History
+Source Disclaimer: Lore in this section is taken from the 
+warhammer40k.wikia.com and is referenced from the 
+Warhammer 40k 6th Edition Rulebook.
+     The Longshanks, also known as Homo 
+Sapien Elongatus, are a recognized strain of 
+Abhuman within the Imperium.  These 
+Abhumans have genetically adapted to 
+habitable worlds with particularly low gravity, 
+and are tall, elongated and emaciated. They find 
+it nearly impossible to survive on worlds with 
+gravity heavier than what they endure on their 
+homeworlds. 
+Source Disclaimer: Lore from this point forward is fan 
+written and can be used or discarded as needed.
+     Longshanks are a strain of abhumans that 
+evolved after colonization of a series of planets. 
+ They are a result of thousands of years on low 
+gravity planets, which have given them rather 
+unique and somewhat problematic physical 
+characteristics.  These limitations placed on 
+them have prevented them from venturing forth 
+from their home planets until recently, and 
+confined them severely when they do.
+     They are descended from a series of mining 
+colonies that were placed on mineral rich 
+worlds.  Relatively low rotational speeds and a 
+smaller planetary radius meant that while the 
+planets were rich in minerals and could sustain 
+life, they were not blessed with as strong a 
+gravitational pull.  This proved to be an 
+excellent benefit for mining operations, though 
+over time certain physical advantages became 
+prominent amongst the colonists.  Those who 
+had more lithe frames were able to fulfill the 
+mining duties more easily, and better able to 
+pay for a sustainable lifestyle.  Those who had 
+exceptional height were able to operate as 
+loaders much more efficiently than others, and 
+were also paid accordingly.  After a time, most 
+of those who did not share these characteristics 
+returned to their ships and set off for more 
+profitable ventures.  This was when the 
+colonies were cut off by warp storms.
+     Generations of breeding isolated two 
+predominant traits from these colonists, the 
+incredible height and the incredibly slender 
+frames of those who made up the bulk of the 
+work force at the time of isolation.  Over time, 
+their genetics became more and more extreme 
+as the low gravity began to take an effect on 
+their biology, allowing for much taller growth.  
+This led to their skeletal structure becoming 
+more disconnected and less tightly bound, and 
+in the low gravity made them incredibly nimble 
+and flexible.  Due to the nature of these being 
+mining colonies, sustainability was never too 
+large a concern.  No longer able to rely on 
+supply shipments, they had to make do with 
+meager sustenance that could be processed 
+from the planet.  Harvesting any plants or 
+hunting any creatures was generally a 
+dangerous endeavor, but vital nonetheless.  
+While there were some nutrient processing 
+facilities in their colonies, they would not be 
+enough to sustain the population alone.  
+Unfortunately, many who could not survive on 
+low nutrition began to die off, leaving only 
+those who could function with little nutrition 
+behind to continue their population.  This 
+would be the origin of their physical 
+appearance, with their skin being pulled tight 
+across their bodies due to virtually no body fat, 
+making them appear gaunt and emaciated.
+Chapter 4: Longshanks
+
+
+===== PAGE 19 =====
+     Because of these changes, they became 
+unable to survive off of these low gravity 
+environments.  Once the Imperium re-
+established connection with these colonies, 
+Imperial Chirurgeons began to investigate the 
+inhabitants.  The language had not diverged too 
+much in the intervening years, and establishing 
+a common dialect was relatively easy.  The 
+newly dubbed Longshanks were informed of 
+the effects of their condition, and assimilated 
+into the Imperium of Man at that time.  They 
+were left to run their various mining colonies 
+across the Expanse, which were still quite 
+profitable due to the relatively small size of the 
+colonies initially.
+     In recent years, a new piece of research and 
+development has yielded something that has 
+changed the way that the Longshanks interact 
+with the universe.  In conjunction with the 
+Adeptus Mechanicus, they have developed a 
+new Reinforced Void Suit that supports the frail 
+Longshank skeletal structure and musculature 
+and allows them to function under normal 
+gravitic conditions.  The Longshank is, 
+however, eternally confined to these suits when 
+in said conditions, and unless the Void Ship 
+they are traveling on has localized gravitational 
+generation, they will be stuck in it for 
+prolonged periods of time if not functionally 
+indefinitely.
+     With this new development, the Longshanks 
+were permitted, largely due to the insistence of 
+the Adeptus Mechanicus that they were useful,  
+to leave their planet and join the rest of the 
+galactic community amongst the stars.  There 
+are now several additional Longshank colonies 
+across the galaxy, and many in the Imperial 
+Navy.  Many Longshanks decide to take up jobs 
+in the Engineering section of Void Ships,  
+taking advantage of the fact that many sections 
+do not have gravity to concern themselves with. 
+ They are also are quite adept at performing 
+Extra-Vehicular Activities.
+Longshank Society
+     Longshank society is much more democratic 
+than many other Imperial worlds.  The 
+relatively small size of the colonies combined 
+with the fact that they were initially private 
+ventures meant that the initial colony heads 
+were appointed.  Once it became apparent that 
+they were isolated, they took steps to ensure 
+that leadership did not become hereditary and 
+endanger the limited population that they had.  
+This led to a fairly well regulated democratic 
+society
+     While over the centuries the understanding 
+of how the equipment they use works was lost, 
+the operation of it was not, nor was the basic 
+maintenance and fabrication required to keep it 
+running.  The same skill with minor machine 
+repairs and maintenance carries over into the 
+upkeep of the various colony networks that dot 
+these ore rich planets.  Technology and it's 
+purpose and upkeep is a central part of the lives 
+of all of the Longshanks, since without it they 
+would quickly have succumbed to the hostile 
+and alien dangers of their planets.
+     As their physical strength waned over the 
+years, so too did they become increasingly 
+reluctant to go and explore their new homes.  
+While they still had and knew how to operate 
+weaponry, their increasingly frail frames were 
+easy prey once predators would close in.  
+Strange subterranean creatures and those that 
+were attracted by the noises of excavation and 
+mining could approach unheard and steal away 
+with a half dozen miners before anyone was the 
+wiser.  This led to mining activities being 
+largely restricted to vehicle based ones, and led 
+the Longshanks to reside within the walls of the 
+colonies for additional safety.
+     Eager now to return to the galaxy that their 
+ancient history tells that they originated from, 
+Longshanks have eagerly taken to the stars and 
+begun to found new colonies and rediscover the 
+wonders that the galaxy has to offer.
+Longshank History
+19
+
+
+===== PAGE 20 =====
+20
+Longshank History
+Roleplaying Longshank Characters
+Source Disclaimer: Lore in this section is purely fan 
+written, use or disregard as needed.
+     Longshanks are an interesting take on the 
+exaggerations that certain traits can take on 
+over time.  Incredibly emaciated and frail by 
+any Imperial standards, they are nonetheless 
+very skilled with technology and have honed 
+their senses to be able to locate and 
+troubleshoot problems.
+     Their outlook on the galaxy is fairly 
+optimistic in comparison to the majority of the 
+Imperium, and they have set out on a mission to 
+rediscover what has been lost to them over the 
+centuries.
+     To flesh out your character, figure out what 
+role they have within the Longshank society 
+and what has driven them from their world.  
+Were they curious to head to the stars and 
+explore?  Were they formerly a member of the 
+military and ordered to go?  Were they forced to 
+leave their homeworld at the behest of another?
+     Next, consider what their motivation is for 
+traversing the stars.  Are they hoping to found 
+more Longshank colonies?  Are they looking to 
+discover lost Longshank colonies?  Are they 
+hoping to find adventure?  Are they hoping to 
+find some retro-viral mutagen that will restore 
+their skeletons to a previous state?  Are they 
+a technophile hoping to find or develop some 
+exciting new technology?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game  
+while simultaneously providing a character that 
+you look forward to playing.
+Longshanks in the Koronus Expanse
+     Longshanks have fully embraced the 
+Imperial idea of Manifest Destiny within the 
+Koronus Expanse.  They have branched out into 
+virtually all walks of life.  Their presence 
+includes several colonies on low gravity 
+worlds, several colonies in zero gravity, a 
+fairlywell known presence on Voidships, and a 
+fairly common presence on traditional Imperial 
+colonies.
+     Due to the necessity of being constantly 
+ensconced within Void Suits when not in a Low 
+Gravity Environment, the only off-putting 
+nature of the Longshanks physically is often 
+their enormous height, where they tower over 
+their fellow humans.  This hiding of their more 
+off-putting physical differences has made their 
+presence much easier for many Imperials to 
+accept them as a part of humanity.
+     With the ever present expansion 
+opportunities and by using their own unique 
+evolutions to their fullest abilities, the 
+Longshanks have been establishing a strong 
+foothold within the Koronus Expanse.  As time 
+progresses it appears as though their niche will 
+only grow more important, but only time will 
+tell if that comes to fruition.
+
+
+===== PAGE 21 =====
+Longshank Traits
+Characteristics: -5 Strength, -5 Toughness, +5 
+Intelligence, +5 Perception
+Skills: Common Lore (Tech), Tech-Use, Trade 
+(Any)
+Talents: Technical Knock
+Traits: Longshank Biology, Non-Imperial, Not 
+Quite Human, Size (Hulking), Void 
+Accustomed (See page 19 of the Rogue Trader 
+Core Rulebook)
+Gear: Longshank Reinforced Carapace, 
+Longshank Reinforced Void Suit
+Starting Wounds: 1d5 + 2x Toughness Bonus
+Starting Fate Points: 2
+New Traits
+Longshank Biology
+     Longshank biology is incredibly fragile after 
+generations of adaptation to low gravity 
+environments.  When not in low gravity 
+environments their bodies begin to collapse on 
+themselves causing 1d5 points of Toughness 
+Damage per round as their skeleton begins to 
+shatter.  This can be avoided by wearing a suit 
+of armor or void suit that is designed to support 
+the Longshank's weight.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+New Gear
+Longshank Reinforced Carapace
+Availability: Very Rare
+     This is a suit of Enforcer Light Carapace 
+Armour that is designed to support the 
+Longshank's weight in normal gravity 
+environments.  It has the same protective ability 
+as a suit of Enforcer Light Carapace but weighs 
+only have the normal amount  (See pages 137-
+139 of the  Rogue Trader Core Rulebook).
+Longshank Reinforced Void Suit
+Availability: Very Rare
+     This is a Selenite-Pattern Void Suit (see page 
+141 of the Rogue Trader Core Rulebook) that 
+has been modified to support the skeletal 
+structure of the Longshanks.
+Longshank Characters
+Creating Longshank Characters
+21
+
+
+===== PAGE 22 =====
+22
+Neandor History
+Source Disclaimer: Lore in this section is taken from 
+warhammer40k.wikia.com and is referenced from the 
+Warhammer 40k 6th Edition Rulebook.
+Neandors (Homo sapiens hyannothus)
+     Descendants of the original base-line human 
+colonists of the world of Hyannoth IV, the 
+Neandors have adapted to the particular 
+ecological demands of their frigid and high 
+gravity homeworld. These adaptations, which 
+include hirsutism and a much more robust 
+skeletomuscular system, however, prevent them 
+from leaving Hyannoth IV easily. As a result, 
+Neandors are virtually unknown to the wider 
+Imperium. 
+Source Disclaimer: Lore beyond this point is fan written 
+and can be used or disregarded as needed.
+     On the frigid and unforgiving world of 
+Hyannoth IV, a colony was formed in the Dark 
+Age of Technology.  What purpose it might 
+have had has been lost to the ages, and the 
+current inhabitants of the planet have no 
+interest in discovering it.  What can be said of 
+Hyannoth IV is that it is a frozen wasteland, 
+with temperatures dropping to extreme lows 
+year round.  Creatures that can survive upon it's 
+surface are resilient and unforgiving, and 
+function as small predatory packs or solitary 
+hunters, as sustenance is a real concern on 
+planet.  Below it's surface lies a network of 
+subterranean caves, the majority of which are as 
+cold an unforgiving as the surface.  However in 
+certain points, geothermal vents give enough 
+heat for those savvy enough to find them. 
+     The colony was never fully finished before 
+they were cut off from the rest of the galaxy by 
+Warp Storms, and as such left the people 
+functionally doomed.  With little food, no 
+organization, and predators roaming the area, 
+they had to figure some way to survive.  They 
+elected to salvage what they could of the 
+colony, while some gathered the equipment 
+that they could and set off into the caves, 
+hoping to find some shelter against the 
+relentless frost and large predators on the 
+surface.
+     Both groups were met with an 
+unfortunate truth: they were far from the 
+deadliest creature on the planet, and there is no 
+truly safe place. 
+Many in both groups were lost to the attacks of 
+wild creatures while they searched for a 
+solution, but in the end they were able to 
+prevail but with heavy losses.  The subterranean 
+group found a way that they could survive in 
+the frozen wastes by sheer luck as they ran 
+from one such unspeakable horror.  They 
+stumbled into a patch of the cave which 
+collapsed under their feet, dumping them into a 
+subterranean river.  This would usually have 
+meant frostbite and death within hours, but this 
+water was...warm.  The creature did not follow 
+them, and before long they were dumped into a 
+large subterranean spring that was heated by 
+geothermal means and rich with minerals.  
+They recovered for several days and then made 
+their way back to the surface to share what they 
+had learned.
+Chapter 5: Neandors
+
+
+===== PAGE 23 =====
+     The colonists began to strip anything of a 
+vital nature that they could from the husk of a 
+colony and move it to this new underground 
+location.  The intensity of the moving proved 
+another fatal blow to the colonists.  Many of 
+them began to collapse from heart failure as 
+their bodies could not adapt to the high gravity 
+of the planet.  This led to many simply 
+dropping where they stood as their bodies 
+failed.  Stripping them of their gear, they 
+pressed on and set up a serviceable habitat 
+within the confines of the earth.
+     Determination being the only thing driving 
+those that remained, they cleared the area 
+around the new colony as best they could, and 
+set to ensuring that they would not die of 
+starvation.  With some of the minor 
+terraforming equipment they had brought 
+along, they were able to create a thriving 
+ecosystem within the confines of their colony's 
+new geothermal pools.  While the colony was 
+indeed a safe haven, many continued to drop 
+dead of heart failure until only the most robust 
+remained.  These remaining colonists began to 
+catalog the resources at their disposal and came 
+to the conclusion that this may have been for 
+the better, since with what they had too large a 
+population could not be sustained.
+Neandor Society
+     Thus was the basis of the what would be 
+come the Neandor Abhuman strain formed.  
+Over the centuries, a tribal society would be 
+formed, and those who made their cases for 
+leadership best would be approved by a ruling 
+council.  These leaders became responsible for 
+determining the direction societal expansion 
+would take, and put in charge of exploration of 
+the caves and surface to find additional sites to 
+claim for their own.  This would help prevent 
+overpopulation and exhaustion of resources, 
+and help ensure that one incursion by beasts 
+would not be the death of everyone on the 
+planet.  These expedition teams were composed 
+of the greatest and most adept warriors of the 
+tribes, and to be chosen for one was an honor 
+indeed.
+     In addition to several alternate subterranean 
+sites, these scouts found several defensible 
+surface locations that were, while admittedly 
+still frigid, more shielded from the howling 
+winds that cut across the tundras of the planet.  
+Over time, both overland and subterranean 
+routes to and from these various new tribes 
+were forged and kept relatively safe for 
+travelers.
+     As time progressed, certain traits became the 
+dominant ones on this harsh world.  Neandors 
+became incredibly robust and strong, both of 
+body and will.  This also made hirstutism, the 
+excessive growth of hair amongst both males 
+and females, a fairly common trait amongst 
+their populace.  They tend to exhibit a very 
+pragmatic view of the world and value each 
+moment that they experience since they know 
+how quickly life can be cut short.  They are also 
+a bit on the ignorant side and tend to not 
+understand the finery of more advanced 
+societies.  This is not to say that they are 
+Luddites and do not use technology, quite the 
+contrary.  Different tribes across the planet have 
+become responsible for different pieces of 
+manufacturing the various weapons, tools, and 
+protective gear that are used by the Neandors 
+on planet.  Some are tasked with mining, some 
+are tasked with creating new weapons and 
+tools, and others are tasked with using them to 
+protect and expand their society.  It is a simple 
+one with everyone having an incredibly 
+important and defined role, with no one person 
+being devalued.  Such is the importance of 
+unity and mutual respect on such a harsh world.
+Neandor History
+23
+
+
+===== PAGE 24 =====
+24
+Neandor History
+     Upon rediscovery by the Imperium, not 
+much had changed for many years.  Survival 
+was the primary aspect of civilization that 
+permeated the culture of Hyannoth IV, but 
+language did not diverge too much from how it 
+began so long ago.  Imperial survey teams 
+concluded that those on planet were indeed 
+humans, but were not too sure how best to deal 
+with them.  Initially they were put into isolation 
+by the Inquisition and Administratum pending 
+further investigations.  Upon realizing what 
+they might have at their disposal, Rogue 
+Traders across the Imperium began to grease 
+palms.  After all, with their predisposition to 
+high gravity, they would be twice as strong 
+outside of it!  They would be able to go places 
+many standard humans couldn't, and with their 
+adaptability, bullheaded determination, and 
+understanding of technology they could prove a 
+huge asset to exploration and colonization.  It 
+took several years, but eventually several 
+provisional teams were given leave to allow 
+Neandor to take to the stars.
+Neandor in the Koronus Expanse
+     The initial provisional teams assigned to 
+Rogue Traders confirmed the initial hypothesis 
+about their usefulness.  Determined and 
+straightforward, they took to life aboard  
+starships very well as it mirrored the nature of 
+their culture and that everyone has an important 
+job to do.  They also proved incredibly well in 
+combat situations, able to carry more munitions 
+in with their incredible strength and strike with 
+incredible precision and brutality as was 
+required to survive on Hyannoth IV.  Because 
+of this overwhelming success, more and more 
+Neandor were permitted to serve amongst the 
+ranks of the Rogue Traders.  As time progressed 
+and they became more acquainted with the 
+galaxy, those Neandor who had risen to high 
+stations began to see the benefit in colonization. 
+ Delighted to help, many Rogue Traders helped 
+found colonies on high gravity worlds that 
+would have been uninhabitable by the rest of 
+humanity, and gave them additional profits that 
+they would never have had otherwise.
+     Some managed to secure positions high 
+enough that they were able to form independent 
+colonies, and these ranged from high gravity 
+worlds dedicated solely to Neandor to worlds 
+shared with the rest of humanity.  The Neandor 
+presence is still relatively small in the Expanse, 
+and they must still be ever vigilant of the 
+various forces that occupy it.  Neandor can be 
+found in virtually all walks of life, as their 
+fierce determination allows them to achieve far 
+more than what most would expect.
+
+
+===== PAGE 25 =====
+Roleplaying Neandor Characters:
+     Neandor characters are very straightforward, 
+honest people who view each day as a gift to be 
+treasured.  Any day that one survives is an 
+excellent day, a very pragmatic view that 
+helped keep those stranded so long ago and has 
+been passed down well over the years.  They 
+are physically mighty, but unfortunately not 
+terribly adept at the more intellectual or social 
+aspects.  While they are indeed afflicted by 
+hirstutism, some choose to trim their hair to 
+better fit in with the rest of the Imperium, while 
+others view it as a sign of forsaking their 
+origins.
+    The first thing to consider is where your 
+Neandor is from.  Are they from one of the 
+colony worlds, or are they from Hyannoth IV 
+itself?  Were they born amidst the stars under 
+the service of a Rogue Trader?  Are they from 
+some other colony within the expanse or 
+without?
+     Next consider their role within their society.  
+Were they more involved with the industrial 
+side of things like mining and forging?  Were 
+they more involved in the martial side like 
+defenses?  Were they asked to become a scout 
+to seek new territories to settle?  Were they an 
+adviser or councilor?
+     Also consider the motivations of the 
+character.  Are the out to explore to find new 
+worlds to settle?  Are they attempting to amass 
+personal wealth for themselves or some 
+purpose?  Are they fulfilling a command given 
+by their tribal leaders?  Are they attempting to 
+integrate more into the Imperium?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game  
+while simultaneously providing a character that 
+you look forward to playing.
+Neandor History
+25
+
+
+===== PAGE 26 =====
+26
+Neandor Characters
+Neandor Characters
+Characteristics: +5 Strength, +5 Toughness, +5 
+Willpower, -5 Intelligence, -5 Fellowship
+Skills: Survival, Tracking
+Talents: Melee Weapon Training (Primitive), 
+Resistance (Cold)
+Traits: High Gravity Accustomed, Non-
+Imperial, Not Quite Human
+Gear: Best Craftsmanship Primitive Weapon
+Starting Wounds: 1d5+2 + 2xToughness Bonus
+Starting Fate Points: 2
+New Traits
+High Gravity Accustomed
+     Neandor have grown strong on Hyannoth IV 
+and are able to tolerate high gravity 
+environments with no difficulty.  Neandor 
+ignore all the penalties for High Gravity worlds 
+(See page 269 of the Rogue Trader Core 
+Rulebook).  In addition, when not on high 
+gravity worlds they add 4 to the total of their 
+Strength and Toughness Bonus for determining 
+Carrying Capacity.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Creating Neandor Characters
+
+
+===== PAGE 27 =====
+Source Disclaimer: Lore in this section is from 
+warhammer40k.wikia.com.
+     Nightsiders are Abhumans who live out their 
+lives in near or complete darkness on worlds 
+that either are so far from their primary star that 
+little or no light is shed or planets that do not 
+rotate and so one side is always facing away 
+from the sun. Nightsiders may have developed 
+larger eyes than a normal human, almost 
+bulbous; others may have vestigial eyes with 
+their other senses greatly enhanced to 
+compensate for the near-blindness.
+Source Disclaimer: Lore in this section is from White 
+Dwarf 303.
+     The populations of many world within the 
+Imperium live out their lives in near, or 
+sometimes complete darkness.  Some planets 
+are only inhabitable on their night side – the 
+opposite surface being exposed to the full force 
+of the system's star.  Other populations exist 
+underground, the surface of their world being 
+uninhabitable.  Throughout the millennia, 
+technology may have regressed due to 
+ignorance, isolation, or natural disaster and the 
+population may have altered, either by design, 
+through unsanctioned genetic manipulation, or 
+by accident of nature.  Such populations are 
+considered mutants by many, for they may 
+sport bulbous eyes adapted to the dimmest 
+conditions, or they may have only vestegial 
+eyes, other senses entirely compensating for 
+near or total blindness.
+Source Disclaimer: Lore beyond this point is purely fan 
+written, feel free to use or disregard it as needed.
+     Nightsiders are not from any one world in 
+the Imperium, but a host that all have a similar 
+attribute: Darkness.  This darkness has led to a 
+divergent strain of humanity that has developed 
+organs that allow them to survive better 
+amongst the nocturnal dangers of their home.  
+Some develop oversized bulbous eyes that 
+allow for every tiny scrap of light to be 
+amplified, some survived thanks to auditory 
+perceptions as a primary means of sense, some 
+began to use touch and sensory vibrations as a 
+means to sense approaching danger.  For some 
+it was an extraordinary sense of smell that 
+allowed them to avoid dangers and for still 
+more the ability to taste changes in the air, not 
+unlike a reptile.  Some have developed a 
+connection of a more...immaterial nature ot 
+perceive their surroundings, not unlike 
+Astropath Trancendents.  Whatever their means 
+of avoiding predators in the dark, all 
+Nightsiders can safely say one thing: they 
+managed to survive.
+      What forced them to live in darkness varies 
+from planet to planet.  On some Nightsider 
+planets, the inhabitants are unable to live on the 
+surface due to extreme solar radiation.  Some 
+surfaces are too polluted to safely wander 
+unprotected so they prefer to live in 
+subterranean habitation blocks.  Some planets 
+rotate at the same speed as their revolution (not 
+unlike Luna) and eternally face either the sun or 
+night, making the cool night side the only 
+option for the inhabitants to survive on.  Some 
+might be driven into the darkest jungles by 
+deadly local predators and some may have 
+simply lived in the lower levels of a hive or 
+starship for so many generations that a 
+Nightsider History
+Chapter 6: Nightsiders
+27
+
+
+===== PAGE 28 =====
+28
+Nightsider History
+Nightsider mutation has arisen.  With the wide 
+potential arrray of origins, the Nightsiders have 
+been a difficult group to classify.
+     Nightsider society is as diverse as the 
+Imperium's, and many have arisen on Imperial 
+worlds.  Due to this fact, there are some who 
+are quite familiar with the Imperium's customs 
+and some who are rather ignorant of them.  Due 
+to their uncanny perceptions, they have been 
+deployed in the Imperial Guard in the past as a 
+means of detecting that which the normal 
+troopers might overlook.  This has been overall 
+successful, though somewhat demoralizing to 
+the troops they are assigned to as their aberrant 
+sensory organs can be physically unsettling to 
+view.  Their inherent skill at avoiding shadowy 
+dangers and staying unseen also allows them to 
+strike from the shadows with an uncanny 
+accuracy, which has contributed to their success 
+in deployments.
+Nightsiders in the Koronus Expanse
+Source Disclaimer: This is fan written material
+     The ability of Nightsiders to locate hidden 
+danger is what first attracted the attention of the 
+Rogue Traders and other parties in the Koronus 
+Expanse.  Seeing in them the opportunity to 
+protect themselves from those who might seek 
+to do them harm, connections were established 
+and Nightsiders were brought to the Expanse.  
+Their wide variety of sensory abilities have 
+become a highly prized commodity and many 
+have risen to much greater heights amongst the 
+expanse than they would have in any other 
+place in the galaxy, though they still face the 
+same stigma as before.
+     Many Nightsiders fit right in on the 
+underdecks of the many voidships that traverse 
+the Expanse and among the hive cities and 
+stations that dot the area.  Footfall in particular 
+has several Nightsider groups that have taken 
+up permanent residence there.  Several groups 
+of Nightsiders were sold as slaves in the 
+Expanse to the many colonies to act as labor, a 
+fate that often befalls abhumans.  Some were 
+recruited into the guard regiments to continue 
+their success in deployments.  No major 
+colonies or settlements have yet been reported 
+or discovered amongst the Expanse but that 
+does not mean that they do not exist, most of 
+the Expanse is still uncharted after all.
+Roleplaying Nightsider Characters
+Source Disclaimer: this is fan written material
+     Nightsiders are unique among the abhumans 
+in that there is such a wide variety of possible 
+origins for them.  The first thing to consider is 
+what caused your character to develop their 
+mutation.  Was it a biological adaptation to 
+extreme circumstances?  Is is a result of some 
+kind exposure to the warp?  Is it some other 
+origin entirely?
+     Next, consider hat is the planet of origin 
+they are from like?  Was it merely adaptation to 
+darkness that drove them or was it escape from 
+predators?  Was it an Imperial World on which 
+their abilities developed, if so, what kind?
+     Finally, consider the motivations of the 
+character.  Why are they journeying into the 
+Expanse?  Are they seeking personal glory?  
+Are they seeking a place that they can call their 
+own?  Are they hoping to find freedom from 
+bondage of some kind? Have they found a 
+different motivation entirely?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game 
+while simultaneously providing a character that 
+you look forward to playing.
+
+
+===== PAGE 29 =====
+Nightsider Traits
+Characteristics: Perception +10, Fellowship -5
+Skills: Awareness, Concealment, Silent Move
+Talents: Heightened Senses (Any)
+Traits: Nightsider, Non-Imperial, Not Quite 
+Human
+Starting Wounds: 1d5 + 2xToughness Bonus
+Starting Fate Points: 2
+New Traits
+Nightsider
+     Nightsiders have an innate ability to 
+perceive their surroundings through means not 
+available to normal humans.  Nightsiders begin 
+play with the Grotesque Mutation (see page 396 
+of the Rogue Trader Core Rulebok) and one of 
+the following mutations: 
+●
+Nightsider: See page 396 of the Rogue 
+Trader Core Rulebook
+●
+Uncanny Senses: Gain the Unnatural 
+Perception trait with a range equal to 
+10xPerception Bonus in meters.  This can 
+based around any of the five senses, but 
+whatever sense is selected incurs a -10 
+penalty to be used when overwhelmed by 
+too much stimulus.  (Ex: Uncanny Senses 
+(Sound) would incur a -10 penalty when 
+overloaded by too much auditory stimulus, 
+such as in a large crowd or manufactorum.
+●
+See Without Eyes: See the Astropath 
+Special Ability with the same name on page 
+72 of the Rogue Trader Core Rulebook.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Nightsider Characters
+Creating Nightsider Characters
+29
+
+
+===== PAGE 30 =====
+30
+Ogryn History
+Source Disclaimer: Lore in this section is from the Only 
+War RPG, specifically the Core Rulebook
+“Brute force not work? It because you not use 
+enough of it!”
+–Karg, Ogryn Bone’ead.
+     The Ogryn (Homo Sapiens Gigantus) are a 
+huge and physically powerful Abhuman mutant 
+subspecies of humans, often employed as shock 
+troopers in the Imperial Guard by the Imperium 
+of Man. Ogryns possess many traits prized by 
+the Imperium; they are brutally strong and 
+completely loyal, although extremely limited 
+intellectually, which restricts their battlefield 
+role to simple and direct assaults. They come 
+from cold and barren planets in the galaxy with 
+high gravity, such as Anark Zeta, which is why 
+they appear larger, heavier and bulkier 
+compared to baseline humans. An Ogryn's 
+speech is much the same as an Ork's. 
+     The Ogryns are the toughest and largest 
+soldiers commonly used by the regiments of the 
+Imperial Guard. Originating from cold, barren, 
+high-gravity prison planets settled many 
+millennia before the founding of the Imperium 
+of Man, the Ogryns' distant ancestors were once 
+normal humans during the Dark Age of 
+Technology. Thousands of standard years in the 
+harsh terrains and brutal living conditions of 
+their prison worlds after the start of the Age of 
+Strife caused the fall of the first interstellar 
+civilisation of Mankind forced their ancestors' 
+bodies to adapt to their hostile environment. 
+     When the Ogryns were rediscovered on their 
+homeworlds during the Great Crusade, the 
+Imperial Army started recruiting the Ogryns as 
+close combat soldiers. Their recruitment was 
+easy because they hardly needed any training, 
+as most Ogryn are quite capable of bringing 
+down almost any enemy and their natural 
+combat skills make them good assault troops. 
+The officers of the Imperial Army, and, after the 
+Horus Heresy reshaped the Imperium, those of 
+the Imperial Guard, also found that Ogryn are 
+extremely loyal once introduced to the Imperial 
+state religion of faith in the Emperor of 
+Mankind -- the Imperial Cult. They are known 
+to believe and do anything their leaders say and 
+ask. They see the orders they receive as having 
+come down the chain of command ultimately 
+from the beloved God-Emperor Himself. On 
+the other hand, Ogryn are known for their
+ inability to understand complex commands and 
+tactics. This simple-mindedness has also 
+contributed to the big Abhumans' reputation as 
+being notoriously easy to corrupt to the service 
+of Chaos, particularly by the temptations of the 
+Blood God Khorne. Many Ogryns, for example, 
+fought in the Vraksian Traitor Militia during the 
+infamous Siege of Vraks. 
+     Their skin is extremely thick and Ogryn can 
+ignore wounds that would cripple or kill a 
+normal man. As they are brutal and direct, they 
+favour knuckle dusters and knives for close 
+combat. They are issued special, large auto-
+shotguns known as Ripper Guns for ranged 
+combat and clubbing at melee. The use of Frag 
+Grenades is also popular among Ogryn. 
+     Although believed to possess extremely low 
+intelligence, some Ogryn may have a slightly 
+higher level of intellect than others. This boosts 
+their chances to be chosen as candidates for the 
+Biochemical Ogryn Neural Enhancement 
+procedure, also known as BONE; which raises 
+their intelligence further. These relatively smart 
+Ogryn are given the title "Bone'eads," and as 
+they are able to understand more complex 
+orders they are placed in command of a squad 
+of normal, unaugmented Ogryns. 
+Chapter 7: Ogryn
+
+
+===== PAGE 31 =====
+     The most famous Ogryn in Imperial service 
+is Nork Deddog. Nork Deddog is a legend in 
+his own lifetime, an Ogryn whose fighting 
+abilities as an Imperial Guard soldier are almost 
+as astonishing as mental development that can 
+only be called precocious for one of his race. 
+Due to his unusual mental acuity, he quickly 
+came to the attention of the Commissars of the 
+Imperial Guard and Nork soon found himself 
+placed on special duties. Nork's reputation for 
+loyalty is unsurpassed and his skills as a 
+bodyguard have been in high demand by 
+Imperial officers across the galaxy. 
+Ogryn Society and Physiology
+     The adaptation to the high-gravity 
+environment as described above is the reason 
+for the Ogryns' thick skin, powerfully muscular 
+build and resulting monstrous size. Though 
+their adaptations led them to increase in 
+physical size and strength, the Ogryns' 
+intelligence declined to below average human 
+levels. As the planetary conditions (barren, 
+cold, little food and long periods of starvation) 
+that caused their mutation required only 
+primitive survival instincts, part of their 
+adaptation involved the loss of the ability for 
+more complex intellectual thought since 
+philosophical matters were unnecessary in an 
+environment marked by starvation and a 
+constant fight for life. Ogryns are said to be 
+even less intelligent than some Orks. However, 
+the truth is that their intellects did not actually 
+devolve, but became much more focused on 
+matters such as survival. Ogryns are 
+claustrophobic, which means that they can only 
+with great difficulty be loaded into armoured 
+carrier vehicles to be transported to the 
+battlefield, and can only ride in vehicles if a 
+commanding officer is present. As many as half 
+a squad may be mounted on a Chimera. This 
+slightly slows their deployment speed. 
+     Ogryns are large and bulky, standing 
+between 2½ and 3 metres tall. Ogryns vary in 
+appearance according to world, but all are 
+tough and powerful. Some forms are well-
+muscled, while others tend more towards 
+grotesque obesity. Stupid and repulsively 
+unhygienic, Ogryns have earned such names as 
+Fats, Flabs, Slobs and Stenches. Ogryn 
+populations produce mutant individuals to the 
+same extent as humans. The psychic mutation, 
+however, is unknown among Ogryns. 
+Ogryns in the Koronus Expanse
+Source Disclaimer: This section is purely fan written, feel 
+free to use or disregard as needed.
+     Ogryn have had a presence in the Koronus 
+Expanse for more or less the entirety of it's 
+existence.  Their presence was first known 
+during it's initial colonization, and they 
+maintain the same presence they have in other 
+sectors in the galaxy.  There are several 
+colonies of Ogryns spread about the expanse, 
+and they are generally conscripted to aid with 
+Imperial Guard movements around the sector.  
+Enterprising Rogue Traders may also seek them 
+out, as their incredible strength and loyalty 
+makes them incredible bodyguards and security 
+personnel.
+     Ogryns meet the same prejudices and 
+preconceptions that are present throughout the 
+rest of the galaxy in the Expanse, though here 
+they are given a bit more freedom to develop on 
+their own.  There are several colonies that have 
+produced Ogryn that are much more capable 
+than any have previously though possible to 
+exist.  What this means for the Ogryn only time 
+will tell.
+Ogryn History
+31
+
+
+===== PAGE 32 =====
+32
+Ogryn History
+Ogryn Roleplaying Tips
+     Ogryn are very simple and brutish, but 
+fiercely loyal and friendly.  Depending on the 
+spread of your statistics, your Ogryn could be a 
+simple minded fool, an efficient heavy weapon 
+wielder, a loyal protector, or even one of the 
+more mentally adept; a Bone'ead.  To count as a 
+Bone'ead, you will need to get your Agility and 
+Intelligence scores to 30 or higher.  This 
+represents the development of the neural 
+enhancements of the Bone'ead augmentation in 
+your character, and allows them to play a much 
+more intelligent and creative Ogryn.
+     How you want to play your Ogryn depends 
+on many factors.  First, consider where your 
+Ogryn is from.  Are they from a local colony?  
+Are they from across the sector?  What was 
+ their life like before the Expanse?  Is this their 
+first tour of duty here?  What was their home 
+planet like?  Was it one composed only of 
+Ogryn?  What was their life like on their 
+homeworld, if any?
+     Next, consider their motivations.  What 
+brought them to the Koronus Expanse?  Did 
+they have any choice in the matter, or was it 
+more an assigned duty?  If not, how did they 
+come to this section of the galaxy?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game 
+while simultaneously providing a character that 
+you look forward to playing.
+
+
+===== PAGE 33 =====
+Ogryn Traits
+Characteristics: Strength +5, Toughness +5, 
+Agility -10, Intelligence -10
+Talents: Exotic Weapon Training (Ripper Gun)
+Traits: Claustrophobic, Clumsy, Non-Imperial, 
+Not Quite Human, Unnatural Strength (x2), 
+Unnatural Toughness (x2)
+Gear: Best Craftsmanship Ripper Gun 
+(Replaces weapons normally granted by Career 
+Path), one Ogryn sized suit of armor granted by 
+Career Path.)
+Starting Wounds: 1d5+3 + 2x Unmodified 
+Toughness Bonus
+Starting Fate Points: 1
+New Gear
+Ripper Gun: Class: Heavy, Range: 30m, RoF: 
+S/-/6, Dam: 1d10+8 I, Pen: 0, Clip: 48, Rel: 2 
+Full, Special: Scatter, Counts as a Mono 
+Warhammer in Close Combat, may use variant 
+Solid Projectile ammunition, Wt: 35kg, 
+Availability: Common
+New Traits
+Claustrophobic
+     Despite their fearsome and fearless nature, 
+Ogryns are extremely claustrophobic. They will 
+not enter caves, basements, ruins, infantry 
+fighting vehicles like the Chimera, or even 
+smaller than average buildings, of their own 
+free will. Commanding Officers can order them 
+into such places, but suffer a –10 penalty to any 
+Command Skill Tests to do so, and Ogryns 
+suffer a –10 to all Tests when so confined.
+ 
+Clumsy
+     Ogryn’s hands are not only much larger than 
+those of a normal human, but also far stronger, 
+and most Ogryn have a hard time using them to 
+perform delicate, or even normal, tasks.  
+Because of this, Ogryn cannot use most 
+weapons made for humans, as they tend to 
+break them when they try. Any weapon which 
+is not the Frag Grenade, Ripper Gun, 
+Autocannon, or Heavy Stubber cannot be used 
+by a character with the Clumsy Trait.  If an 
+Ogryn ever has 30 or more in Agility AND 
+Intelligence, they are considered to have 
+become intelligent enough to handle other 
+weapons and lose this trait, effectively 
+becoming a Bone'ead.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Ogryn Characters
+Creating Ogryn Characters
+33
+
+
+===== PAGE 34 =====
+34
+Pelager History
+Source Disclaimer: Lore in this section is taken from 
+warhammer40k.wikia.com and is referenced from the 
+Warhammer 40k 6th Edition Rulebook.
+Pelagers (Homo sapiens oceanus)
+     Pelagers have either evolved or were 
+genetically altered during the Dark Age of 
+Technology to live on Ocean Worlds, those 
+habitable planets of the galaxy almost entirely 
+covered in liquid water. They possess a set of 
+both gills and lungs, and other adaptations for 
+an aquatic lifestyle such as webbed hands and 
+feet. They are a common sight on such worlds 
+of the Imperium, but virtually unknown 
+everywhere else.
+Source Disclaimer: Lore beyond this point is fan written 
+and may be used or disregarded as needed.
+     Amongst a cluster of ocean worlds were 
+once placed a group of exploration vessels 
+designed to monitor and catalog the piscine life 
+therein to find new types of aquatic sustenance 
+for the masses of humanity to consume.  
+Devoted primarily to planets composed entirely 
+of liquid water, these floating colonies 
+consisted habitats and scientific equipment for 
+their job.  Who the expedition was originally 
+funded by we cannot say, but observation was 
+not their only task on these planets.  In addition 
+to this, the expedition was tasked with the job 
+of obtaining and cataloging genetic references 
+of all the species they acquired to create spliced 
+versions of fish that would have all the most 
+desirable traits.
+     During the later stages of this research when 
+some on site splicing had begun, the warp 
+storms hit.  This promptly cut off any chance of 
+resupply, and more devastatingly struck the 
+ships in orbit, causing them to crash into the 
+oceans below.  Helpless, those in the colonies 
+were only able to watch and track as their only 
+chance of long term survival sank beneath the 
+waves.  The records from this point forward are 
+problematic to follow at best, but a pieced 
+together history has been assembled from the 
+remains of those first colonies found long since 
+sunken beneath the seas themselves.
+     The colonists initially began to utilize their 
+splicing equipment to create a rapidly breeding 
+species of fish that would be able to provide the 
+nutrients needed in sufficient quantity for 
+everyone on planet to survive.  Maintaining 
+communications between the other outposts on 
+planet, progress was made.  After several failed 
+attempts, one successful species was created, 
+and began to be widely consumed across the 
+planet.
+     A major laboratory accident cause a large 
+stockpile of these fish to be released into the 
+oceans at large, and here is where the records 
+begin to fall apart.  One of two things seems to 
+have happened based on the reports.  What is 
+known for certain is that the influx of this new 
+engineered species attracted a new variety of 
+deadly sea predator, an amphibious one.  What 
+is not known is how the colonists were able to 
+successfully drive them off.
+     Some reports say that they were actually a 
+sentient humanoid race, and were able to, 
+utilizing a pheromone based communication 
+technique, to work out agreements with them to 
+retrieve their lost vessels from beneath the 
+waves.  This allowed them to reconstruct at 
+least a somewhat functioning vessel, and led to 
+a more stable and long term habitat.  Over time, 
+Chapter 8: Pelagers
+
+
+===== PAGE 35 =====
+they opened a dialogue with the local sentient 
+beings, and became a coexisting community.  
+Both communities were able to learn much 
+from each other, and then began to become 
+more of one community.  As the colonists 
+began to interbreed with the locals, over the 
+centuries the differences between the two 
+would change, and a new medium would be 
+born.  This would eventually bring into the fold 
+of humanity in the abhumans known as the 
+Pelagers.
+     Other reports say that the loss of the aquatic 
+food supply was too devastating a blow for the 
+colonists to recover from.  While there was a 
+small storage of them, starvation would set in 
+very soon without a solution.  An enterprising 
+researcher brought forth a proposition that 
+was...unique to say the least.  The claim was 
+that there was a secret agenda behind what was 
+being done on the planet, and that the goal was 
+to create weaponized monstrosities for military 
+applications.  This project had seen great 
+promise, but was now useless since they would 
+not be leaving the planet for the foreseen future. 
+ Combined with a retro-viral mutagen as a 
+delivery system, it would rewrite and 
+reconstruct their bodies to be better suited to 
+live in this new aquatic world.  With no other 
+options, the colonists utilized their last 
+scientific resources to mass produce enough for 
+all of the colonists to take, and became what is 
+now known as the Pelagers.
+ 
+     Which of these is the truth, if either, is still 
+not entirely clear.  Any trace of the original 
+machinery and process utilize to create such a 
+mutagen has long been lost to the seas, and any 
+understanding of such a machine was lost to the 
+Imperium long ago. If the Pelager are a hybrid 
+based on interbreeding, there is enough 
+humanity left in their genetics that they are 
+considered acceptable to the Administratum and 
+Ecclesiarchy, so they have seen no real need to 
+press further on that point.
+Pelager Society
+Source Disclaimer: This is fan written material
+     Regardless of the method utilized, one thing 
+is certain: the Pelagers are genetically an 
+offshoot of humanity.  Their culture is a simple 
+one, mirroring the nature of aquatic ocean life.  
+Various underwater communities are run by 
+elected officials, who may utilize any number 
+of means to become elected.  Their underwater 
+settlements appear to have been constructed out 
+of some of the sunken voidships and 
+cannibalized from the colonies that once floated 
+on the surface.  For this reason, the exact 
+records of events have been lost to legend and 
+history.  These underwater colonies vary wildly 
+in location, and are a testament to the versatility 
+and adaptability of the Pelagers.
+     Not all the voidships were cannibalized, 
+however.  By cannibalizing all that they could, 
+the Pelagers were able to cobble together 
+several working ones, enough to reach nearby 
+colonies on other planets.  On these planets, 
+similar events had occurred, but they were still 
+all the descendants of the same process.  
+Variations in local genetics did produce some 
+cosmetic differences, but the same basic traits 
+hold true across the various Pelager planets.  
+Now solidly in place, their society has become 
+incredibly devoted to research and genetics, 
+though their outward appearance can be 
+incredibly off-putting, and their physical 
+dexterity is less than adept on land.
+     Pelagers were happy to be rediscovered by 
+the Imperium, though they did not see any 
+reason to travel far from their planets until 
+recently.  Given that they had the means and 
+abilities to travel the stars and their skill, the 
+Mechanicus and Imperial Navy both backed 
+their request to be allowed out into the 
+universe.  This has led to Pelagers working 
+quite well in tandem with both organizations.
+Pelager History
+35
+
+
+===== PAGE 36 =====
+36
+Pelager History
+Pelagers in the Koronus Expanse
+Source Disclaimer: This is fan written material
+     Pelagers have traveled the galaxy for an 
+uncountable number of reasons, as they have 
+more freedom than many other Abhumans.  
+Many tend to pursue the roots that first brought 
+them to what is now their watery homeworlds, 
+the science of biology.  In spite of their 
+somewhat monstrous appearance, Pelagers are 
+actually quite learned and adept at utilizing 
+technology.  This has led to some very strange 
+reactions from many in the Imperium, who 
+expect the Pelagers to exhibit more in the way 
+of mindless violence.  That is not to say that 
+some do not prefer to take on more militant 
+jobs, as they are well schooled in the harsh 
+world that is the oceanic depths.
+     There are several Pelager colonies, some on 
+oceanic worlds, some on terrestrial worlds, and 
+some stations and construction docks.  Pelagers 
+are usually well received due to their technical 
+expertise and knowledge, though it may take 
+some time for the shock to wear off.  With 
+skills as varied as the stars in the skies, you 
+may find a Pelager doing research on a new 
+strain of life found on a distant planet, you may 
+find one manning the guns on an Imperial Navy 
+Cruiser, or you may find one leading their 
+people and founding new strongholds 
+throughout the stars.  Some have even managed 
+to locate ancient Writs of Trade, becoming 
+certified Rogue Traders in their own right.
+     Until recently, the Pelagers have been 
+contented to stay mostly on Oceanic worlds, 
+but with the bevy of strange creatures and 
+fantastic specimens that inhabit the Koronus 
+Expanse, it proved too tempting a place to 
+explore.  This caused many Pelagers to head 
+from their homeworlds to the wilds of the 
+Koronus Expanse to achieve whatever dreams 
+they might have.
+
+
+===== PAGE 37 =====
+Roleplaying Pelager Characters
+Source Disclaimer: This is fan written material
+      Much like their conventional human 
+counterparts, Pelagers have a great degree of 
+flexibility in how they embark upon the galaxy. 
+ Pelagers are generally quite smart, physically 
+mighty, and capable of inflicting devastating 
+damage with their powerful jaws and teeth.  
+They are, however, somewhat clumsy 
+physically and have some difficulties socially 
+as their physical appearance is very gruesome 
+for many in the Imperium to behold.  All 
+Pelagers are also instructed in the basics of 
+First Aid and the physical sciences, particularly 
+chemistry.
+     One of the first considerations for your 
+character should be where they come from.  Are 
+they from a Pelager Colony?  If so, is it one of 
+the colonies further away, or one located within 
+the Expanse?  Are you from a group of Pelager 
+who have served in an Imperial organization for 
+a prolonged period?  If so, were you brought 
+into it or born into it?
+     Another important consideration is to 
+determine your motivations.  What has brought 
+you to the Koronus Expanse, or at least set you 
+to venturing out into it?  Are you exploring to 
+catalog new forms of life?  Are you seeking 
+fame and fortune?  Are you perfecting your 
+martial technique?  Are you attempting to 
+recover lost technologies?  Are you seeking to 
+discover the truth behind the Pelager's origins 
+and history?
+     As always, remember that the guidelines set 
+forth above are never set in stone, and you are 
+free to come up with something beyond what is 
+written here and be as creative as possible.  
+Remember to sit down with your GM and 
+discuss the details and nature of your character, 
+as well as the role and status of the Pelager in 
+the campaign.
+Pelager History
+37
+
+
+===== PAGE 38 =====
+38
+Pelager Characters
+Pelager Traits
+Characteristics: +5 Strength, +5 Toughness, 
+-10 Agility, +5 Intelligence, -5 Fellowship
+Skills: Chem-Use, Medicae, Scholastic Lore 
+(Chymistry), Swim
+Traits: Amphibious, Improved Natural 
+Weapons (Jaws), Non-Imperial, Not Quite 
+Human
+Starting Wounds: 1d5+1 + 2xToughness Bonus
+Starting Fate Points: 2
+New Traits
+Amphibious
+     Pelagers can breathe water as well as air and 
+can stay underwater indefinitely without the 
+need to surface.  They also gain a +20 bonus to 
+all Swim (S) Tests, and do not suffer any 
+movement penalties whilst acting underwater.  
+Pelagers do still suffer penalties for attempting 
+to utilize unsuitable weapons underwater.
+Improved Natural Weapons (Jaws)
+     Pelager's jaws are incredibly sharp and can 
+pierce even advanced armor.  Characters with 
+this trait gain the Natural Weapons trait (See 
+page 366 of the Rogue Trader Core rulebook) 
+and remove the Primitive quality from their 
+Natural Weapons.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind 
+are unfamiliar and alien to Characters 
+with this trait. The character suffers 
+a -10 penalty on all Common Lore, 
+Forbidden Lore and Scholastic Lore 
+tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Creating Pelager Characters
+
+
+===== PAGE 39 =====
+Source Disclaimer: Lore in this section is from the Only 
+War Core Rulebook.
+     Ratlings (Homo Sapiens Minimus) are 
+abhumans, humans who followed a different 
+evolutionary path, descended from ancient 
+settlers cut off from larger human society. This 
+is where the similarity to Ogryns ends, 
+however. While Ogryns are large, brutish 
+creatures, Ratlings are incredibly short and 
+round, and remarkably clever.
+     Despite their obvious unsuitability for 
+military life, Ratlings are nevertheless drafted 
+wholesale into the Imperial Army. While they 
+cannot fill many of the human roles in the 
+Imperial Guard, Ratlings still proved incredibly 
+useful. Their small size allows them to infiltrate 
+enemy territory much better than the average 
+human, and, combine with their incredible 
+eyesight, makes them excellent snipers. In 
+addition, Ratlings have a reputation amongst 
+the Guard for their incredible cooking, and 
+often act as cook for the unit, in addition to 
+their battlefield duties. Their love of food is 
+well known, and despite their diminutive size, 
+they tend to eat almost twice the ration 
+allowance of a regular trooper.  Although, their 
+love of food can often get them into trouble, as 
+many Ratlings are known to “acquire” extra 
+supplies to supplement their diets, a practice 
+their Imperial Guard commanders frown upon.  
+Some do not limit their black-marketing to food 
+stores alone as many veteran troopers obtain 
+much of their non-standard issue weaponry 
+courtesy of 'the chef's special'.
+     In the field, Ratlings operate independently, 
+with a second Ratling who acts as a spotter and 
+backup marksman, or in small squads. They are 
+deployed behind enemy lines with the barest of 
+supplies, where they immediately go to ground, 
+secreting themselves, living off the land, and 
+waiting as patiently as spiders for their quarry. 
+They delight in causing confusion and havoc 
+among their enemies, killing officers and key 
+personnel from extreme ranges, with near 
+impunity. Their proficiency and marksmanship 
+may possibly be the Ratling’s one saving grace, 
+and despite being the butt of numerous jokes 
+over the millennia, many a Guardsman owes 
+their life to the sharp eyes and steady hands of a 
+Ratling sniper.
+Ratling History
+Source Disclaimer: Lore in this section is taken from 
+warhammer40k.wikia.com and is taken from the Imperial 
+Guard Codex, 3rd and 5th Edition, Codex Imperialis, 
+Codex Chaos 2nd Edition, Battlefleet Gothic, Apocalypse, 
+and Rogue Trader 1st Edition.
+     The Imperial world known as Ornsworld, 
+also referred to as Orn's World, is the primary 
+Ratling homworld located in the Segmentum 
+Obscurus. Ratlings are the smallest type of 
+Abhuman known to the Imperium, their 
+ancestors having become stunted by thousands 
+of years of inbreeding on worlds with climates 
+and environments even more conducive to 
+human life than ancient Terra and abundant 
+harvests. Ratlings are short and squat, although 
+not strong when compared to normal, baseline 
+humans. They are idle, hedonistic, gregarious, 
+over-friendly and sexually promiscuous. Their 
+lives are spent eating until sick, drinking 
+copious amounts of intoxicating beverages, and 
+procreating uncontrollably, almost like 
+Abhuman rabbits. These small, loud, hungry 
+and lecherous creatures are called Runtlings, 
+Stunties, Halflings and Ratlings by other 
+humans, among other, less printable things.
+    
+Ratling History
+Chapter 9: Ratlings
+39
+
+
+===== PAGE 40 =====
+40
+Ratling History
+     In 139.M41, Abaddon the Despoiler 
+launched his 12th Black Crusade, also called 
+the Gothic War. This was a vast military 
+campaign against the Imperium of Man which 
+would last until 160.M41. During the initial 
+outbreak of hostilities, Ornsworld was 
+subjected to a massive invasion by the Forces 
+of Chaos in search of the malefic artefact 
+known as the Eye of Night, which consisted of 
+an embedded statue of ancient antiquity 
+worshiped as a god by the Ratlings in the pre-
+Imperial era. Initially, the Chaos forces were 
+driven back by the Imperial Guard forces, but a 
+month later the Chaos vessels blockaded 
+Ornsworld, launching a full-scale invasion. 
+Millions of Ratlings died in the ensuing 
+slaughter. Eventually, the Chaos forces found 
+what they were looking for and departed with 
+the Chaotic artefact.
+     A sad chapter in the invasion of Ornsworld, 
+occurred during the Siege of Hauptstemmler 
+Keep, the last bastion of Ratling defiance 
+during Abaddon's invasion of the Ratling 
+homeworld. A great many Chaos Sorcerers 
+gathered to breach the walls of the mighty 
+edifice. Combining their eldritch powers, they 
+created a penetratrive vortex with which to 
+smash the adamantium-clad gates. However, 
+several of the Sorcerers mispronounced certain 
+key words of the spell and it quickly spiralled 
+out of control. The influx of Warp power 
+detonated catastrophically, engulfing the 
+besieging Chaos army and turning 3,000 of its 
+warriors into gibbering Chaos Spawn. The 
+explosion of Warp energy also levelled part of 
+the north wall, much to the dismay of the 
+Imperial Guard and Ratling defenders. The sea 
+of mutating flesh that assailed the breach soon 
+overran the defenders and the keep fell to 
+Abaddon. Even now, centuries later after 
+Abaddon left the world, rogue Chaos Spawn 
+from the siege have to be trapped and killed by 
+the Ratlings in summer beast hunts. 
+     In 999.M41, Ornsworld came under attack 
+once again from the Chaos Space Marines 
+known as the Knights of Blood. In a cruel 
+repetition of the horrors inflicted during the 
+Gothic War centuries earlier, over ninety 
+percent of its population was massacred before 
+Imperial Guard reinforcements arrived to 
+bolster the beleaguered planet's Ratling 
+defenders.
+     Much like the Abhuman cousins the Squats, 
+the Ratlings have almost disappeared from the 
+Imperium of Man in the late 41st Millennium 
+due to the incursions of the Tyranids into 
+Imperial space. Tyranid invasions of Ratling 
+homeworlds have led to a drastic decrease in 
+Ratling populations. For this reason, many 
+Imperial Guard units are being forced to train 
+their own snipers and infiltrators from among 
+the general soldiery of the Guard to 
+compensate.
+
+
+===== PAGE 41 =====
+Ratling Society
+Source Disclaimer: Lore in this section is fan written, 
+feel free to use or disregard it as needed.
+     Ratling society, if one could call it that 
+before the Chaos invasions, was largely a 
+bureaucratic nightmare of double dealing and 
+hedonism.  It was more a legally acceptable 
+means of overindulgence than anything else, as 
+the society was fully content to focus only on 
+the material pleasures of life.  This changed 
+dramatically with the invasion of the Chaos and 
+Tyranids during their invasions of Ornsworld.  
+Virtually all of those figurehead leaders died in 
+the initial assaults, leaving the beleaguered and 
+inexperienced military commanders to pick up 
+the slack.  If not for the structure that was 
+provided by the Imperium and the fact that 
+some Ratlings had spent some time with the 
+Imperial Guard, it is debatable whether or not 
+the planet would have been able to hold out as 
+long as it did.
+     After the Chaos left the planet, they re-
+structured their government to be more akin to 
+the Imperial style.  While there is still a love 
+amongst the Ratlings of the finer material 
+indulgences, so too is there the ever present 
+realization that if they are not disciplined in at 
+least some aspects of life that they may very 
+well not recover from another invasion.  They 
+still indulge, but there is certainly a more 
+pronounced seriousness amongst them when 
+the topic changes to important matters.
+     With colonization, expansion, and 
+repopulation now a paramount concern, a very 
+different air now presides over the formerly 
+purely hedonistic Ornsworld.
+Ratlings in the Koronus Expanse
+Source Disclaimer: Lore in this section is fan written, 
+feel free to use or disregard it as needed.
+     With the near extinction of the species at the 
+hands of the Tyranids, many high ranking 
+officials in the Ratling government saw the 
+need to scour the galaxy for both lost Ratling 
+colonies and suitable worlds for colonization.  
+While perhaps not their original destination, 
+many have found their way into the Koronus 
+Expanse.  With their expertise in infiltration 
+and penchant for mastery of social situations, 
+the Ratlings were able to quickly carve out a 
+niche for themselves amongst the denizens of 
+the Expanse.
+     There are many Ratling Colonies and 
+Strongholds in the Expanse, and quite a few 
+Ratlings have managed to make their way to 
+the upper echelons of leadership.  Some have 
+even managed to broker through some means a 
+legitimate Writ of Trade, which greatly aids in 
+their goals of expanding their holdings and 
+exploring for lost brethren.  
+Ratling History
+41
+
+
+===== PAGE 42 =====
+42
+Ratling History
+Roleplaying Ratling Characters
+Source Disclaimer: Lore in this section is fan written.
+     Ratlings have had a difficult history and 
+relationship with the Imperium from the start.  
+Their lifestyle did not initially mesh well with 
+the Imperiums, and while they were able to 
+prove themselves over time, the stigma of their 
+behavior never truly vanished.  They also have 
+truly profound things to consider as a race, as 
+most of them were destroyed by multiple 
+invasions from different malevolent parties, 
+leaving much of their old lives in ruin.  The 
+Koronus Expanse has proved an excellent place 
+for the Ratlings to thrive, as their mentality and 
+desires mirror many of those who have settled 
+in the region, and their new found needs are 
+much easier to meet with the nature of the 
+region.
+     There are several things to consider when 
+roleplaying a Ratling Character.  First, consider 
+where they are from.  Are they from 
+Ornsworld?  Are they from one of these newer 
+colonies?  Are they originally part of a Guard 
+Regiment and were rotated off duty whilst in 
+the Expanse?  Are they a member of some other 
+organization within the Imperium?  If so, where 
+are they from?
+     Next, consider why they are in the Koronus 
+Expanse.  Are they part of a Ratling 
+Expeditionary force sent to colonize and 
+repopulate?  Are they seeking lost colonies of 
+Ratlings to help bolster the population?  Are 
+they a member of an Imperial organization that 
+was brought to the Expanse for some reason?
+     Also consider the characters motivations, 
+remembering that Ratling motivations are just 
+as varied as other humans.  Perhaps they are 
+attempting to further the goals of securing the 
+future of their species?  Perhaps they are 
+members of a Guard Regiment that were 
+stationed, and are were given to the command 
+of a Rogue Trader for some purpose.  Perhaps 
+they seek personal fortune and reknown.  
+Perhaps they hope to establish a hedonistic 
+paradise planet to replace the culture they lost 
+on Ordsworld.
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game 
+while simultaneously providing a character that 
+you look forward to playing.
+
+
+===== PAGE 43 =====
+Ratling Traits
+Characteristics: +5 Ballistic Skill, -5 Strength, 
+-5 Toughness, +5 Agility, +5 Perception
+Skills: Awareness, Concealment, Silent Move, 
+Trade (Cook)
+Traits: Non-Imperial, Not Quite Human, Size 
+(Scrawny)
+Gear: Common Craftsmanship Long-Las
+Starting Wounds: 1d5 + 2xToughness Bonus
+Starting Fate Points: 2
+New Traits
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Ratling Characters
+Creating Ratling Characters
+43
+
+
+===== PAGE 44 =====
+44
+Scalie History
+Source Disclaimer: Lore in this section is from 
+wh40k.lexicanum.com and is refererenced from the 
+Necromunda Outlander's Rulebook page 27.
+     Scalies are a mutant strain of abhuman 
+found in the underhive which have stabilised 
+over time, although there is still a lot of 
+variation, and are not as stable other abhumans 
+found in the Imperium, like Ogryns and 
+Ratlings. 
+     Scalies are massive reptillian mutants almost 
+as broad as they are tall. Their durability and 
+strength are legendary among the people of the 
+Underhive and have a fearsome reputation. 
+Like some reptiles they have the ability to 
+regenerate lost limbs and their thick skin acts as 
+a natural armour. 
+     They are rarely seen but it is said that they 
+are by far the most numerous denizens of the 
+Underhive. They are undoubtedly intelligent 
+but seldom speak due to their twisted mutated 
+necks and voice boxes having changed beyond 
+the ability of normal human speech. So little is 
+known about their origins or if there are hidden 
+clans or tribes of Scalies in the most severely 
+polluted badzones in the Underhive.
+     They are mainly found in the employ of 
+Scavvies. Why they choose to work along side 
+them is unknown. No Scavvie Boss or King 
+worth his salt will be seen without one or two 
+Scalies in their gang.
+     When fighting they often use close combat 
+weapons and discuses or throwing axes. They 
+are also used as heavy weapons men by 
+Scavvies using portable bolt throwers called 
+Spear guns or Scatter Cannons, a large form of 
+blunderbuss. 
+Source Disclaimer: Lore in the following sections is fan 
+written and can be used or disregarded as needed.
+Scalies in the Koronus Expanse
+Source Disclaimer: This is fan written material.
+     Scalies in the Expanse inhabit the same 
+place that they do on Necromunda and other 
+Hive Worlds.  They are prized additions to 
+many Hive Gangs and their strength and 
+durability serve them well.  These traits are also 
+valued by aspiring Rogue Traders and other 
+persons of interest who see the benefit in 
+including them amongst their retinue as 
+personal bodyguards.  This practice has become 
+even more prevalent since, as abhumans, 
+Scalies bring down far less recrimination and 
+scrutiny from those in positions of authority 
+than a particularly resilient Xenos might.  They 
+are also a commodity much easier to come by 
+as they do not have any existing ties or tithe 
+obligations to the Imperial Guard as Ogryn and 
+Beastmen might.
+Chapter 10: Scalies
+
+
+===== PAGE 45 =====
+     Their position in the Expanse has become 
+quite a strange one, but one that has benefited 
+the group as a whole.  With their penchant for 
+being incredibly tough and resourceful 
+combined with the fact that many prefer not to 
+speak has allowed many to gain favor with 
+those who go on excursions to dangerous 
+places.  Amongst the many illicit trading 
+activities of the Expanse there are a substantial 
+number of underworld organizations that make 
+frequent use of Scalies in their numbers.
+     In spite of their relative abundance within 
+the Imperium, they are still not fully 
+indoctrinated in it's ways and customs as they 
+are often simply used as 'muscle' and given no 
+instruction as to it's machinations and 
+proclivities.  As such they are still 
+paradoxically largely unfamiliar with the 
+Imperium's customs beyond what they have 
+personally experienced.
+     Some Scalies have even risen to such 
+heights that they have been able to branch out 
+on their own and form empires, criminal or 
+otherwise, for themselves.  There are several 
+burgeoning Scalie colonies in the Expanse, 
+many of which are often visited by persons of 
+interest to recruit the inhabitants.
+Roleplaying Scalie Characters
+Source Disclaimer: This is fan written material
+     Scalie characters are unique in that they are 
+comparatively common in comparison to many 
+of the other Abhumans.  They are also unique in 
+that they can come from almost any walk of 
+life, especialy within the Expanse.
+     The first thing to consider is where your 
+character is from originally.  Are they from a 
+Hive World like Necromunda?  Is it in the 
+Expanse or from elsewhere in the galaxy?  
+Were they born on a voidship traversing the 
+stars?  Are they from one of the new Scalie 
+colonies that has sprung up in the Expanse?  
+Are they from some other location in the galaxy 
+entirely?
+     Next, consider what kind of interaction that 
+they might have had with the Imperium.  Did 
+they serve in a hive gang a hired muscle?  Were 
+they brought into a Rogue Trader crew early on 
+as a bodyguard?  Did they accrue enough favor 
+to branch out on their own?  Were they treated 
+kindly by those who they once and currently 
+traveled with?
+     Finally, consider your characters motivation. 
+ What has driven them to explore the wilds of 
+the Koronus Expanse?  Are they seeking a 
+better life and station for themselves?  Are they 
+attempting to recruit colonists from existing 
+Scalie populations on Imperial worlds?  Are 
+they hoping to continue a tradition of martial 
+excellence and service?  Are they seeking 
+something else entirely?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game 
+while simultaneously providing a character that 
+you look forward to playing.
+Scalie History
+45
+
+
+===== PAGE 46 =====
+46
+Scalie Characters
+Scalie Traits
+Characteristics: +5 Strength, +5 Toughness, -5 
+Agility, -5 Fellowship
+Skills: Awareness, Survival
+Talents: Disturbing Voice, Hardy, Melee 
+Weapon Training (Primitive)
+Traits: Limb Regeneration, Non-Imperial, Not 
+Quite Human, Scaly Hide, Size (Hulking)
+Gear: Common Craftsmanship Primitive 
+Weapon
+Starting Wounds: 1d5+2 + 2x Toughness 
+Bonus
+Starting Fate Points: 2
+New Traits
+Limb Regeneration
+     Scalies have an uncanny ability to 
+regenerate limbs if they are severed.  Any time 
+that a Scalie suffers a Removed Limb Critical 
+Effect, it is still removed, but after 1d5-
+Toughness Bonus Days (Minimum 1) the limb 
+reforms and all penalties from the wound are 
+removed.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Scaly Hide
+     Scalies have a tough reptilian hide that is 
+capable of absorbing a tremendous amount of 
+punishment.  Scalies gain the Natural Armour 
+(2) Trait, which stacks with any worn armour.
+Creating Scalie Characters
+
+
+===== PAGE 47 =====
+Source Disclaimer: Lore in this section is taken from 
+wh40k.lexicanum.com and is referenced from 
+Warhammer 40k Compendium, Codex Imperialis, 
+Warhammer 40k Compilation, Codex Titanicus 2nd 
+Edition, and the Warhammer 40k 6th Edition Rulebook.
+     Squats (Homo sapiens rotundus) were short, 
+stocky and tough abhumans. Of all the 
+abhuman types, they most closely resembled 
+humans. Squats were the descendants of 
+humans who colonised the worlds around the 
+galactic core in the far distant past. These 
+worlds are some of the oldest in the galaxy, 
+formed when the laws of physics had yet to be 
+stabilised. 
+     The Squat ancestors were human colonists 
+that reached the mineral rich worlds around the 
+galactic core, during the time of the initial 
+expansion beyond Earth's own system, long 
+before the emergence of the Emperor. The 
+colonisation came at the right time, as Earth's 
+own mineral wealth was depleted. The worlds 
+at the galactic core were rich in rare and unique
+ minerals, but in terms of life were barren and 
+unsuited for colonisation. These worlds are 
+dark and bleak. Their gravity is great, usually 
+two or three times that of Earth. Their 
+atmospheres are either thin or non-existent. 
+Even those planets with atmospheres are 
+blasted by tremendous storms.
+     These planets became Mining Worlds. 
+Colonists were forced to become self-sufficient, 
+providing their own underground grown food. 
+Due to the completely hostile nature of the 
+surface the colonists formed underground 
+societies. During the long isolation of the Age 
+of Strife, the Squat race developed, evolving to 
+suit their environment, becoming tougher, more 
+resilient and physically shorter.
+     Some say the real history of the Squats 
+begins in the Age of Strife when their worlds 
+were cut off from Terra and the race developed, 
+but their actual origins begin much earlier 
+during the Dark Age of Technology, or as the 
+Squats called it, the Age of Founding. 
+Squat History
+Chapter 11: Squats
+47
+
+
+===== PAGE 48 =====
+48
+Squat History
+Relations with the Imperium
+Source Disclaimer: Lore here is taken from 
+wh40k.lexicanum.com, references at start of section.
+You people do well at war because you treat it as a 
+religion. We do well because we treat it as a business. It 
+is just a matter of outlook.
+-Warlord Hargir, son of Brond, Gruben Stronghold
+     The Imperium first encountered the Squats 
+during the age of reunification called the Great 
+Crusade as the Emperor's forces reached the 
+worlds near the galactic core. Many of these 
+worlds were the Squat homeworlds. Stubborn, 
+insular and fiercely independent, war between 
+the Squats and the Imperial forces was 
+inevitable. High casualties suffered by the 
+Space Marine Legions led to the development 
+of the Mk. III Power Armour, suitable for the 
+conditions being fought in - confined tunnel 
+complexes with little cover.
+     The Squat homeworlds have long been part 
+of the Imperium, but enjoy a level of autonomy 
+greater than the ordinary self-governed Imperial 
+world. The Homeworlds, while governing 
+themselves without interference from the 
+Adeptus Terra, are expected to follow Imperial 
+policy on wider issues. The relationship 
+between the Homeworlds and the Imperium is 
+generally peaceful, although through history 
+has been punctuated by bouts of war and 
+bitterness. The Squats and the Imperium trade 
+to their mutual benefit. Both races also share 
+many enemies, especially Orks, making it in 
+their best interests to cooperate. The Squats do 
+not follow 
+the Imperial Cult, rather they revere their 
+ancestors. Squats fighting alongside the 
+Imperial Guard often adopt the Emperor into 
+their beliefs, as a guardian of their ancestors. 
+     Squat technology is based upon the heavy 
+mining equipment they brought with them to 
+the Homeworlds. During their isolation from 
+the rest of humanity they adapted it for other 
+uses, notably exo-armour which was 
+engineered from heavy mining suits. Squats 
+continued to innovate and invent while 
+humanity sank into a Dark Age. As a result, the 
+Squats have developed technologies such as 
+neo-plasma and warp cores far in advance of 
+anything the Imperium owns. Some Squat 
+technologies were absorbed into the Imperium, 
+especially tunnelling vehicles and weaponry 
+such as the Termite.
+     In Warhammer 40,000 Squats had a similar 
+armament to Imperial armies, coming with las 
+and bolt weaponry as standard. Armies also 
+included squads in exo-armour supported with 
+bikes and trikes. Squats were characterised in 
+Epic with colossal war machines, including the 
+Land Train (which supported many different 
+cars, including the Dragon Car, the Berserker 
+Car, the Mortar Car and the Rad Bomb car), 
+Leviathan (used as a mobile infantry transport, 
+capable of holding almost a hundred squats 
+within), Cyclops (a spaceship weapon mounted 
+on a Colossus chassis and used originally to 
+devastate rival Squat warlord's war machines) 
+and Colossus. 
+
+
+===== PAGE 49 =====
+Source Disclaimer: Lore here is taken from 
+wh40k.lexicanum.com, references at start of section.
+Squat History
+     Squat history is divided into five ages, each 
+marked by a dramatic change in both galactic 
+conditions and Squat society. These ages are: 
+The Age of Founding
+     The Age of Founding is equivalent to the 
+Dark Age of Technology for humanity. This is 
+not technically the first period of the Squats as 
+they had yet to evolve, but is the time of the 
+founding of the colonies that would become the 
+Squat Homeworlds. Almost twenty thousand 
+years ago contact between these planets and 
+Terra was almost continuous, testament to the 
+importance of these colonies. Terra also kept 
+the worlds well supplied with that which they 
+could not produce for themselves in adequate 
+amounts, primarily food. This period lasted 
+until the Age of Strife. 
+The Age of Isolation
+     The Age of Isolation corresponds with the 
+earlier part of the Age of Strife - around M23-
+25. The galactic core was cut off from the rest 
+of human space by the devastating Warp storms 
+of the Age of Strife. Many worlds were 
+swallowed by the Warp and disappeared 
+forever, others were trapped in stasis and 
+became lost. Most survived although they were 
+separated from Earth and all contact was lost 
+with the rest of the galaxy. During this time of 
+isolation and danger the Squat worlds still in 
+contact with each other began to organise for 
+their mutual defence. It was at this time that the 
+Squats began to refer to their worlds as the 
+Homeworlds. 
+     The Homeworlds remained isolated for 
+thousands of years and their inhabitants learned 
+to survive in a universe that was becoming 
+increasingly hostile. Those that survived grew 
+and prospered. Settlements were enlarged and 
+fortified into impregnable Strongholds. They 
+soon developed alternative technologies to 
+make up for the lack of supplies from Earth. 
+     During the isolation the complex system of 
+Engineer Guilds developed. These Guilds were 
+responsible for preserving technical knowledge 
+and skills as well as training technicians, 
+miners and other specialists necessary for the 
+Strongholds. The Guilds transcended the 
+Strongholds, allowing every Stronghold to 
+benefit from the preserved knowledge as well 
+as new advances in technology. 
+     During this age the Leagues first began to 
+develop from Strongholds allied for trading and 
+defence purposes. 
+The Age of Trade
+     We have always been a race of traders. It is natural 
+to us that we should trade the fighting skills of our 
+Brotherhoods. As well as bringing us a profit, it also 
+allows our youngsters to gain experience and honour, 
+and to keep alive the skills which our strongholds may 
+one day need for their own defence.
+-Lord Grumni, Bruggen Stronghold
+     The Age of Trade took place during a slight 
+abatement of the warp storms during the Age of 
+Strife and led to the Squats encountering other 
+races, including Orks and Eldar. 
+     At the beginning of the Age of Trade, some 
+strongholds were attacked, but the aliens 
+quickly realised that the Squats were 
+determined and tenacious fighters, and that 
+trade was a more practical arrangement. The 
+Squats took full advantage of their tremendous  
+mineral wealth, which they traded for weapons, 
+foodstuffs and high-technology systems. To this 
+day, Squat hydroponic plants, developed with 
+Eldar help, are among the most efficient food 
+sources in the Imperium. The Squats remained 
+carefully neutral in the numerous conflicts 
+between Eldar and Orks, maintaining trade  
+links with both sides. There were inevitably 
+small wars from time to time, but for the most 
+part the Squats' complex structure of treaties 
+and trade agreements maintained a stable peace.
+The Age of Wars
+     So Grunhag led his host to Wyss, encamped upon the 
+plain of Swend. Proud Hargan and rich Erlach fell, 
+destroyed and ravaged and defiled.
+     "You see my power" Grunhag quoth, "Let Imbach see 
+and quake in fear, and pay me treasure, wealth and 
+slaves" he added with a sneer.
+     Lord Uri sat in Imbach's hall, his brow as hard as 
+knotted flint. "No Ork shall take our folk as slaves, nor 
+what we win from laden rock, while one in Imbach still 
+draws breath" he told proud Grunhag "Nothing here is 
+yours except an Ork-shaped hole and headstone with 
+your name."
+     Called Imbach to the vain Eldar, "Your enemy is at 
+our gates. Come to our aid against your foes, together let 
+us lay them low." The Eldar never made reply, but left 
+fair Imbach to the Orks. "We fight alone, then" Uri said 
+"Our friends leave us to die".
+-Excerpt from The Fall of Imbach 
+Squat History
+Squat History
+49
+
+
+===== PAGE 50 =====
+50
+Squat History
+     The Age of Trade lasted for nearly three 
+millennia, but finally collapsed when an 
+enormous Ork battle-fleet, under the command 
+of Grunhag the Flayer, attempted a full-scale 
+invasion of the Homeworlds. Losses on both 
+sides were astronomical, with vicious tunnel-
+fights through the mine workings and bloody 
+pitched battles in the Squats' underground 
+settlements. The Squats appealed to their Eldar 
+trading partners for help against the invading 
+Orks, but none was received. 
+     The Age of Wars, as it became known, is 
+regarded by the Squats as the blackest chapter 
+in their history, and the double betrayal by Orks 
+and Eldar gave rise to a cultural enmity which 
+still persists. Many strongholds were wiped out 
+by the Orks, and the traditional epic ballad 
+known as The Fall of Imbach commemorates 
+one such destruction. Even today expeditions 
+are mounted from the Squat Homeworlds in 
+search of lost strongholds, and these 
+expeditions are often accompanied by Adeptus 
+Mechanicus priests, eager to rediscover lost 
+Squat technology. 
+The Age of Rediscovery
+     On one side of me stand my Homeworld, Stronghold 
+and Brotherhood; On the other, my ancestors. I cannot 
+behave otherwise than honourably.
+-Warlord Kettri son of Egil, Grindel Stronghold
+     The Age of Rediscovery was the most recent 
+phase of Squat history, corresponding to the 
+Great Crusade and the current Age of the 
+Imperium. As the Imperium recovered from the 
+Age of Strife and began to reunite the scattered 
+worlds of humanity, the Squat Homeworlds 
+were rediscovered and contact with the 
+Imperium was established. 
+     The Imperium found that a distinct culture 
+had developed on the Homeworlds, and that the 
+Squats had moved outwards through the galaxy, 
+extending their domains. Often they settled 
+harsh planets similar to their own Homeworlds, 
+but they also occupied more conventional 
+worlds able to support normal Human 
+civilization. 
+The Squats have advanced our cause considerably over 
+the millennia. On no other group of worlds has so much 
+Dark Age technology survived, nor so much expertise 
+been preserved.
+-Morgin Harad, Adeptus Mechanicus
+     The Adeptus Mechanicus are highly 
+interested in the Squats and the Homeworlds 
+for several reasons: Squats possess a high level 
+of technical expertise which seems to come 
+naturally to the race. Additionally, the 
+Homeworlds as a whole possess the greatest 
+amount of surviving STC equipment in the 
+Imperium.
+     The Squats are said to allow the Adeptus 
+Mechanicus free access to Squat technology. 
+However it is also said the Squats keep their 
+technology from other races, regarding the 
+Adeptus Mechanicus as little more than 
+sorcerers mired in superstition. 
+
+
+===== PAGE 51 =====
+     During their long isolation the Squats were 
+forced to become self-sufficient in order to 
+survive the barren environments of their 
+Homeworlds. They have also managed to 
+maintain technological knowledge and 
+expertise, which has allowed the race to 
+continue to progress technologically. 
+Accordingly the Squats have developed their 
+own advanced technologies, which not even the 
+most technically-adept of the Tech-priests 
+understand. These include the neoplasma 
+reactor powered by a warp-core and held in 
+thrall by a zero-energy containment field. No 
+other race has developed this technology and 
+the Adeptus Mechanicus gave up on their 
+experiments with warp-cores after the infamous 
+Contagion of Ganymede. Some of the 
+technology developed by the Squat engineers is 
+considered too dangerous and remains unused. 
+Several of the weapons now in regular Imperial 
+service were originally developed by the 
+Squats: this includes the Leviathan super-heavy 
+assault transport, Thunderfire cannon, Thudd 
+gun and Mole mortar. 
+     In war, the Squats used squads of 
+motorcycles supported by massive artillery 
+barrages from juggernaut war machines such as 
+the Land Train, Colossus, Cyclops and 
+Leviathan. They also used advanced armour, 
+such the heavy exo-armour. 
+Near Extinction
+     The young Warlord turned to the ancient 
+Squat beside him. “Revered Ancestor, what is 
+our best course in this situation?” 
+     The Living Ancestor half-closed his rheumy 
+eyes.  “I have seen this but once before. Six 
+hundred years before your birth, your revered 
+ancestor Lord Thyngrim, whose name you bear 
+in your turn, was on the world of Dioscis Theta. 
+I was younger then, undistinguished amongst 
+the mass of the Brotherhood.”  
+     “And how did Lord Thyngrim win the day?” 
+asked the Warlord with some impatience. The 
+Orks were getting closer. 
+     The Ancestor shook as he chuckled.  “I 
+cannot tell you how to win as he did, but if you 
+don't mind uncomfortable truths, I can tell you 
+how to avoid losing as he did.”
+-Squat Parable
+     At first the disappearance of the Squat army 
+from the game rules was explained by a 
+background story describing that the race had 
+been devoured by the Tyranids (in effect this 
+still kept them as part of the background). The 
+story went that the Squat race had been 
+virtually destroyed, and the few remaining 
+Homeworlds were annexed by the Imperium 
+over the hundreds of years after the attacks. 
+Only a few scattered and embittered remnants 
+of Squats survive throughout the Imperium. 
+Squat History
+51
+
+
+===== PAGE 52 =====
+52
+Squat Society
+Source Disclaimer: Lore in this section is taken from 
+wh40k.wikia.com and is referenced from Warhammer 
+40,000 Compendium and Codex Imperialis.
+     Strongholds are Squat settlement centres. 
+They were generally founded during the 
+original colonisation and those produced later 
+are known as Newholds. Strongholds also often 
+join together under Leagues to form defensive 
+pacts.
+     Generally a Stronghold develops around a 
+mine and its associated living quarter although 
+some later developments were not associated 
+with mining. A hereditary Lord ruled each 
+stronghold and was protected and supported by 
+the Hearthguard. The Hearthguard were the 
+elite of a Squat army and the servants to the 
+Lord while also protecting the Lord when he 
+went to war. Each Stronghold had a group of 
+Brotherhood or War-Brethren which formed the 
+core of the Squat armed forces for the 
+Stronghold. Every Squat had an obligated 30-
+70 year service period although they may not 
+be called upon to fight until they had sired two 
+sons and raised them to maturity. This helped 
+protect the continuity of the race from the 
+Stronghold's military activities. A Squat could 
+then retire from active duty with his honour and 
+probably some wealth and take up a position of 
+responsibility in his family's business.
+     The Brotherhood was often also seen as a 
+mercenary force. In times of peace warriors 
+were traded for resources to either fight for the 
+Imperium or for other strongholds. Another 
+member of the aristocracy was the Warlord, a 
+close relative of the Lord who was there to be 
+placed in control of the Brotherhood in order to 
+prevent Lords from wielding too much power
+and sending their troops into battles they should 
+not be fighting. Other Lords would send their 
+Brotherhoods on expeditions which range from 
+locating other ancient and lost strongholds to a 
+campaign against an alien race or piracy. Some 
+Brotherhoods had totally turned to piracy and 
+become known as Squat Reavers. When they 
+returned to their stronghold they distributed the 
+booty between the pirates and the Lord of the 
+Stronghold.
+     Squats had a requirement to provide forces 
+for the Imperial Guard and this often took the 
+form of a detachment of the Brotherhood. 
+Space Marines however have a low tolerance 
+for mutants and so Squats weren't posted to 
+places they were likely to meet the Adeptus 
+Astartes. 
+     Leagues were groups of Squat Strongholds 
+which worked together for a common purpose- 
+usually mutual defence- trade or dealings with 
+the Imperium. Leagues varied greatly in size, 
+the smallest consisting of four Strongholds and 
+the largest consisting of over three thousand. 
+The League of Thor was the most powerful and 
+influential, including over 300 strongholds. The 
+League of Norgyr was the league closest to 
+Holy Terra.
+     A League usually encompassed the 
+Strongholds on more than one planet. There 
+were around 700 Leagues at the time of the 
+Squat extinction.
+     Each League was led and dominated by a 
+single Stronghold. As some Leagues were 
+virtually nations with distinct cultures, Squats 
+often identified themselves with the League 
+their Stronghold belonged to.
+Squat Society
+
+
+===== PAGE 53 =====
+     The Squats had a strong sense of mutual 
+preservation, as it had been known for rival 
+leagues to go to war with each another. Such 
+occasions could lead to lasting enmity, as 
+Squats were inclined to remember deeds of 
+infamy for many generations. The League of 
+Thor and League of Grindel fought an 
+unusually bitter war around 2,000 years ago 
+when settlers from both sides clashed over the 
+exploration of the Lost Stronghold of Dargon. 
+The war that followed resulted in the 
+destruction of several Strongholds and many 
+key victories for the League of Thor including 
+the capture of two other Leagues. Peace only 
+came with the huge Ork invasion of Grunhag 
+the Flayer which obliged all the Leagues to 
+unify against their mutual foe. Although the 
+war ended with the rout of the Orks, the two 
+Leagues remained distrustful rivals and both 
+sides considered the other side owing them 
+debts of blood and honour. 
+Known Leagues:
+    Emberg - 4 Strongholds
+    Grindel
+    Kapellar - 3000+ Strongholds
+    Norgyr
+    Thor - 300+ Strongholds
+Engineer Guilds
+     The Tech-adept rewound the tendrils into the 
+stump of his wrist. "The nature of this device is not 
+clear to me." The short figure at his side bustled up 
+to the console.
+     "Well, shift your spanners and let's have a look 
+at the thing." The Tech-adept sidled uncomfortably 
+away, and the Squat peered into the casing.
+     "Now, then. Hydroplastic power transmission, 
+controls attached to a timer and what looks like an 
+encoder, a pressure chamber at the centre, 
+surrounded by..."
+      The Tech-adept, who was looking over the 
+Squat's shoulder by this time, shot a manipulative 
+tendril into the machine, seizing a frayed and 
+broken end of a cable.  "If we remake this join..." he 
+began, enthusiastically. 
+     The Squat laid a restraining hand on his arm.  "I 
+really wouldn't recommend it. You see, I interpret 
+this device as an unusually complex plasma bomb, 
+and that cable you're holding goes direct to the 
+arming mechanism."
+-Excerpt from Engineer's Guild Archives
+     The Engineers Guilds were important 
+segments of Squat society. Tracing its origin 
+back to the Age of Isolation, the Squats as a 
+whole developed a considerable technological 
+expertise in order to survive without Terran 
+support, and there was regular mercantile travel 
+between strongholds. From this traffic arose a 
+distinct class of travelling engineer, moving 
+constantly between strongholds to undertake 
+important technological tasks. Squat Engineer 
+Guilds arose to protect these individuals, who 
+often found themselves caught up in inter-
+League wars between various Squat 
+     
+          strongholds. Soon enough Squat 
+Engineer Guilds developed into one of 
+the most powerful institutions of Squat   
+         society, and Engineers themselves 
+enjoyed more prestige as a result. It became 
+commonplace for gifted Engineers to be 
+inducted to Guilds at an early age.
+     Guildmasters are high-ranking figures 
+within Squat Guilds. A Squat Engineers Guild 
+Expeditionary Force always contains at least 
+one Guildmaster, who serve as engineering 
+specialists. Guildmasters are well-protected, 
+often wearing Exo Armour and Force Fields. 
+They are also known to sometimes go into 
+battle on Squat Bikes.
+Squat Society
+53
+
+
+===== PAGE 54 =====
+54
+Squat Society
+Living Ancestors
+     Living Ancestors are the Psykers of the 
+Squat race. The typical lifespan for a Squat is 
+about 300 years. However a small portion of 
+the population can live up to 800 years. This 
+select part of Squat society are treated withe 
+enormous respect, being known as Living 
+Ancestors or Spirit Lords. They are treated as 
+living members of the ancestor group which 
+forms the basis of Squat religion. Their long 
+lives have filled them with wisdom, as well as 
+enhanced their psychic potential, which begin 
+to manifest at around 500 years old. The fact 
+that psychic powers are practically unknown 
+amongst other Squats makes the Living 
+Ancestor doubly venerated.
+     When a Squat reaches Living Ancestor 
+status, he surrenders his name and his goods to 
+his descendants, and even has a funeral ritual 
+held by his clan. After, the Living Ancestor 
+goes to live with the rest of his kind and will 
+often advise Lords of various Squat 
+strongholds.
+Hearthguard
+     Hearthguard were elite bodyguards and 
+warriors under the personal command of Squat 
+Warlords. These warrior elite were drawn from 
+the Lord's most loyal retainers, who formed an 
+aristocratic class in Squat Strongholds. Of high 
+status, Hearthguard were lavishly decorated in 
+ornaments, diamonds, and gold jewelry.
+ Furthering their wealth, it was traditional for a 
+Squat Warlord to present a Hearthguard with a 
+gift in recognition for their loyalty, usually 
+specially crafted by the Lord himself. Because 
+of their richly decorated equipment and 
+trophies, Hearthguards were very individual in 
+their appearance and did not usually wear any 
+kind of standardized uniforms.
+Squat Warlord
+     Warlord is the title of Squat commanders. 
+Warlords are close relatives of Stronghold 
+Lords, and take command of a Stronghold's 
+Brotherhood in battle. On the battlefield he is 
+accompanied by a unit of Hearthguard, drawn 
+from the Lord's loyal retainers. 
+
+
+===== PAGE 55 =====
+Source Disclaimer: Lore in this section is fan written and 
+can be used or disregarded as needed.
+     After their near extinction, the Lords of the 
+various Squat Strongholds met to decide the 
+fate of their people. With the old Leagues 
+destroyed with the Tyrannic Invasion, a new 
+order had to be formed from the chaos.  Though 
+it took some time, several new Leagues were 
+formed.  As a whole, they met and 
+acknowledged the risk of failing to expand their 
+colonization efforts and rebuild their place in 
+the galaxy.  So too did they realize the folly in 
+concentrating their colonization efforts to a few 
+nearby systems, and saw that their scope must 
+be larger than any previous.  So too was it 
+remembered that many colonies of their own 
+had been lost to the warp, and many never 
+heard from again.  Their goals were lofty, but 
+had to begin somewhere.  As such, the Squats 
+began their efforts by calling in favors owed by 
+the Adeptus Mechanicus.
+     When the Mechanicus owes any 
+organization a favor, it cannot be expressed 
+strongly enough that it is seldom a small one.  
+With the myriad of technology that the Squats 
+were able to restore to the galaxy, they were 
+owed quite a bit by the machine cult.  By 
+calling in some of those favors, they were able 
+to garner the most vital thing for this plan to 
+succeed:  Starships.  Several Explorator Fleets 
+worth in the end, a massive Battlefleet that was 
+reworked as quickly as possible to meet 
+Engineer Guild specifications and standards.
+     Once this was done, enormous colonization 
+fleets spread out amongst the galaxy, each with 
+different goals.  Some were venturing forth to 
+attempt to re-establish contact with long lost 
+colonies.  Some traversed the stars to find new 
+worlds rich in minerals and materials to 
+colonize.  Still more went to re-establish 
+contacts and find allies within the Imperial 
+hierarchy, never underestimating the power that 
+the Imperium could wield for those it treated as 
+friend.
+     This eventually led them to the Koronus 
+Expanse, a wild and untamed region with 
+virtually limitless potential.  This combined 
+with the relative freedom that even Imperial 
+citizens could have within it's reaches made it 
+an ideal place for colonization by the Squats.  
+With plenty of viable planets, reports of several 
+lost colonies within it's borders, and exciting 
+new discoveries being made all the time, it 
+seemed to be the perfect location for the 
+rebuilding of the Squat people.  With new 
+technologies and a naval force to be reckoned 
+with, they have made a profound impact with 
+the several colonies they have founded amongst 
+the Expanse's frontiers.
+     Several Squats have even been fortunate 
+enough to come across verified Writs of Trade, 
+becoming certified Rogue Traders in their own 
+right.
+Roleplaying Squat Characters
+Source Disclaimer: This is fan written material.
+     Squats are a unique roleplaying opportunity 
+in that they may have been nearly exterminated, 
+but they have the lifespan, knowledge, and 
+technical expertise to be able to recover from 
+such an event.  Squats tend to be singularly 
+minded, and may not beliefs those who follow 
+the superstitions of the Imperium and in 
+particular the Machine Cult in high regard, but 
+they do acknowledge that they can produce 
+results and they have their place.
+     One of the first things to consider is where 
+your Squat is from.  Are they from the original 
+homeworlds?  If so, which one?  Are they from 
+the new colonies that have been founded in the 
+expanse?  Are they from the battlefleets that 
+protect those colonies?  Are they based off of a 
+standard Imperial colony in the Expanse?
+     Another concern is what drove them to 
+come to the expanse and their motivations.  Are 
+they here of their own volition, or as a part of 
+the Squat drive to rebuild?  Are they here 
+founding new colonies, or are they searching 
+for lost ones?  Are they here seeking to build 
+ties with the Imperial agents who make their 
+name in the Expanse?  Are they out to make a 
+name for themselves?
+     Always remember that the information 
+presented here is purely a guideline to get 
+creativity started.  The Game Master is always 
+the final arbiter of what is and is not allowed in 
+their game, so make sure to try and come up 
+with a concept that will work with the game 
+while simultaneously providing a character that 
+you look forward to playing.
+Squats in the Expanse
+Squats in the Koronus Expanse
+55
+
+
+===== PAGE 56 =====
+56
+Squat Characters
+Squat Traits
+Characteristics: +5 Strength, +5 Toughness, -5 
+Agility, +5 Intelligence, -5 Perception, -5 
+Fellowship
+Skills: Common Lore (Tech), Forbidden Lore 
+(Archeotech), Tech-Use, Trade (Any)
+Traits: High Gravity Accustomed, Non-
+Imperial, Not Quite Human
+Starting Wounds: 1d5+2 + 2xToughness Bonus
+Starting Fate Points: 2
+High Gravity Accustomed
+     Squats have grown strong on their mining 
+colonies and are able to tolerate high gravity 
+environments with no difficulty.  Squats ignore 
+all the penalties for High Gravity worlds (See 
+page 269 of the Rogue Trader Core Rulebook).  
+In addition, when not on high gravity worlds 
+they add 4 to the total of their Strength and 
+Toughness Bonus for determining Carrying 
+Capacity.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+          with individuals who have come to trust 
+the Abhuman player character, for 
+    whatever reason (although the final 
+    arbitrator of this is the GM). Finally, 
+    the presence of any Abhuman aboard 
+   a human vessel is unsettling for the 
+     crew, and as rumours spread, 
+      discontent over the alien presence in 
+      their midst becomes noticeable. The 
+   continued presence of one or more 
+  Abhuman player characters aboard a 
+ship reduces its Morale by 1.
+Creating Squat Characters
+
+
+===== PAGE 57 =====
+Source Disclaimer: Lore in this section is taken from 
+warhammer40k.wikia.com and referenced from the 
+Warhammer 40,000 6th Edition Rulebook.
+Troths (Homo sapiens verdantus)
+     Troths are endemic to the world of Verdant, 
+and unable to leave it due to their particular 
+adaptation to it. They are virtually unknown to 
+the Imperium at large. 
+Source Disclaimer: Lore beyond this point is fan written, 
+feel free to use or disregard it as needed.
+     Many centuries ago those who lived on 
+Terra of old realized that there was a harsh 
+reality that they would have to face: the 
+growing need for agricultural foodstuffs and the 
+ever growing numbers of humanity.  Having a 
+much better understanding of what now can 
+only be called the arcane science of Terra-
+forming, several ventures were attempted to 
+perfect the process.  Verdant was one such 
+world, selected for it's particularly inhospitable 
+nature.
+     A dusty wasteland with very little in the way 
+of life, it was the perfect candidate for the 
+fledgling process, and so several colony sites 
+were constructed around the planet to begin it's 
+transformation.  The process was begun in 
+earnest and began to yield impressive results 
+over the course of several decades utilizing 
+highly accelerated methods.  The atmosphere 
+began to transform from toxic to breathable, it's 
+magnetosphere was reformed with the help of 
+machinery to help contain it's new atmosphere, 
+excavating of subterranean water deposits 
+provided an excellent source of water. This 
+paved the way for various agricultural 
+specimens to be introduced into the system and 
+thrive, further aiding the planet's development.
+     After a bevy of positive reports, the planet 
+was isolated from the galaxy by the bevy of 
+warp storms that plagued it.  What happened 
+next is fairly unclear, as the records were not 
+kept in a digital or paper format for some time.  
+There was, however, a bevy of oral history that 
+was recovered from various elders and 
+shamanic figures from amongst the tribes that 
+now dot Verdant's surface.
+     The planet's modified biosphere was 
+successfully modified and stabilized, and the 
+colonists continued with their original plans, 
+even though they knew that it was highly 
+unlikely that they would ever see another planet 
+again.  They finished introducing the intended 
+plant life, and finished with requisite animal 
+life to to provide a stable planetary 
+environment.  Once this was finished, the 
+colonies were cannibalized to help make more 
+permanent habitation.
+     What happened over the next several 
+thousand years may have been the result of 
+further experimentation with the terraforming 
+process, a branching out into genetic sciences,  
+or even the effect of the warp in close 
+proximity.  Whatever the cause it remains 
+undetermined to this day, but one undeniable 
+reality is that the original human colonists 
+became something else over the course of their 
+habitation of their planet, and were reclassified 
+as Troth upon rediscovery by the Imperium.
+     Their rediscovery was somewhat later than 
+many other abhumans, and unfortunately were 
+riding on the tails of certain figures having 
+questions about the legitimacy of the Beastmen. 
+ As such, they were placed on quarantine until 
+further investigation could be performed.  They 
+found a tribal group of people living largely in 
+harmony on a lush world overflowing with 
+agricultural resources.  These people, who 
+called themselves Troth, were gifted with a 
+strange adaptation in that they seem to have 
+developed some of the characteristics of plants. 
+Troth History
+Chapter 12: Troth
+57
+
+
+===== PAGE 58 =====
+58
+Troth History
+ Their skin contains the necessary chloroplasts 
+to facilitate photosynthesis for the purpose of 
+breathing, and their feet have the ability to 
+absorb nutrients from the soil.  This allowed the 
+Troth to live very much in harmony with their 
+surroundings and have a relatively minimal 
+impact on the environment as a society.
+     For many years it was assumed that Troth 
+could not leave their planet, and the 
+investigation of their claims to humanity were 
+intensely scrutinized.  It was not until one 
+fateful day that a particularly forceful member 
+of the Administratum brought a Troth inside an 
+Imperial colony and began pumping nothing 
+but oxygen into the air.  The Troth, needing 
+Carbon Dioxide to properly breathe through 
+their skin, began to choke and struggle.  As the 
+Administratum official began to laugh and 
+point out how this proved their lack of 
+humanity, everyone was surprised when after a 
+strained cracking sound, the Troth opened it's 
+mouth and gasped a breath.
+     While over time their efforts and mutation 
+did provide an alternative method of breathing, 
+the entire species still had lungs, albeit unused 
+ones, within their anatomy.  Further 
+investigation revealed that they still retained 
+more or less the same biology within their 
+bodies, though with the addition of the plantlike 
+characteristics.  Though the Administratum was 
+less than happy with this the Troth were official 
+recognized as a strain of humanity, and began 
+to be introduced to the galaxy at large.
+Troth Society
+Source Disclaimer: This is fan material
+     The current Troth society is a tribal one, 
+wherein a leader is given a position of 
+leadership by the people.  This leader acts as a 
+mediator and final voice in disputes, and gives 
+resolution if no course of action can be agreed 
+upon. They typically listen to the advice of 
+Elders of a tribe, as many have served their 
+term as leaders in the past.  Elders are also 
+tasked with the important job of remembering 
+and passing down the lore and history of the 
+Troth, which while partially mired in the 
+deviations of thousands of years of retelling 
+still passes on vital truths to subsequent 
+generations on Verdant.
+     If people are not contented with their 
+leaders, they can be disposed during a tribal 
+moot by the will of the people, or can be 
+violently disposed of.  In the event of the latter,
+ the one who performed the deed is not 
+automatically granted power, as a new leader 
+must be chosen at the next tribal moot.  Violent 
+removals are a very rare occurrence, and those 
+who violently overthrow forsake any future 
+claims they may have to being appointed as a 
+Leader.
+     Rather than industrialize and claim the 
+planet by force, Troth have developed in 
+symbiosis with the planet, and live in small 
+settlements, often in villages constructed 
+amongst the trees.  There are many fierce 
+predators that grace the wilds of Verdant, and it 
+always behooved them to be cautious with their 
+homes.
+     Physically Troth still look very much like 
+humanity, but their genetic variation gives them 
+a strange greenish tinge over their entire body.  
+Some have strange plantlike features as well, 
+even what appear to be arboreal growths on 
+their bodies, though studies have shown this to 
+be a purely cosmetic difference.  In spite of 
+these minor differences, it has proven to be a 
+benefit rather than a hindrance, as the 
+remainder of their biology functions largely the 
+same.
+     Troth society met somewhat of a schism 
+with their rediscovery by the Imperium.  The 
+Imperium began founding large colony 
+settlements on Verdant to provide space travel 
+to and from it.  Some of the Troth fully and 
+wholeheartedly accepted this new development, 
+while some vehemently oppose this intrusion 
+onto what they see as ancestral land.
+
+
+===== PAGE 59 =====
+     Regardless of individual stance, Troth have 
+proven quick to assimilate into the Imperium and 
+have proven incredibly adept at planetary 
+exploration and naval duty in particular.
+Troth in the Koronus Expanse
+Source Disclaimer: This is fan material.
+     Though relatively new to the Expanse, Troth 
+have begun to make their presence known.  There 
+are several Troth Colonies, and while not as learned 
+in the precise arts of it their legends and lore do 
+give rudimentary guidelines as to the terraforming 
+process that was utilized to render Verdant 
+habitable and thriving.  Many members of the 
+Adeptus Mechanicus seek them out for this reason, 
+as there are many archaic machines whose 
+operation protocols have been lost to the ages.
+     Their colonies are generally on vibrant, rich 
+worlds where they strive to make as minimal an 
+impact as possible.  When not on such worlds, they 
+tend to operate closely with the Adeptus 
+Mechanicus to successfully render worlds habitable 
+for the Imperium, though this has been met with 
+varied amounts of success.
+     Many Troth have found a place amongst the 
+voidships that traverse the expanse, and a rather 
+interesting trend has begun to emerge amongst the 
+ships that have a large number of Troth Crew.  
+Their unique ability to function as living oxygen 
+recyclers and function off of nutrients received 
+from composted waste lessens much of the burden 
+on the rest of the crew and allows for ships to 
+remain amongst the stars for far longer periods of 
+time.
+     Some have formed Agri-Worlds to help supply 
+the various Imperial worlds that dot the sector, and 
+do so in a fashion that is very low-impact to the 
+local environment.  Utilizing intriguing systems of 
+natural hydroponics, they are very good at 
+producing high yield worlds.
+     One can never truly classify just what a Troth 
+will find themselves doing among the planets of the 
+Koronus Expanse, as their unique adaptation makes 
+them sought after by many, and their training can is 
+as diverse as any in the Imperium. 
+Troth Roleplaying Tips
+Source Disclaimer: This is fan material.
+     Troth have a bit of a dichotomy amongst their 
+society at the moment.  While several of the tribes 
+of Troth on Verdant were happy to throw their lot in 
+with the Imperium and journey amongst the stars, 
+so too were many disgusted by the idea of joining 
+those who  would defile planets in such a way.  
+This schism that was created could be a very 
+interesting aspect of a Troth Character if so desired, 
+or it can be simply a relic of a dying past.  It could 
+also be an act of concession, realizing that it will 
+happen no matter what, so if the Troth can get 
+involved they can at least limit the damage.
+     Regardless, one of the first things to consider 
+with a Troth character is where they are from.  Are 
+they from Verdant itself?  Are they from one of the 
+newer colonies within the Expanse?  Have they 
+been serving on an Imperial Navy Vessel?  Also 
+important is considering how they made it to the 
+Expanse.  Were they brought here as part of a 
+colonization effort?  Were they forced here by 
+Tribal Leaders or Elders to investigate what their 
+people are doing?  Have they found a new life 
+amongst the iron halls of the Voidships and been 
+brought here by chance?  Are they here to help 
+manage an Agri-World to limit the devastation of 
+Imperial agricultural techniques?
+     Always important to consider is the motivations 
+for the character.  Are they hoping to found more 
+colonies to expand the Troth way of life?  Are they 
+seeking to show their regressive fellows that the 
+Troth have a responsibility amongst the stars?  Are 
+they seeking individual fame and fortune as many 
+do in the Koronus Expanse?  Are they hunting for 
+more Troth who might be convinced to serve on 
+Voidships, at either their own or a Commanders 
+behest?
+     Always remember that the information 
+presented here is purely a guideline to get creativity 
+started.  The Game Master is always the final 
+arbiter of what is and is not allowed in their game, 
+so make sure to try and come up with a concept that 
+will work with the game while simultaneously 
+providing a character that you look forward to 
+playing.
+Troth History
+59
+
+
+===== PAGE 60 =====
+60
+Troth Characters
+Troth Traits
+Characteristics: +5 Strength, +5 Toughness, +5 
+Agility, -5 Intelligence, -5 Perception, -5 
+Fellowship
+Skills: Scholastic Lore (Beasts), Survival, 
+Tracking
+Talents: Melee Weapon Training (Primitive)
+Traits: Arboreal, Bio-Organic Recycling, Non-
+Imperial, Not Quite Human
+Starting Wounds: 1d5+1 + 2xToughness Bonus
+Starting Fate Points: 2
+New Traits
+Arboreal
+      Troth have certain traits that plants do, and 
+as such can breathe normally in a carbon-
+dioxide rich environment and oxygen one.  
+They can also absorb nutrients through small 
+root-like growths from their feet, allowing them 
+to sustain themselves reliably in far more 
+barren climates than most humans.  They may 
+also (at the GM's Discretion) be able to breathe 
+underwater, provided that there is sufficient 
+light to power the photosynthetic process.  
+Should there ever not be, they will begin to 
+suffocate according to the rules presented on 
+page 261 of the  Rogue Trader Core Rulebook.  
+If an atmosphere has abundance of neither 
+carbon-dioxide or oxygen they begin to 
+suffocate as normal.
+Bio-Organic Recycling
+     In large groups, Troth can increase the time 
+a ship can spend in the Void by recycling air 
+and consuming composted refuse.  Any ship 
+that has a percentage of Troth crew may 
+increase the time they spend in the void without 
+resupplying by a percentage equal to the 
+percentage of Troth crew up to fifty percent.  
+This means that a ship with 20% Troth Crew 
+would be able to survive 20% longer in the 
+void, and one with 50% would be able to 
+survive 50% longer in the void.  Anything more 
+than 50% reduces this effectiveness by an equal 
+amount, as both Troth and Non-Troth are 
+required to have this symbiotic relationship.
+Non-Imperial
+      This Character was not raised amongst 
+humans, and knows little about the culture and 
+history of the Imperium. The laws, traditions, 
+religion and superstitions of Mankind are 
+unfamiliar and alien to Characters with this 
+trait. The character suffers a -10 penalty on all 
+Common Lore, Forbidden Lore and Scholastic 
+Lore tests relating to the Imperium of Man.
+Not Quite Human
+     While biologically divergent evolutions of 
+humanity, Abhumans are still treated with a 
+degree of distrust by the rest of Humanity.
+     Abhuman characters count all Fellowship-
+based tests as being one step more difficult 
+when dealing with creatures of a species other 
+than its own. Additionally, those of other 
+species treat their Fellowship-based tests as 
+being one step more difficult when dealing with 
+him. These penalties do not apply when dealing 
+with individuals who have come to trust the 
+Abhuman player character, for whatever reason 
+(although the final arbitrator of this is the GM). 
+Finally, the presence of any Abhuman aboard a 
+human vessel is unsettling for the crew, and as 
+rumours spread, discontent over the alien 
+presence in their midst becomes noticeable. The 
+continued presence of one or more Abhuman 
+player characters aboard a ship reduces its 
+Morale by 1.
+Creating Troth Characters
+
+
+===== PAGE 61 =====
+     Elite Advances allow an Explorer to gain 
+some ability not normally allowed to their 
+career path.  For more information on the 
+particulars of Elite Advances, see page 39 of 
+the Rogue Trader Core Rulebook.
+      Elite Advance Packages take this concept 
+one step further and provide new and unique 
+abilities in a single package deal.  For further 
+information on Elite Advance Packages see 
+page 102 of Into the Storm.
+Purchasing an Elite Advance Package
+     To purchase an Elite Advance simply spend 
+the Experience Cost of the package listed, 
+provided you meet all the requirements and the 
+GM has allowed for it's purchase.  Upon 
+purchasing a package, you gain all the benefits 
+that package confers and may purchase 
+additional skills granted by the package (if 
+applicable).  For more information see page 
+102-103 of the Into the Storm Supplement.
+One of the Masses
+Restriction: Only Abhuman Races may 
+purchase this advance, and only at the 
+discretion of the GM.  Appropriate roleplaying 
+or backstory may be required on the part of the 
+Explorer before purchasing this talent, again at 
+the discretion of the GM.
+Cost: 500XP
+Effect: Gain the They Were The Most...Human 
+trait (detailed below).
+New Traits
+They Were The Most...Human
+     Through trial by fire the Abhuman has 
+proven themselves to be as human as any other 
+member of the Imperium.  They have 
+familiarized themselves with it's culture and 
+learned to interact with it's citizens without 
+difficulty.  Characters who take this advance 
+lose both the Non-Imperial and Not Quite 
+Human traits.
+Elite Advances
+New Elite Advance Packages
+61
+
+
+===== PAGE 62 =====
+62
+Author's Note
+After a long wait I am happy to bring you the Abhuman Character Guide 2.0 as of 2-12-17 
+(US Date Notation).
+This version of the guide was a tremendous overhaul from the first edition of the guide, in 
+no small part due to many incredibly poor design choices on my part.  This revision includes 
+major changes in artwork and layout, includes clarifications for what is and is not officially 
+written fluff, and provides all original fluff that my own writing was derived from.  There is also a 
+large formatting change to save space, and a complete re-balancing of every Abhuman strain.  My 
+previous version of the guide was based around the fact that my last few games have been full of 
+optimizing players, so my perception of what the Origin Path provides was a bit skewed.  After 
+creating several full Rogue Trader crews for my testing I've gotten a bit better perspective of what 
+is comparable to regular Human Explorers.
+A huge thanks goes out to LibreOffice for creating Draw, the program on which my 
+guides are made.  Another enormous thanks goes out to the artists whose work is featured in this 
+guide, if you would like a credit please email me and I'll be happy to include a credits page with a 
+link to your work!  A final thank you goes to the folks on the Rogue Trader forums who have 
+been helping me with the guides this past year, it's been an enormous help and I couldn't have 
+done it without you.
+If you have any feedback regarding the guide, questions regarding design choices, 
+imbalances or typos to report, or simply want to get in touch, feel free to email me at 
+lodgeblackman99@gmail.com or visit my website at www.lodgeblackmangames.jigsy.com and 
+get in touch via the comments section there.  I hope you all enjoy the second version of the 
+Abhuman Character Guide.
+A Note from the Author
+
+
+===== PAGE 63 =====
+This page is to list the names of the artists whose images are featured here.  
+Felinid Art:
+tonykatze
+Artist Credits
+Artist Credits
+63

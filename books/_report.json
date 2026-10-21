@@ -1,0 +1,38 @@
+{
+  "core": {
+    "status": "OK",
+    "pages": 403,
+    "chars": 1797575,
+    "out": "C:\\Users\\shist\\AppData\\Local\\Temp\\opencode\\rt_extract\\books\\core.txt"
+  },
+  "darkmarkets": {
+    "status": "OK",
+    "pages": 131,
+    "chars": 629599,
+    "out": "C:\\Users\\shist\\AppData\\Local\\Temp\\opencode\\rt_extract\\books\\darkmarkets.txt"
+  },
+  "stormstout": {
+    "status": "OK",
+    "pages": 231,
+    "chars": 1020228,
+    "out": "C:\\Users\\shist\\AppData\\Local\\Temp\\opencode\\rt_extract\\books\\stormstout.txt"
+  },
+  "abhuman": {
+    "status": "OK",
+    "pages": 63,
+    "chars": 172202,
+    "out": "C:\\Users\\shist\\AppData\\Local\\Temp\\opencode\\rt_extract\\books\\abhuman.txt"
+  },
+  "tau": {
+    "status": "OK",
+    "pages": 41,
+    "chars": 146432,
+    "out": "C:\\Users\\shist\\AppData\\Local\\Temp\\opencode\\rt_extract\\books\\tau.txt"
+  },
+  "charsheet": {
+    "status": "OK",
+    "pages": 2,
+    "chars": 6281,
+    "out": "C:\\Users\\shist\\AppData\\Local\\Temp\\opencode\\rt_extract\\books\\charsheet.txt"
+  }
+}
