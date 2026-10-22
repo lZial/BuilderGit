@@ -10,6 +10,7 @@ data/builtin/* -text
 portable/data/builtin/* -text
 portable/data/README.txt -text
 raw/* -text
+_verify.txt -text
 
 # Крупные файлы — в Git LFS (правила ниже действуют последними).
 *.exe filter=lfs diff=lfs merge=lfs -text
