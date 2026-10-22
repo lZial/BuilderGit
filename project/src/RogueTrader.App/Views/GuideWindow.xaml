@@ -26,6 +26,14 @@
 
   <Border BorderBrush="{StaticResource BorderBrush}" BorderThickness="1">
     <Grid>
+      <!--
+        Масштаб содержимого — как в главном окне: если интерфейс увеличен,
+        руководство читается тем же шрифтом. Размер окна при этом тоже
+        увеличивается, чтобы в кадр помещалось столько же текста.
+      -->
+      <Grid.LayoutTransform>
+        <ScaleTransform x:Name="ZoomScale" ScaleX="1" ScaleY="1"/>
+      </Grid.LayoutTransform>
       <Grid.RowDefinitions>
         <RowDefinition Height="Auto"/>
         <RowDefinition Height="*"/>

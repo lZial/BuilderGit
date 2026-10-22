@@ -55,6 +55,9 @@ public partial class MainWindow : Window
 
     private double _zoom = 1.0;
 
+    /// <summary>Текущий масштаб интерфейса (1 — обычный размер).</summary>
+    public double CurrentZoom => _zoom;
+
     /// <summary>Текущий масштаб содержимого окна.</summary>
     private ScaleTransform? UiScale => RootGrid.LayoutTransform as ScaleTransform;
 
@@ -133,7 +136,8 @@ public partial class MainWindow : Window
     /// <summary>Открывает окно с кратким руководством по созданию персонажа.</summary>
     private void OnShowGuide(object sender, RoutedEventArgs e)
     {
-        var win = new Views.GuideWindow { Owner = this };
+        // Руководство открывается с тем же масштабом, что и главное окно.
+        var win = new Views.GuideWindow { Owner = this, Zoom = CurrentZoom };
         win.ShowDialog();
     }
 

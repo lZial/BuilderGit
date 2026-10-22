@@ -111,9 +111,10 @@ public partial class App : Application
             try { Console.OutputEncoding = System.Text.Encoding.UTF8; } catch { }
         }
 
-        // Автопроверка: окно закрывается сама, без вопроса о сохранении —
-        // иначе приложение ждёт ответа и не завершает работу.
-        ServiceMode = e.Args.Contains("--walkthrough") || e.Args.Contains("--selftest");
+        // Служебный запуск (--walkthrough, --selftest, --uitest): окна закрываются без
+        // вопроса о сохранении, приложение завершается само.
+        ServiceMode = e.Args.Contains("--walkthrough") || e.Args.Contains("--selftest")
+                      || e.Args.Contains("--uitest");
 
         AppDomain.CurrentDomain.UnhandledException += (_, args) =>
             LogCrash("AppDomain", args.ExceptionObject as Exception);
@@ -129,6 +130,13 @@ public partial class App : Application
         if (e.Args.Contains("--walkthrough"))
         {
             Shutdown(Walkthrough.Run() == 0 ? 0 : 1);
+            return;
+        }
+
+        if (e.Args.Contains("--uitest"))
+        {
+            // Проверки интерфейса: настоящее окно, настоящие события.
+            Shutdown(UiTests.Run());
             return;
         }
 
