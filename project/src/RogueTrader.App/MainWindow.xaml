@@ -226,7 +226,6 @@
                 <Grid.RowDefinitions>
                   <RowDefinition Height="Auto"/>
                   <RowDefinition Height="*"/>
-                  <RowDefinition Height="Auto"/>
                 </Grid.RowDefinitions>
 
                 <StackPanel Grid.Row="0" Margin="18,18,14,14">
@@ -244,12 +243,6 @@
                               views:SmoothScroll.Enabled="True">
                   <TabPanel IsItemsHost="True"/>
                 </ScrollViewer>
-
-                <StackPanel Grid.Row="2" Margin="16,12,14,16">
-                  <Border Height="1" Background="{StaticResource BorderSoftBrush}" Margin="0,0,0,10"/>
-                  <TextBlock Text="{Binding PackSummary}" Style="{StaticResource Faint}"
-                             MaxHeight="46" />
-                </StackPanel>
               </Grid>
             </Border>
 
