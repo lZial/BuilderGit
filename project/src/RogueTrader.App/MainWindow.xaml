@@ -1225,9 +1225,10 @@
                                  VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
                       <Border Grid.Row="0" Grid.RowSpan="2" Grid.Column="1"
                               Background="{StaticResource Panel3Brush}" CornerRadius="3"
-                              Padding="6,1" Margin="8,0,0,0" VerticalAlignment="Center">
+                              Padding="6,2" Margin="8,0,0,0" VerticalAlignment="Center">
                         <TextBlock Text="{Binding TypeText}" FontSize="10.5"
-                                   Foreground="{StaticResource TextDimBrush}"/>
+                                   Foreground="{StaticResource TextDimBrush}"
+                                   VerticalAlignment="Center"/>
                       </Border>
                       <TextBlock Grid.Row="1" Grid.Column="0" Style="{StaticResource Faint}" FontSize="11"
                                  Margin="0,1,0,0">
@@ -1766,7 +1767,8 @@
                         <Border Grid.Column="1" Background="{StaticResource Panel3Brush}" CornerRadius="3"
                                 Padding="8,2" Margin="10,2,0,0">
                           <TextBlock Text="{Binding CostText, Mode=OneWay}" FontSize="12"
-                                     Foreground="{StaticResource GoldBrush}"/>
+                                     Foreground="{StaticResource GoldBrush}"
+                                     VerticalAlignment="Center"/>
                         </Border>
                         <Border Grid.Column="2" Background="Transparent" CornerRadius="3" Padding="8,2" Margin="6,2,0,0">
                           <TextBlock Text="{Binding SourceText, Mode=OneWay}" FontSize="12"
@@ -1867,18 +1869,21 @@
                         <TextBlock Grid.Column="0" Text="{Binding Name}" FontWeight="SemiBold" FontSize="14"
                                    VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
                         <Border Grid.Column="1" Background="{StaticResource Panel3Brush}" CornerRadius="3"
-                                Padding="7,1" Margin="10,2,0,0">
+                                Padding="7,2" Margin="10,2,0,0">
                           <TextBlock Text="{Binding Proficiency}" FontSize="10.5"
-                                     Foreground="{StaticResource GoldBrush}"/>
+                                     Foreground="{StaticResource GoldBrush}"
+                                     VerticalAlignment="Center"/>
                         </Border>
-                        <Border Grid.Column="2" Background="Transparent" CornerRadius="3" Padding="7,1" Margin="6,2,0,0">
+                        <Border Grid.Column="2" Background="Transparent" CornerRadius="3" Padding="7,2" Margin="6,2,0,0">
                           <TextBlock Text="{Binding BonusText}" FontSize="10.5"
                                      Foreground="{StaticResource TextDimBrush}"
-                                     ToolTip="Бонус к тесту за уровень владения"/>
+                                     ToolTip="Бонус к тесту за уровень владения"
+                                     VerticalAlignment="Center"/>
                         </Border>
-                        <Border Grid.Column="3" Background="Transparent" CornerRadius="3" Padding="7,1" Margin="6,2,0,0">
+                        <Border Grid.Column="3" Background="Transparent" CornerRadius="3" Padding="7,2" Margin="6,2,0,0">
                           <TextBlock Text="{Binding SourceText}" FontSize="10.5"
-                                     Foreground="{StaticResource TextFaintBrush}"/>
+                                     Foreground="{StaticResource TextFaintBrush}"
+                                     VerticalAlignment="Center"/>
                         </Border>
                       </Grid>
 
