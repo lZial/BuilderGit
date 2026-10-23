@@ -200,7 +200,11 @@ internal static class UiTests
     /// <summary>Колесо прокручивает список плавно, а не прыжком.</summary>
     private static void CheckWheel(MainWindow win)
     {
-        win.Tabs.SelectedIndex = 2; // «Умения»
+        // Выбираем вкладку «Умения» по заголовку, а не по индексу — порядок вкладок
+        // может меняться (например, «Улучшения» перемещено между «Навигатором»
+        // и «Путём»).
+        if (win.Tabs.Items.OfType<TabItem>().FirstOrDefault(t => t.Header as string == "Умения") is { } skillsTab)
+            win.Tabs.SelectedItem = skillsTab;
         Pump();
 
         var list = FindFirst<ListBox>(win);

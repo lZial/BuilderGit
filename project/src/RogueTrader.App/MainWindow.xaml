@@ -922,167 +922,6 @@
       </TabItem>
 
       <!-- ─────────── Улучшения ─────────── -->
-      <TabItem Header="Улучшения">
-        <Grid>
-          <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="*"/>
-            <ColumnDefinition Width="Auto"/>
-          </Grid.ColumnDefinitions>
-          <Grid.RowDefinitions>
-            <RowDefinition Height="Auto"/>
-            <RowDefinition Height="*"/>
-          </Grid.RowDefinitions>
-
-          <Border Grid.Row="0" Grid.ColumnSpan="2" Style="{StaticResource Card}" Margin="0,0,0,12" Padding="14">
-            <Grid>
-              <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="*"/>
-                <ColumnDefinition Width="Auto"/>
-              </Grid.ColumnDefinitions>
-              <StackPanel Grid.Column="0" Margin="0,0,12,0">
-                <TextBlock Style="{StaticResource Muted}"
-                           Text="Улучшения покупаются очками опыта из таблиц «Улучшения … на ранге N». Покупка сразу применяет эффект и списывает стоимость из свободного опыта; общий опыт и ранг при этом не уменьшаются."/>
-                <TextBlock Style="{StaticResource Faint}" Margin="0,6,0,0" Text="{Binding PathHint}"
-                           Visibility="{Binding HasPaths, Converter={StaticResource BoolVis}}"/>
-              </StackPanel>
-              <StackPanel Grid.Column="1" VerticalAlignment="Center" MinWidth="230"
-                          Visibility="{Binding HasPaths, Converter={StaticResource BoolVis}}">
-                <TextBlock Text="Путь развития" Style="{StaticResource Label}"/>
-                <ComboBox ItemsSource="{Binding PathChoices}" DisplayMemberPath="Label"
-                          SelectedValuePath="Value"
-                          SelectedValue="{Binding SelectedPathId, Mode=TwoWay}"/>
-              </StackPanel>
-            </Grid>
-          </Border>
-
-          <Grid Grid.Row="1" Grid.Column="0" Margin="0,0,6,0">
-            <Grid.RowDefinitions>
-              <RowDefinition Height="Auto"/>
-              <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <TextBlock Grid.Row="0" Text="Доступно на текущем ранге"
-                       Style="{StaticResource Heading}"/>
-            <TextBlock Grid.Row="0" Text="{Binding SelectedPathName}" Style="{StaticResource Faint}"
-                       HorizontalAlignment="Right" VerticalAlignment="Center"/>
-            <!-- Подсказка в пустом состоянии: без рода занятий улучшений не будет. -->
-            <TextBlock Grid.Row="1" Style="{StaticResource Faint}" TextWrapping="Wrap"
-                       VerticalAlignment="Top" HorizontalAlignment="Left" MaxWidth="560" Margin="4,10,4,0"
-                       Panel.ZIndex="5"
-                       Text="Сначала выберите род занятий на вкладке «Лист» — тогда здесь появятся улучшения, доступные на текущем ранге."
-                       Visibility="{Binding HasSelectedCareer, Converter={StaticResource BoolVisInv}}"/>
-            <ListBox Grid.Row="1" ItemsSource="{Binding AvailableAdvances}">
-              <ListBox.ItemTemplate>
-                <DataTemplate>
-                  <Border Background="{StaticResource Panel2Brush}" CornerRadius="4"
-                          Padding="12,9" Margin="0,0,0,5">
-                    <Grid>
-                      <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="Auto"/>
-                      </Grid.ColumnDefinitions>
-                      <StackPanel Grid.Column="0">
-                        <Grid>
-                          <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="Auto"/>
-                          </Grid.ColumnDefinitions>
-                          <TextBlock Grid.Column="0" Text="{Binding Name}" FontWeight="SemiBold"
-                                     VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
-                          <Border Grid.Column="1" Background="{StaticResource Panel3Brush}" CornerRadius="3"
-                                  Padding="6,1" Margin="8,1,0,0">
-                            <TextBlock Text="{Binding Type}" FontSize="10.5"
-                                       Foreground="{StaticResource TextDimBrush}"/>
-                          </Border>
-                        </Grid>
-                        <TextBlock Text="{Binding RequirementStatus}" Style="{StaticResource Faint}"
-                                   Margin="0,2,0,0"/>
-                        <TextBlock Text="{Binding ShortDescription}" Style="{StaticResource Muted}"
-                                   FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"
-                                   Visibility="{Binding HasShortDescription, Converter={StaticResource BoolVis}}"/>
-                        <Expander Header="Подробнее" Style="{StaticResource DetailsExpander}"
-                                  Visibility="{Binding HasDetails, Converter={StaticResource BoolVis}}">
-                          <StackPanel>
-                            <TextBlock Text="{Binding DetailDescription}" Style="{StaticResource Muted}"
-                                       FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"/>
-                            <ItemsControl ItemsSource="{Binding DetailLines}" Margin="0,4,0,0">
-                              <ItemsControl.ItemTemplate>
-                                <DataTemplate>
-                                  <TextBlock Style="{StaticResource Faint}" FontSize="12" TextWrapping="Wrap"
-                                             Text="{Binding}" Margin="0,0,0,3"/>
-                                </DataTemplate>
-                              </ItemsControl.ItemTemplate>
-                            </ItemsControl>
-                          </StackPanel>
-                        </Expander>
-                      </StackPanel>
-                      <StackPanel Grid.Column="1" Orientation="Horizontal">
-                        <TextBlock Text="{Binding Cost, StringFormat='{}{0} ОО'}"
-                                   FontWeight="Bold" Foreground="{StaticResource GoldBrush}"
-                                   VerticalAlignment="Center" MinWidth="62" TextAlignment="Right"/>
-                        <Button Content="Взять" Width="72" Margin="10,0,0,0" VerticalAlignment="Center"
-                                IsEnabled="{Binding Ok}" Click="OnBuyAdvance" Tag="{Binding}"/>
-                      </StackPanel>
-                    </Grid>
-                  </Border>
-                </DataTemplate>
-              </ListBox.ItemTemplate>
-            </ListBox>
-          </Grid>
-
-          <Grid Grid.Row="1" Grid.Column="1" Margin="6,0,0,0" MaxWidth="460">
-            <Grid.RowDefinitions>
-              <RowDefinition Height="Auto"/>
-              <RowDefinition Height="*"/>
-            </Grid.RowDefinitions>
-            <TextBlock Grid.Row="0" Text="Купленные улучшения" Style="{StaticResource Heading}"
-                       Visibility="{Binding HasBoughtAdvances, Converter={StaticResource BoolVis}}"/>
-            <ListBox Grid.Row="1" ItemsSource="{Binding BoughtAdvances}">
-              <ListBox.ItemTemplate>
-                <DataTemplate>
-                  <Border Background="{StaticResource Panel2Brush}" CornerRadius="4"
-                          Padding="12,8" Margin="0,0,0,5">
-                    <Grid>
-                      <Grid.ColumnDefinitions>
-                        <ColumnDefinition Width="*"/>
-                        <ColumnDefinition Width="Auto"/>
-                        <ColumnDefinition Width="Auto"/>
-                      </Grid.ColumnDefinitions>
-                      <StackPanel Grid.Column="0">
-                        <TextBlock Text="{Binding Name}" FontWeight="SemiBold" TextTrimming="CharacterEllipsis"/>
-                        <TextBlock Style="{StaticResource Faint}"
-                                   Text="{Binding Option.Level, StringFormat='ранг {0}'}"/>
-                        <TextBlock Text="{Binding ShortDescription}" Style="{StaticResource Muted}"
-                                   FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"
-                                   Visibility="{Binding HasShortDescription, Converter={StaticResource BoolVis}}"/>
-                        <Expander Header="Подробнее" Style="{StaticResource DetailsExpander}"
-                                  Visibility="{Binding HasDetails, Converter={StaticResource BoolVis}}">
-                          <StackPanel>
-                            <TextBlock Text="{Binding DetailDescription}" Style="{StaticResource Muted}"
-                                       FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"/>
-                            <ItemsControl ItemsSource="{Binding DetailLines}" Margin="0,4,0,0">
-                              <ItemsControl.ItemTemplate>
-                                <DataTemplate>
-                                  <TextBlock Style="{StaticResource Faint}" FontSize="12" TextWrapping="Wrap"
-                                             Text="{Binding}" Margin="0,0,0,3"/>
-                                </DataTemplate>
-                              </ItemsControl.ItemTemplate>
-                            </ItemsControl>
-                          </StackPanel>
-                        </Expander>
-                      </StackPanel>
-                      <TextBlock Grid.Column="1" Text="{Binding Cost, StringFormat='{}{0} ОО'}"
-                                 Foreground="{StaticResource TextDimBrush}" VerticalAlignment="Center"
-                                 MinWidth="62" TextAlignment="Right"/>
-                      <Button Grid.Column="2" Content="Отменить" Style="{StaticResource GhostButton}"
-                              Margin="8,0,0,0" VerticalAlignment="Center" Click="OnUnbuyAdvance" Tag="{Binding}"/>
-                    </Grid>
-                  </Border>
-                </DataTemplate>
-              </ListBox.ItemTemplate>
-            </ListBox>
-          </Grid>
-        </Grid>
-      </TabItem>
 
       <!-- ─────────── Умения ─────────── -->
       <TabItem Header="Умения">
@@ -1894,6 +1733,167 @@
       </TabItem>
 
       <!-- ─────────── Путь ─────────── -->
+      <TabItem Header="Улучшения">
+        <Grid>
+          <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+          </Grid.ColumnDefinitions>
+          <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+          </Grid.RowDefinitions>
+
+          <Border Grid.Row="0" Grid.ColumnSpan="2" Style="{StaticResource Card}" Margin="0,0,0,12" Padding="14">
+            <Grid>
+              <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+              </Grid.ColumnDefinitions>
+              <StackPanel Grid.Column="0" Margin="0,0,12,0">
+                <TextBlock Style="{StaticResource Muted}"
+                           Text="Улучшения покупаются очками опыта из таблиц «Улучшения … на ранге N». Покупка сразу применяет эффект и списывает стоимость из свободного опыта; общий опыт и ранг при этом не уменьшаются."/>
+                <TextBlock Style="{StaticResource Faint}" Margin="0,6,0,0" Text="{Binding PathHint}"
+                           Visibility="{Binding HasPaths, Converter={StaticResource BoolVis}}"/>
+              </StackPanel>
+              <StackPanel Grid.Column="1" VerticalAlignment="Center" MinWidth="230"
+                          Visibility="{Binding HasPaths, Converter={StaticResource BoolVis}}">
+                <TextBlock Text="Путь развития" Style="{StaticResource Label}"/>
+                <ComboBox ItemsSource="{Binding PathChoices}" DisplayMemberPath="Label"
+                          SelectedValuePath="Value"
+                          SelectedValue="{Binding SelectedPathId, Mode=TwoWay}"/>
+              </StackPanel>
+            </Grid>
+          </Border>
+
+          <Grid Grid.Row="1" Grid.Column="0" Margin="0,0,6,0">
+            <Grid.RowDefinitions>
+              <RowDefinition Height="Auto"/>
+              <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="Доступно на текущем ранге"
+                       Style="{StaticResource Heading}"/>
+            <TextBlock Grid.Row="0" Text="{Binding SelectedPathName}" Style="{StaticResource Faint}"
+                       HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            <!-- Подсказка в пустом состоянии: без рода занятий улучшений не будет. -->
+            <TextBlock Grid.Row="1" Style="{StaticResource Faint}" TextWrapping="Wrap"
+                       VerticalAlignment="Top" HorizontalAlignment="Left" MaxWidth="560" Margin="4,10,4,0"
+                       Panel.ZIndex="5"
+                       Text="Сначала выберите род занятий на вкладке «Лист» — тогда здесь появятся улучшения, доступные на текущем ранге."
+                       Visibility="{Binding HasSelectedCareer, Converter={StaticResource BoolVisInv}}"/>
+            <ListBox Grid.Row="1" ItemsSource="{Binding AvailableAdvances}">
+              <ListBox.ItemTemplate>
+                <DataTemplate>
+                  <Border Background="{StaticResource Panel2Brush}" CornerRadius="4"
+                          Padding="12,9" Margin="0,0,0,5">
+                    <Grid>
+                      <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                      </Grid.ColumnDefinitions>
+                      <StackPanel Grid.Column="0">
+                        <Grid>
+                          <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                          </Grid.ColumnDefinitions>
+                          <TextBlock Grid.Column="0" Text="{Binding Name}" FontWeight="SemiBold"
+                                     VerticalAlignment="Center" TextTrimming="CharacterEllipsis"/>
+                          <Border Grid.Column="1" Background="{StaticResource Panel3Brush}" CornerRadius="3"
+                                  Padding="6,1" Margin="8,1,0,0">
+                            <TextBlock Text="{Binding Type}" FontSize="10.5"
+                                       Foreground="{StaticResource TextDimBrush}"/>
+                          </Border>
+                        </Grid>
+                        <TextBlock Text="{Binding RequirementStatus}" Style="{StaticResource Faint}"
+                                   Margin="0,2,0,0"/>
+                        <TextBlock Text="{Binding ShortDescription}" Style="{StaticResource Muted}"
+                                   FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"
+                                   Visibility="{Binding HasShortDescription, Converter={StaticResource BoolVis}}"/>
+                        <Expander Header="Подробнее" Style="{StaticResource DetailsExpander}"
+                                  Visibility="{Binding HasDetails, Converter={StaticResource BoolVis}}">
+                          <StackPanel>
+                            <TextBlock Text="{Binding DetailDescription}" Style="{StaticResource Muted}"
+                                       FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"/>
+                            <ItemsControl ItemsSource="{Binding DetailLines}" Margin="0,4,0,0">
+                              <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                  <TextBlock Style="{StaticResource Faint}" FontSize="12" TextWrapping="Wrap"
+                                             Text="{Binding}" Margin="0,0,0,3"/>
+                                </DataTemplate>
+                              </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                          </StackPanel>
+                        </Expander>
+                      </StackPanel>
+                      <StackPanel Grid.Column="1" Orientation="Horizontal">
+                        <TextBlock Text="{Binding Cost, StringFormat='{}{0} ОО'}"
+                                   FontWeight="Bold" Foreground="{StaticResource GoldBrush}"
+                                   VerticalAlignment="Center" MinWidth="62" TextAlignment="Right"/>
+                        <Button Content="Взять" Width="72" Margin="10,0,0,0" VerticalAlignment="Center"
+                                IsEnabled="{Binding Ok}" Click="OnBuyAdvance" Tag="{Binding}"/>
+                      </StackPanel>
+                    </Grid>
+                  </Border>
+                </DataTemplate>
+              </ListBox.ItemTemplate>
+            </ListBox>
+          </Grid>
+
+          <Grid Grid.Row="1" Grid.Column="1" Margin="6,0,0,0" MaxWidth="460">
+            <Grid.RowDefinitions>
+              <RowDefinition Height="Auto"/>
+              <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Text="Купленные улучшения" Style="{StaticResource Heading}"
+                       Visibility="{Binding HasBoughtAdvances, Converter={StaticResource BoolVis}}"/>
+            <ListBox Grid.Row="1" ItemsSource="{Binding BoughtAdvances}">
+              <ListBox.ItemTemplate>
+                <DataTemplate>
+                  <Border Background="{StaticResource Panel2Brush}" CornerRadius="4"
+                          Padding="12,8" Margin="0,0,0,5">
+                    <Grid>
+                      <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="Auto"/>
+                      </Grid.ColumnDefinitions>
+                      <StackPanel Grid.Column="0">
+                        <TextBlock Text="{Binding Name}" FontWeight="SemiBold" TextTrimming="CharacterEllipsis"/>
+                        <TextBlock Style="{StaticResource Faint}"
+                                   Text="{Binding Option.Level, StringFormat='ранг {0}'}"/>
+                        <TextBlock Text="{Binding ShortDescription}" Style="{StaticResource Muted}"
+                                   FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"
+                                   Visibility="{Binding HasShortDescription, Converter={StaticResource BoolVis}}"/>
+                        <Expander Header="Подробнее" Style="{StaticResource DetailsExpander}"
+                                  Visibility="{Binding HasDetails, Converter={StaticResource BoolVis}}">
+                          <StackPanel>
+                            <TextBlock Text="{Binding DetailDescription}" Style="{StaticResource Muted}"
+                                       FontSize="12" TextWrapping="Wrap" Margin="0,4,0,0"/>
+                            <ItemsControl ItemsSource="{Binding DetailLines}" Margin="0,4,0,0">
+                              <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                  <TextBlock Style="{StaticResource Faint}" FontSize="12" TextWrapping="Wrap"
+                                             Text="{Binding}" Margin="0,0,0,3"/>
+                                </DataTemplate>
+                              </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                          </StackPanel>
+                        </Expander>
+                      </StackPanel>
+                      <TextBlock Grid.Column="1" Text="{Binding Cost, StringFormat='{}{0} ОО'}"
+                                 Foreground="{StaticResource TextDimBrush}" VerticalAlignment="Center"
+                                 MinWidth="62" TextAlignment="Right"/>
+                      <Button Grid.Column="2" Content="Отменить" Style="{StaticResource GhostButton}"
+                              Margin="8,0,0,0" VerticalAlignment="Center" Click="OnUnbuyAdvance" Tag="{Binding}"/>
+                    </Grid>
+                  </Border>
+                </DataTemplate>
+              </ListBox.ItemTemplate>
+            </ListBox>
+          </Grid>
+        </Grid>
+      </TabItem>
       <TabItem Header="Путь">
         <ScrollViewer Style="{StaticResource Scroll}" Padding="0,0,6,0">
           <StackPanel>
