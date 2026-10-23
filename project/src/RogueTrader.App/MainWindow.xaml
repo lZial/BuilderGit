@@ -2364,8 +2364,6 @@
             BorderBrush="{StaticResource BorderSoftBrush}" BorderThickness="0,1,0,0">
       <Grid>
         <TextBlock Text="Готово" Style="{StaticResource Faint}"/>
-        <TextBlock HorizontalAlignment="Right" Style="{StaticResource Faint}"
-                   Text="{Binding PackSummary}"/>
       </Grid>
     </Border>
       </Grid>
