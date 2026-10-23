@@ -543,7 +543,7 @@
                   <Border x:Name="Mark" Grid.Column="0" Background="Transparent" CornerRadius="2"/>
                   <ContentPresenter x:Name="Head" Grid.Column="1" ContentSource="Header"
                                     TextElement.Foreground="{Binding Foreground, RelativeSource={RelativeSource TemplatedParent}}"
-                                    HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                                    HorizontalAlignment="Left" VerticalAlignment="Center" Margin="14,0,0,0"/>
                 </Grid>
               </Border>
               <ControlTemplate.Triggers>
