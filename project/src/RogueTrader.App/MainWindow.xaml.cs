@@ -473,26 +473,6 @@ public partial class MainWindow : Window
         if (((FrameworkElement)sender).Tag is MainViewModel.StartingEquipmentRow row) row.PickManual();
     }
 
-    // ── особенности ──
-    private void OnAddTrait(object sender, RoutedEventArgs e)
-    {
-        if (NewTraitBox is not null && !string.IsNullOrWhiteSpace(NewTraitBox.Text))
-        {
-            Vm.AddTrait(NewTraitBox.Text.Trim());
-            NewTraitBox.Clear();
-        }
-    }
-
-    private void OnNewTraitKey(object sender, KeyEventArgs e)
-    {
-        if (e.Key == Key.Enter) { OnAddTrait(sender, new RoutedEventArgs()); e.Handled = true; }
-    }
-
-    private void OnRemoveTrait(object sender, RoutedEventArgs e)
-    {
-        if (((FrameworkElement)sender).Tag is string s) Vm.RemoveTrait(s);
-    }
-
     private void OnCareerChanged(object sender, SelectionChangedEventArgs e) { }
 
     private void OnHomeworldChanged(object sender, SelectionChangedEventArgs e) { }

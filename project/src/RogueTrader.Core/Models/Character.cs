@@ -38,6 +38,7 @@ public sealed class CharacterMeta : INotifyPropertyChanged
     private string _personality = "";
     private string _birthright = "";
     private string _quote = "";
+    private string _traits = "";
 
     public string Name { get => _name; set => Set(ref _name, value); }
     public string CustodianName { get => _custodianName; set => Set(ref _custodianName, value); }
@@ -51,6 +52,7 @@ public sealed class CharacterMeta : INotifyPropertyChanged
     public string Personality { get => _personality; set => Set(ref _personality, value); }
     public string Birthright { get => _birthright; set => Set(ref _birthright, value); }
     public string Quote { get => _quote; set => Set(ref _quote, value); }
+    public string Traits { get => _traits; set => Set(ref _traits, value); }
     public DateTime CreatedUtc { get; set; } = DateTime.UtcNow;
     public DateTime ModifiedUtc { get; set; } = DateTime.UtcNow;
     public string AppVersion { get; set; } = "";
@@ -257,7 +259,13 @@ public sealed class Character
     public string? AscensionId { get; set; }
     public List<string> LegacyIds { get; set; } = [];
     public List<string> ElitePackageIds { get; set; } = [];
-    public List<string> Traits { get; set; } = [];
+    public List<string> Traits
+    {
+        get => string.IsNullOrEmpty(Meta.Traits)
+            ? []
+            : Meta.Traits.Split(", ", StringSplitOptions.RemoveEmptyEntries).ToList();
+        set => Meta.Traits = string.Join(", ", value ?? []);
+    }
 
     /// <summary>
     /// Выбранные варианты разделов предыстории («Сквозь шторм»):

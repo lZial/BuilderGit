@@ -212,10 +212,10 @@ public static class PdfExportService
             }
 
             // ── Особенности ──
-            if (c.Traits.Count > 0)
+            if (!string.IsNullOrEmpty(c.Meta.Traits))
             {
                 col.Item().Text("ОСОБЕННОСТИ").FontSize(11).Bold().FontColor(Accent);
-                col.Item().Text(string.Join(" · ", c.Traits)).FontSize(8);
+                col.Item().Text(string.Join(" · ", c.Meta.Traits.Split(", ", StringSplitOptions.RemoveEmptyEntries))).FontSize(8);
             }
 
             // ── Замечания ──

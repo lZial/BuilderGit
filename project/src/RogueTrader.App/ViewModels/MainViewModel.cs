@@ -1968,7 +1968,23 @@ public sealed class MainViewModel : ViewModelBase
             AddTrait(f.Trim('«', '»', '"', ' '));
     }
 
-    /// <summary>Все фрагменты в «ёлочках» из строки — так в книге перечислены умения и таланты.</summary>
+    
+    public void AddTrait(string name)
+    {
+        if (string.IsNullOrWhiteSpace(name)) return;
+        var current = Character.Meta.Traits;
+        var parts = string.IsNullOrEmpty(current)
+            ? []
+            : current.Split(", ", StringSplitOptions.RemoveEmptyEntries).ToList();
+        if (!parts.Contains(name))
+        {
+            parts.Add(name);
+            Character.Meta.Traits = string.Join(", ", parts);
+            MarkDirty();
+        }
+    }
+
+/// <summary>Все фрагменты в «ёлочках» из строки — так в книге перечислены умения и таланты.</summary>
     private static IEnumerable<string> Quoted(string? text)
     {
         if (string.IsNullOrWhiteSpace(text)) yield break;
@@ -1990,19 +2006,6 @@ public sealed class MainViewModel : ViewModelBase
         ?? GrantParser.ResolveSkill(_svc.Pack, raw);
 
     private string? ResolveTalentId(string raw) => GrantParser.ResolveTalent(_svc.Pack, raw);
-
-    public void AddTrait(string name)
-    {
-        if (string.IsNullOrWhiteSpace(name)) return;
-        if (!Character.Traits.Contains(name)) Character.Traits.Add(name);
-        MarkDirty();
-    }
-
-    public void RemoveTrait(string name)
-    {
-        Character.Traits.Remove(name);
-        MarkDirty();
-    }
 
     // ── улучшения рангов ──
     public void BuyAdvance(AdvanceRow row)
@@ -2848,8 +2851,7 @@ public static void BuildDemo(MainViewModel vm)
         vm.SelectedDestiny = vm.Svc.Pack.Destiny.FirstOrDefault();
         vm.SelectedAspiration = vm.Svc.Pack.Aspiration.FirstOrDefault();
 
-        ch.Traits.Add("Хромой (левая нога)");
-        ch.Traits.Add("Знаток имперских законов");
+        ch.Meta.Traits = "Хромой (левая нога), Знаток имперских законов";
 
         // Снаряжение: по одному представителю каждой категории.
         // Оружию задаём качество — по книге у оружия оно бывает разным.
@@ -2935,7 +2937,7 @@ public static void BuildDemo(MainViewModel vm)
             e.AdvancePoints = 5;
         }
 
-        ch.Traits.Add("Чуждый Империуму");
+        ch.Meta.Traits = "Чуждый Империуму";
         ch.Wounds = 1;
         ch.FatePoints = 3;
         vm.Refresh();

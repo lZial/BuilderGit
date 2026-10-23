@@ -866,6 +866,9 @@
                 <TextBlock Text="Личность и убеждения" Style="{StaticResource Label}"/>
                 <TextBox Text="{Binding Character.Meta.Personality, UpdateSourceTrigger=PropertyChanged}"
                          AcceptsReturn="True" Height="76" TextWrapping="Wrap"/>
+                <TextBlock Text="Особенности и черты" Style="{StaticResource Label}"/>
+                <TextBox Text="{Binding Character.Meta.Traits, UpdateSourceTrigger=PropertyChanged}"
+                         AcceptsReturn="True" Height="76" TextWrapping="Wrap"/>
               </StackPanel>
             </Border>
 
@@ -911,39 +914,6 @@
                     </DataTemplate>
                   </ItemsControl.ItemTemplate>
                 </ItemsControl>
-              </StackPanel>
-            </Border>
-
-            <!-- Особенности -->
-            <Border Style="{StaticResource Card}">
-              <StackPanel>
-                <TextBlock Text="Особенности и черты" Style="{StaticResource Heading}"/>
-                <ItemsControl ItemsSource="{Binding Character.Traits}">
-                  <ItemsControl.ItemTemplate>
-                    <DataTemplate>
-                      <Border Background="{StaticResource Panel2Brush}" CornerRadius="3"
-                              Padding="10,6" Margin="0,0,0,4">
-                        <Grid>
-                          <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="*"/>
-                            <ColumnDefinition Width="Auto"/>
-                          </Grid.ColumnDefinitions>
-                          <TextBlock Grid.Column="0" Text="{Binding}" TextTrimming="CharacterEllipsis"/>
-                          <Button Grid.Column="1" Content="×" Style="{StaticResource IconButton}"
-                                  Click="OnRemoveTrait" Tag="{Binding}"/>
-                        </Grid>
-                      </Border>
-                    </DataTemplate>
-                  </ItemsControl.ItemTemplate>
-                </ItemsControl>
-                <Grid Margin="0,10,0,0">
-                  <Grid.ColumnDefinitions>
-                    <ColumnDefinition Width="*"/>
-                    <ColumnDefinition Width="Auto"/>
-                  </Grid.ColumnDefinitions>
-                  <TextBox x:Name="NewTraitBox" Grid.Column="0" KeyDown="OnNewTraitKey"/>
-                  <Button Grid.Column="1" Content="Добавить" Margin="8,0,0,0" Click="OnAddTrait"/>
-                </Grid>
               </StackPanel>
             </Border>
 

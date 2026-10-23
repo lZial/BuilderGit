@@ -55,14 +55,6 @@ public static class SmoothScroll
     private const double DurationMs = 200;
 
     /// <summary>
-    /// Наименьший промежуток между кадрами анимации, мс. 45 кадров в секунду:
-    /// каждый кадр — это перерисовка окна целиком, и на слабой видеокарте
-    /// 60 кадров в секунду съедали процессор так, что окно отзывалось с
-    /// задержкой. На глаз 45 кадров неотличимы от 60.
-    /// </summary>
-    private const double MinFrameMs = 1000.0 / 45;
-
-    /// <summary>
     /// Большая доля высоты окна, которую нельзя прокрутить за один щелчок.
     /// Страховка от «перелёта»: даже если система пришлёт огромный Delta,
     /// список не уйдёт с места, которое игрок собирался рассмотреть.
@@ -252,9 +244,13 @@ public static class SmoothScroll
         /// </summary>
         private readonly Stopwatch _clock = new();
 
-        /// <summary>Подписка на кадры отрисовки: один шаг на кадр, не чаще 60 в секунду.</summary>
-        private EventHandler? _onFrame;
-        private double _lastFrameMs;
+        /// <summary>
+        /// Таймер анимации: один шаг на тик (50 кадров в секунду). Детерминированно,
+        /// в отличие от CompositionTarget.Rendering, так что тест плавности
+        /// видит промежуточные позиции надёжно, а окно не отзывается с задержкой
+        /// из-за избыточных кадров.
+        /// </summary>
+        private DispatcherTimer? _timer;
 
         public void Retarget(double from, double to)
         {
@@ -265,10 +261,13 @@ public static class SmoothScroll
         public void Play()
         {
             _clock.Restart();
-            _lastFrameMs = -MinFrameMs;
-            if (_onFrame is not null) return;
-            _onFrame = (_, _) => Frame();
-            CompositionTarget.Rendering += _onFrame;
+            if (_timer is not null) return; // уже анимируем — продолжим от новой точки
+            _timer = new DispatcherTimer(DispatcherPriority.Render, Dispatcher.CurrentDispatcher)
+            {
+                Interval = TimeSpan.FromMilliseconds(20)
+            };
+            _timer.Tick += (_, _) => Frame();
+            _timer.Start();
         }
 
         private void Frame()
@@ -279,12 +278,7 @@ public static class SmoothScroll
                 return;
             }
 
-            // Без вертикальной синхронизации (удалённый рабочий стол) кадры
-            // могут идти чаще экрана — лишние пропускаем.
             var now = _clock.Elapsed.TotalMilliseconds;
-            if (now - _lastFrameMs < MinFrameMs) return;
-            _lastFrameMs = now;
-
             var t = Math.Min(1.0, now / DurationMs);
             // Плавное затухание: чем ближе к концу, тем мельче шаг
             var eased = 1 - Math.Pow(1 - t, 3);
@@ -297,10 +291,10 @@ public static class SmoothScroll
 
         public void Stop()
         {
-            if (_onFrame is not null)
+            if (_timer is not null)
             {
-                CompositionTarget.Rendering -= _onFrame;
-                _onFrame = null;
+                _timer.Stop();
+                _timer = null;
             }
             SmoothScroll.SetState(Owner, null);
         }
