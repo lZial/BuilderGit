@@ -81,12 +81,26 @@ public partial class MainWindow : Window
             scale.ScaleY = _zoom;
         }
 
+        // Округление раскладки включаем только при «ровном» масштабе.
+        // При 110 %, 90 % и т. п. WPF округляет размеры в одном масштабе,
+        // а рисует в другом, и каждый кадр прокрутки списка стоит вдвое
+        // дороже — список начинает дёргаться. Без округления при таких
+        // масштабах прокрутка вдвое дешевле, а разница в резкости незаметна.
+        UseLayoutRounding = IsRoundZoom(_zoom);
+
         ZoomLevelText.Text = $"{Math.Round(_zoom * 100):0}%";
         ZoomOutButton.IsEnabled = _zoom > MinZoom + 0.001;
         ZoomInButton.IsEnabled = _zoom < MaxZoom - 0.001;
 
         if (save) Services.UiSettings.SaveZoom(_zoom);
     }
+
+    /// <summary>
+    /// Масштаб, при котором размеры остаются целыми или половинными:
+    /// 50, 100, 150, 200 %. Остальные шаги дают дробные размеры.
+    /// </summary>
+    private static bool IsRoundZoom(double zoom) =>
+        Math.Abs(zoom * 2 - Math.Round(zoom * 2)) < 0.001;
 
     /// <summary>
     /// Масштаб с клавиатуры: Ctrl+«+», Ctrl+«−», Ctrl+0 — как в браузере.

@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
@@ -44,16 +45,22 @@ public static class SmoothScroll
     private static void OnEnabledChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
     {
         if (d is not ScrollViewer sv) return;
+        GetState(sv)?.Stop();
         SetState(sv, null);
         sv.PreviewMouseWheel -= OnWheel;
         if (e.NewValue is true) sv.PreviewMouseWheel += OnWheel;
     }
 
     /// <summary>Длительность «доводки» до целевой позиции, мс.</summary>
-    private const double DurationMs = 220;
+    private const double DurationMs = 200;
 
-    /// <summary>Такт анимации, мс.</summary>
-    private const double TickMs = 16;
+    /// <summary>
+    /// Наименьший промежуток между кадрами анимации, мс. 45 кадров в секунду:
+    /// каждый кадр — это перерисовка окна целиком, и на слабой видеокарте
+    /// 60 кадров в секунду съедали процессор так, что окно отзывалось с
+    /// задержкой. На глаз 45 кадров неотличимы от 60.
+    /// </summary>
+    private const double MinFrameMs = 1000.0 / 45;
 
     /// <summary>
     /// Большая доля высоты окна, которую нельзя прокрутить за один щелчок.
@@ -105,12 +112,10 @@ public static class SmoothScroll
         if (st is null)
         {
             st = new ScrollState { Owner = sv };
-            st.Timer = new DispatcherTimer(
-                TimeSpan.FromMilliseconds(TickMs), DispatcherPriority.Render, (_, _) => Animate(sv, st), sv.Dispatcher);
             SetState(sv, st);
         }
         st.Retarget(from, target);
-        st.Timer!.Start();
+        st.Play();
     }
 
     /// <summary>
@@ -228,57 +233,76 @@ public static class SmoothScroll
         return -Math.Sign(delta) * step;
     }
 
-    private static void Animate(ScrollViewer sv, ScrollState st)
-    {
-        // Прокрутка исчезла (окно закрылось, список перестроился) — отменяемся
-        if (!sv.IsLoaded || sv.ScrollableHeight <= 0)
-        {
-            st.Stop();
-            return;
-        }
-
-        var t = st.Tick();
-        var to = Clamp(sv, st.To);
-        // Плавное затухание: чем ближе к концу, тем мельче шаг
-        var eased = 1 - Math.Pow(1 - t, 3);
-        sv.ScrollToVerticalOffset(st.From + (to - st.From) * eased);
-
-        if (t >= 1) st.Stop();
-    }
-
     private static double Clamp(ScrollViewer sv, double value) =>
         Math.Max(0, Math.Min(sv.ScrollableHeight, value));
 
     private sealed class ScrollState
     {
         public ScrollViewer Owner = null!;
-        public DispatcherTimer? Timer;
 
         /// <summary>Смещение, с которого началась текущая доводка.</summary>
         public double From;
         /// <summary>Куда доводим.</summary>
         public double To;
 
-        private double _elapsed;
+        /// <summary>
+        /// Часы идут по реальному времени: если кадр задержался (окно занято
+        /// раскладкой), анимация всё равно закончится за отведённое время,
+        /// а не растянется на столько же.
+        /// </summary>
+        private readonly Stopwatch _clock = new();
+
+        /// <summary>Подписка на кадры отрисовки: один шаг на кадр, не чаще 60 в секунду.</summary>
+        private EventHandler? _onFrame;
+        private double _lastFrameMs;
 
         public void Retarget(double from, double to)
         {
             From = from;
             To = to;
-            _elapsed = 0;
         }
 
-        public double Tick()
+        public void Play()
         {
-            _elapsed += TickMs;
-            return Math.Min(1.0, _elapsed / DurationMs);
+            _clock.Restart();
+            _lastFrameMs = -MinFrameMs;
+            if (_onFrame is not null) return;
+            _onFrame = (_, _) => Frame();
+            CompositionTarget.Rendering += _onFrame;
+        }
+
+        private void Frame()
+        {
+            if (!Owner.IsLoaded || Owner.ScrollableHeight <= 0)
+            {
+                Stop();
+                return;
+            }
+
+            // Без вертикальной синхронизации (удалённый рабочий стол) кадры
+            // могут идти чаще экрана — лишние пропускаем.
+            var now = _clock.Elapsed.TotalMilliseconds;
+            if (now - _lastFrameMs < MinFrameMs) return;
+            _lastFrameMs = now;
+
+            var t = Math.Min(1.0, now / DurationMs);
+            // Плавное затухание: чем ближе к концу, тем мельче шаг
+            var eased = 1 - Math.Pow(1 - t, 3);
+            var to = Clamp(Owner, To);
+            var value = From + (to - From) * eased;
+            if (Math.Abs(Owner.VerticalOffset - value) >= 0.5) Owner.ScrollToVerticalOffset(value);
+
+            if (t >= 1) Stop();
         }
 
         public void Stop()
         {
-            Timer?.Stop();
-            Timer = null;
-            if (Owner is not null) SmoothScroll.SetState(Owner, null);
+            if (_onFrame is not null)
+            {
+                CompositionTarget.Rendering -= _onFrame;
+                _onFrame = null;
+            }
+            SmoothScroll.SetState(Owner, null);
         }
     }
 }
