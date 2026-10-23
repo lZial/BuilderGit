@@ -159,13 +159,14 @@ public partial class MainWindow : Window
     /// Прокручивает лист к разделу с указанным заголовком.
     ///
     /// Лист длинный (двадцать блоков), и без подсказки приходилось прокручивать
-    /// его целиком. Метка раздела ищется в дереве страницы — так не приходится
-    /// переименовывать блоки при правках разметки.
+    /// его целиком. Кнопки навигации ссылаются на x:Name заголовков разделов —
+    /// так переход точный, без поиска по тексту (где могут быть дубликаты, например
+    /// «Уровень дохода» есть и в шапке окна, и в разделе дохода).
     /// </summary>
     private void OnJumpToSection(object sender, RoutedEventArgs e)
     {
-        if (sender is not FrameworkElement { Tag: string title }) return;
-        if (FindTextBlock(this, title) is not FrameworkElement target) return;
+        if (sender is not FrameworkElement { Tag: string sectionName }) return;
+        if (FindName(sectionName) is not FrameworkElement target) return;
         target.BringIntoView();
     }
 

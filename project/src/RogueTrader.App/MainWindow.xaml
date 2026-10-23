@@ -272,21 +272,21 @@
                  приходится прокручивать его целиком. -->
             <WrapPanel Margin="0,0,0,10">
               <Button Content="Профессия" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Род занятий и ранг"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionProfession"/>
               <Button Content="Характеристики" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Характеристики"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionCharacteristics"/>
               <Button Content="Доход" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Уровень дохода"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionIncome"/>
               <Button Content="Корабль" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Очки корабля"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionShip"/>
               <Button Content="Раны и судьба" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Порог ранений"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionWounds"/>
               <Button Content="Психика" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Пси-рейтинг"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionPsyRating"/>
               <Button Content="Размер" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="Размер персонажа"/>
+                      Margin="0,0,6,0" Click="OnJumpToSection" Tag="SectionSize"/>
               <Button Content="Внешность" Style="{StaticResource GhostButton}" Padding="10,3"
-                      Click="OnJumpToSection" Tag="Внешность"/>
+                      Click="OnJumpToSection" Tag="SectionAppearance"/>
             </WrapPanel>
 
             <!-- Профессия и опыт -->
@@ -297,7 +297,7 @@
                     <ColumnDefinition Width="*"/>
                     <ColumnDefinition Width="Auto"/>
                   </Grid.ColumnDefinitions>
-                  <TextBlock Grid.Column="0" Text="Род занятий и ранг" Style="{StaticResource Heading}" Margin="0"/>
+                  <TextBlock Grid.Column="0" x:Name="SectionProfession" Text="Род занятий и ранг" Style="{StaticResource Heading}" Margin="0"/>
                   <Button Grid.Column="1" Content="Перебросить характеристики"
                           Style="{StaticResource GhostButton}" Click="OnRollCharacteristics"/>
                 </Grid>
@@ -409,7 +409,7 @@
             <!-- Характеристики: как колонки «листа персонажа» -->
             <Border Style="{StaticResource Card}">
               <StackPanel>
-                <TextBlock Text="Характеристики" Style="{StaticResource Heading}"/>
+                <TextBlock x:Name="SectionCharacteristics" Text="Характеристики" Style="{StaticResource Heading}"/>
                 <TextBlock Style="{StaticResource Faint}" Margin="0,-6,0,10"
                            Text="Итог = База + Улучш. + Прочее + Правки. Оплачивается опытом только колонка «Улучш.» — по таблице рода занятий, максимум +20."/>
 
@@ -584,7 +584,7 @@
 
                 <UniformGrid Columns="4">
                   <StackPanel Margin="0,0,10,0">
-                    <TextBlock Text="Уровень дохода" Style="{StaticResource Label}"/>
+                    <TextBlock x:Name="SectionIncome" Text="Уровень дохода" Style="{StaticResource Label}"/>
                     <TextBox Text="{Binding Stats.IncomeLevel, Mode=OneWay}" IsReadOnly="True"
                              FontSize="17" FontWeight="SemiBold"/>
                     <TextBlock Style="{StaticResource Faint}" Text="опыт влияния и покупок"/>
@@ -602,7 +602,7 @@
                     <TextBlock Style="{StaticResource Faint}" Text="награды, авантюры"/>
                   </StackPanel>
                   <StackPanel>
-                    <TextBlock Text="Очки корабля" Style="{StaticResource Label}"/>
+                    <TextBlock x:Name="SectionShip" Text="Очки корабля" Style="{StaticResource Label}"/>
                     <TextBox Text="{Binding Character.ShipPoints, Mode=TwoWay, UpdateSourceTrigger=LostFocus}"
                              FontSize="17" FontWeight="SemiBold"/>
                     <TextBlock Style="{StaticResource Faint}" Text="{Binding Stats.ShipPointsFromRoll, StringFormat='из таблицы: {0}'}"/>
@@ -632,7 +632,7 @@
               <StackPanel>
                 <UniformGrid Columns="3">
                   <StackPanel Margin="0,0,10,8">
-                    <TextBlock Text="Порог ранений" Style="{StaticResource Label}"/>
+                    <TextBlock x:Name="SectionWounds" Text="Порог ранений" Style="{StaticResource Label}"/>
                     <TextBox Text="{Binding Stats.WoundThreshold, Mode=OneWay, StringFormat={}{0}}"
                              IsReadOnly="True" FontSize="17" FontWeight="SemiBold"/>
                     <TextBlock Style="{StaticResource Faint}" Text="2 × бонус Вын."/>
@@ -662,7 +662,7 @@
                              ToolTip="Очки порчи (ОП) растут от Варпа и запретного знания. 100 очков — осквернённый до мозга костей еретик."/>
                   </StackPanel>
                   <StackPanel>
-                    <TextBlock Text="Пси-рейтинг" Style="{StaticResource Label}"/>
+                    <TextBlock x:Name="SectionPsyRating" Text="Пси-рейтинг" Style="{StaticResource Label}"/>
                     <TextBox Text="{Binding Character.PsyRating, UpdateSourceTrigger=LostFocus}"
                              ToolTip="Пси-рейтинг (0–9): от него зависят психические таланты и способности."/>
                   </StackPanel>
@@ -774,7 +774,7 @@
                 <TextBlock Text="Вид" Style="{StaticResource Heading}"/>
                 <UniformGrid Columns="2" Margin="0,0,0,12">
                   <StackPanel Margin="0,0,10,0">
-                    <TextBlock Text="Размер персонажа" Style="{StaticResource Label}"/>
+                    <TextBlock x:Name="SectionSize" Text="Размер персонажа" Style="{StaticResource Label}"/>
                     <ComboBox ItemsSource="{Binding SizeChoices}" DisplayMemberPath="Label"
                               SelectedValuePath="Value"
                               SelectedValue="{Binding SelectedSize, Mode=TwoWay}"/>
@@ -845,7 +845,7 @@
                 <TextBlock Text="Описание" Style="{StaticResource Heading}"/>
                 <UniformGrid Columns="2" Margin="0,0,0,12">
                   <StackPanel Margin="0,0,10,0">
-                    <TextBlock Text="Внешность" Style="{StaticResource Label}"/>
+                    <TextBlock x:Name="SectionAppearance" Text="Внешность" Style="{StaticResource Label}"/>
                     <TextBox Text="{Binding Character.Meta.Build, UpdateSourceTrigger=PropertyChanged}"/>
                   </StackPanel>
                   <StackPanel>
