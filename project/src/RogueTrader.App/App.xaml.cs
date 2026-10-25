@@ -297,7 +297,7 @@ public partial class App : Application
         win.Show();
     }
 
-    /// <summary>Переключает вкладку из командной строки: --tab=2 (Лист=0, Улучшения=1, …).</summary>
+    /// <summary>Переключает вкладку из командной строки: --tab=2 (Лист=0, Инфопланшет=1, Умения=2, …).</summary>
     private static void SelectTab(MainWindow win, string[] args)
     {
         var a = args.FirstOrDefault(x => x.StartsWith("--tab=", StringComparison.OrdinalIgnoreCase));

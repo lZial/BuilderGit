@@ -53,6 +53,14 @@ public sealed class CharacterMeta : INotifyPropertyChanged
     public string Birthright { get => _birthright; set => Set(ref _birthright, value); }
     public string Quote { get => _quote; set => Set(ref _quote, value); }
     public string Traits { get => _traits; set => Set(ref _traits, value); }
+
+    /// <summary>
+    /// Отчёт ведущего: длинные записи о ходе игры — подробности сюжета,
+    /// решения группы, обещанные награды. Пишется по ходу сессии и хранится
+    /// вместе с персонажем.
+    /// </summary>
+    public string Report { get => _report; set => Set(ref _report, value); }
+    private string _report = "";
     public DateTime CreatedUtc { get; set; } = DateTime.UtcNow;
     public DateTime ModifiedUtc { get; set; } = DateTime.UtcNow;
     public string AppVersion { get; set; } = "";
@@ -190,8 +198,17 @@ public sealed class AppliedAdvance
     public string? Specialization { get; set; }
 }
 
-public sealed class Character
+/// <summary>
+/// Персонаж. Реализует уведомление об изменениях, чтобы правка
+/// характеристик, ранений и т. п. сразу пересчитывала производные показатели.
+/// </summary>
+public sealed class Character : INotifyPropertyChanged
 {
+    public event PropertyChangedEventHandler? PropertyChanged;
+
+    private void OnPropertyChanged([CallerMemberName] string? name = null) =>
+        PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(name));
+
     public string SchemaVersion { get; set; } = "2.0";
     public CharacterMeta Meta { get; set; } = new();
 
@@ -300,7 +317,24 @@ public sealed class Character
     public int PathFateRoll { get; set; }
 
     // ── Боевое состояние ──
-    public int Wounds { get; set; }
+    private int _wounds;
+
+    /// <summary>
+    /// Текущие раны. Правятся прямо в листе, поэтому свойство поднимает
+    /// уведомление: без него «Осталось ранений» в шапке считалось бы по
+    /// старому значению и подсчёт не срабатывал.
+    /// </summary>
+    public int Wounds
+    {
+        get => _wounds;
+        set
+        {
+            if (_wounds == value) return;
+            _wounds = value;
+            OnPropertyChanged();
+        }
+    }
+
     public int FatePoints { get; set; } = 3;
     /// <summary>Размер: 3=Небольшой, 4=Средний, 5=Крупный, 6=Огромный.</summary>
     public int Size { get; set; } = 4;

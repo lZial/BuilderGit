@@ -167,7 +167,36 @@ public partial class MainWindow : Window
     {
         if (sender is not FrameworkElement { Tag: string sectionName }) return;
         if (FindName(sectionName) is not FrameworkElement target) return;
+
+        // Раздел может лежать на соседней вкладке («Описание» переехало в
+        // «Инфопланшет» → «Личное дело»): такой элемент ещё не в дереве
+        // визуалов окна, и BringIntoView молча ничего не делает. Сначала
+        // открываем вкладку, скроллим — после раскладки, через диспетчер.
+        if (FindOwnerTab(target) is { } tab && !ReferenceEquals(tab, Tabs.SelectedItem))
+        {
+            Tabs.SelectedItem = tab;
+            Dispatcher.BeginInvoke(System.Windows.Threading.DispatcherPriority.Loaded,
+                new Action(() => target.BringIntoView()));
+            return;
+        }
         target.BringIntoView();
+    }
+
+    /// <summary>
+    /// Вкладка, которой принадлежит элемент: поднимается по дереву, пока не
+    /// встретится TabItem. Идём по логическому дереву, а не по визуальному:
+    /// содержимое невыбранной вкладки из визуального дерева окна убрано,
+    /// но логические связи между элементом и TabItem сохраняются.
+    /// </summary>
+    private static TabItem? FindOwnerTab(DependencyObject? node)
+    {
+        for (var cur = node; cur is not null;)
+        {
+            if (cur is TabItem tab) return tab;
+            cur = LogicalTreeHelper.GetParent(cur)
+                  ?? (cur is Visual visual ? VisualTreeHelper.GetParent(visual) : null);
+        }
+        return null;
     }
 
     /// <summary>Ищет в дереве элемент с заданным текстом.</summary>

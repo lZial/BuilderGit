@@ -176,15 +176,15 @@
               </TextBlock.Style>
             </TextBlock>
           </StackPanel>
-          <Button Style="{StaticResource GhostButton}" Command="{Binding RollIncomeCommand}"
-                  VerticalAlignment="Center" Padding="12,4" Cursor="Hand"
-                  ToolTip="{Binding IncomeHint}">
+          <!-- Плашка ненажимаема: бросок делается в разделе «Лист» → «Уровень
+               дохода и корабль», отсюда только подпись текущего значения. -->
+          <Border VerticalAlignment="Center" Padding="12,4" ToolTip="{Binding IncomeHint}">
             <StackPanel>
               <TextBlock Text="Уровень дохода" Style="{StaticResource Faint}" HorizontalAlignment="Center"/>
               <TextBlock Text="{Binding IncomeLevelText, Mode=OneWay}" FontSize="18" FontWeight="Bold"
                          HorizontalAlignment="Center"/>
             </StackPanel>
-          </Button>
+          </Border>
         </StackPanel>
 
         <!-- Действия: занимают остаток шапки и переносятся, а не вылезают за край -->
@@ -839,38 +839,7 @@
               </StackPanel>
             </Border>
 
-            <!-- Описание -->
-            <Border Style="{StaticResource Card}">
-              <StackPanel>
-                <TextBlock Text="Описание" Style="{StaticResource Heading}"/>
-                <UniformGrid Columns="2" Margin="0,0,0,12">
-                  <StackPanel Margin="0,0,10,0">
-                    <TextBlock x:Name="SectionAppearance" Text="Внешность" Style="{StaticResource Label}"/>
-                    <TextBox Text="{Binding Character.Meta.Build, UpdateSourceTrigger=PropertyChanged}"/>
-                  </StackPanel>
-                  <StackPanel>
-                    <TextBlock Text="Глаза / Волосы" Style="{StaticResource Label}"/>
-                    <TextBox Text="{Binding Character.Meta.Eyes, UpdateSourceTrigger=PropertyChanged}"/>
-                  </StackPanel>
-                </UniformGrid>
-                <UniformGrid Columns="2" Margin="0,0,0,12">
-                  <StackPanel Margin="0,0,10,0">
-                    <TextBlock Text="Приметная черта" Style="{StaticResource Label}"/>
-                    <TextBox Text="{Binding Character.Meta.DistinguishingMark, UpdateSourceTrigger=PropertyChanged}"/>
-                  </StackPanel>
-                  <StackPanel>
-                    <TextBlock Text="Возраст / Пол" Style="{StaticResource Label}"/>
-                    <TextBox Text="{Binding Character.Meta.Age, UpdateSourceTrigger=PropertyChanged}"/>
-                  </StackPanel>
-                </UniformGrid>
-                <TextBlock Text="Личность и убеждения" Style="{StaticResource Label}"/>
-                <TextBox Text="{Binding Character.Meta.Personality, UpdateSourceTrigger=PropertyChanged}"
-                         AcceptsReturn="True" Height="76" TextWrapping="Wrap"/>
-                <TextBlock Text="Особенности и черты" Style="{StaticResource Label}"/>
-                <TextBox Text="{Binding Character.Meta.Traits, UpdateSourceTrigger=PropertyChanged}"
-                         AcceptsReturn="True" Height="76" TextWrapping="Wrap"/>
-              </StackPanel>
-            </Border>
+            <!-- Описание переехало на вкладку «Инфопланшет» → «Личное дело». -->
 
             <!-- Предупреждения -->
             <Border Style="{StaticResource Card}" Visibility="{Binding Warnings, Converter={StaticResource HasCount}}">
@@ -914,6 +883,66 @@
                     </DataTemplate>
                   </ItemsControl.ItemTemplate>
                 </ItemsControl>
+              </StackPanel>
+            </Border>
+
+          </StackPanel>
+        </ScrollViewer>
+      </TabItem>
+
+      <!-- ─────────── Инфопланшет ─────────── -->
+      <!--
+        Внутриигровые записи. «Личное дело» — то, что раньше жило в «Описании»
+        на самом листе; «Отчёт» — свободный журнал ведущего по ходу сессии.
+      -->
+      <TabItem Header="Инфопланшет">
+        <ScrollViewer Style="{StaticResource Scroll}" Padding="0,0,6,0">
+          <StackPanel>
+
+            <!-- Личное дело: всё внутриигровое описание персонажа -->
+            <Border Style="{StaticResource Card}">
+              <StackPanel>
+                <TextBlock Text="Личное дело" Style="{StaticResource Heading}"/>
+                <UniformGrid Columns="2" Margin="0,0,0,12">
+                  <StackPanel Margin="0,0,10,0">
+                    <TextBlock x:Name="SectionAppearance" Text="Внешность" Style="{StaticResource Label}"/>
+                    <TextBox Text="{Binding Character.Meta.Build, UpdateSourceTrigger=PropertyChanged}"/>
+                  </StackPanel>
+                  <StackPanel>
+                    <TextBlock Text="Глаза / Волосы" Style="{StaticResource Label}"/>
+                    <TextBox Text="{Binding Character.Meta.Eyes, UpdateSourceTrigger=PropertyChanged}"/>
+                  </StackPanel>
+                </UniformGrid>
+                <UniformGrid Columns="2" Margin="0,0,0,12">
+                  <StackPanel Margin="0,0,10,0">
+                    <TextBlock Text="Приметная черта" Style="{StaticResource Label}"/>
+                    <TextBox Text="{Binding Character.Meta.DistinguishingMark, UpdateSourceTrigger=PropertyChanged}"/>
+                  </StackPanel>
+                  <StackPanel>
+                    <TextBlock Text="Возраст / Пол" Style="{StaticResource Label}"/>
+                    <TextBox Text="{Binding Character.Meta.Age, UpdateSourceTrigger=PropertyChanged}"/>
+                  </StackPanel>
+                </UniformGrid>
+                <TextBlock Text="Личность и убеждения" Style="{StaticResource Label}"/>
+                <TextBox Text="{Binding Character.Meta.Personality, UpdateSourceTrigger=PropertyChanged}"
+                         AcceptsReturn="True" Height="76" TextWrapping="Wrap"/>
+                <TextBlock Text="Особенности и черты" Style="{StaticResource Label}"/>
+                <TextBox Text="{Binding Character.Meta.Traits, UpdateSourceTrigger=PropertyChanged}"
+                         AcceptsReturn="True" Height="76" TextWrapping="Wrap"/>
+              </StackPanel>
+            </Border>
+
+            <!-- Отчёт: большой журнал для записей по ходу игры -->
+            <Border Style="{StaticResource Card}">
+              <StackPanel>
+                <TextBlock Text="Отчёт" Style="{StaticResource Heading}"/>
+                <TextBlock Style="{StaticResource Faint}" FontSize="11.5" Margin="0,4,0,8"
+                           TextWrapping="Wrap"
+                           Text="Записи по ходу игры: подробности сюжета, решения группы, обещанные награды и всё, что пригодится вспомнить на следующей сессии. Сохраняется вместе с персонажем."/>
+                <TextBox Text="{Binding Character.Meta.Report, UpdateSourceTrigger=PropertyChanged}"
+                         AcceptsReturn="True" TextWrapping="Wrap" MinHeight="400"
+                         VerticalScrollBarVisibility="Auto" VerticalContentAlignment="Top"
+                         FontSize="13"/>
               </StackPanel>
             </Border>
 

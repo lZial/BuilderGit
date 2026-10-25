@@ -26,7 +26,11 @@ public sealed class MainViewModel : ViewModelBase
         get => _ch;
         set
         {
+            // Подписка переносится на новый объект: иначе правка «Ран сейчас»
+            // после загрузки файла не пересчитывала бы производные показатели.
+            _ch.PropertyChanged -= OnCharacterPropertyChanged;
             _ch = value;
+            _ch.PropertyChanged += OnCharacterPropertyChanged;
             // Модель сменилась (загрузка файла или «Новый»): все привязки вида
             // Character.* должны перечитать новый объект, а закешированные
             // выборы — сброситься, чтобы не остались от прежнего персонажа.
@@ -992,6 +996,21 @@ public sealed class MainViewModel : ViewModelBase
     }
 
     // ═════════════ Пересчёт и заполнение UI ═════════════
+
+    /// <summary>
+    /// Правка «Ран сейчас» уходит прямо в модель, и без пересчёта «Осталось
+    /// ранений» в шапке оставалось бы пороговое значение — подсчёт молча не
+    /// срабатывал. Флаг от реентерности: Refresh() меняет поля персонажа.
+    /// </summary>
+    private bool _refreshing;
+
+    private void OnCharacterPropertyChanged(object? sender, PropertyChangedEventArgs e)
+    {
+        if (e.PropertyName != nameof(Character.Wounds) || _refreshing) return;
+        _refreshing = true;
+        try { Refresh(); MarkDirty(); }
+        finally { _refreshing = false; }
+    }
 
     public void Refresh()
     {

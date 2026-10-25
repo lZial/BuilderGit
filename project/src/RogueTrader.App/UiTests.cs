@@ -74,6 +74,12 @@ internal static class UiTests
             Step("Психические приёмы");
             CheckPsy(win);
 
+            Step("Инфопланшет");
+            CheckInfoTab(win);
+
+            Step("Ранения");
+            CheckWounds(win);
+
             Step("Исключения");
             Try("в обработчиках интерфейса ошибок нет", () =>
             {
@@ -256,6 +262,74 @@ internal static class UiTests
         });
     }
 
+    /// <summary>Вкладка «Инфопланшет»: личное дело и большой отчёт.</summary>
+    private static void CheckInfoTab(MainWindow win)
+    {
+        Try("инфопланшет стоит сразу после листа", () =>
+        {
+            var headers = win.Tabs.Items.OfType<TabItem>().Select(t => t.Header as string).ToList();
+            var idx = headers.IndexOf("Инфопланшет");
+            if (idx < 0) { Bad("вкладки «Инфопланшет» нет"); return; }
+            if (idx != 1) { Bad($"«Инфопланшет» под номером {idx}, а должна идти сразу после «Листа»"); return; }
+            Ok("вкладка «Инфопланшет» — сразу после «Листа»");
+        });
+
+        if (win.Tabs.Items.OfType<TabItem>().FirstOrDefault(t => t.Header as string == "Инфопланшет") is { } tab)
+        {
+            win.Tabs.SelectedItem = tab;
+            Pump();
+        }
+
+        Try("личное дело и отчёт на инфопланшете", () =>
+        {
+            var texts = FindAll<TextBlock>(win).Select(t => t.Text).ToHashSet();
+            if (!texts.Contains("Личное дело")) { Bad("нет плашки «Личное дело»"); return; }
+            if (!texts.Contains("Отчёт")) { Bad("нет плашки «Отчёт»"); return; }
+            if (FindFirst<TextBox>(win) is null) { Bad("на вкладке нет текстовых полей"); return; }
+            Ok("плашки «Личное дело» и «Отчёт» на месте");
+        });
+    }
+
+    /// <summary>Правка «Ран сейчас» сразу пересчитывает «Осталось ранений».</summary>
+    private static void CheckWounds(MainWindow win)
+    {
+        var vm = win.DataContext as ViewModels.MainViewModel;
+        Try("осталось ранений считается от текущих ран", () =>
+        {
+            if (vm is null) { Bad("нет модели представления"); return; }
+
+            vm.Refresh();
+            var saved = vm.Character.Wounds;
+            var threshold = vm.Stats.WoundThreshold;
+            if (threshold <= 0) { Bad($"порог ранений = {threshold} — проверка невозможна"); return; }
+
+            vm.Character.Wounds = threshold;
+            if (vm.Stats.WoundsLeft != 0)
+            {
+                Bad($"ран {threshold} при пороге {threshold}, а «осталось» = {vm.Stats.WoundsLeft}");
+                vm.Character.Wounds = saved;
+                return;
+            }
+
+            vm.Character.Wounds = 0;
+            if (vm.Stats.WoundsLeft != threshold)
+            {
+                Bad($"без ран «осталось» = {vm.Stats.WoundsLeft}, ожидалось {threshold}");
+                vm.Character.Wounds = saved;
+                return;
+            }
+
+            vm.Character.Wounds = saved;
+            if (vm.Stats.WoundsLeft != Math.Max(0, threshold - saved))
+            {
+                Bad($"возврат к {saved} ранам: «осталось» = {vm.Stats.WoundsLeft}");
+                return;
+            }
+
+            Ok($"порог {threshold}: 0 ран → осталось {threshold}, {threshold} ран → осталось 0");
+        });
+    }
+
     /// <summary>Кнопки перехода к разделам листа работают.</summary>
     private static void CheckJumps(MainWindow win)
     {
@@ -291,7 +365,10 @@ internal static class UiTests
     /// <summary>Свойства приёма — книжные, без «древа приёмов».</summary>
     private static void CheckPsy(MainWindow win)
     {
-        win.Tabs.SelectedIndex = 6; // «Психика»
+        // Вкладку выбираем по заголовку: порядок вкладок меняется
+        // (между «Листом» и «Умениями» появился «Инфопланшет»).
+        if (win.Tabs.Items.OfType<TabItem>().FirstOrDefault(t => t.Header as string == "Психика") is { } psyTab)
+            win.Tabs.SelectedItem = psyTab;
         Pump();
         var vm = win.DataContext as ViewModels.MainViewModel;
         Try("свойства приёма — как в книге", () =>
